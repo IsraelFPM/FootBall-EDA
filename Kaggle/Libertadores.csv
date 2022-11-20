@@ -1,0 +1,1254 @@
+;datetime;home_team;away_team;home_goal;away_goal;season;stage
+0;2013-02-12 20:15:00;Nacional (URU);Barcelona-EQU;2;2;2013;group stage
+1;2013-02-13 22:00:00;Boca Juniors;Toluca;1;2;2013;group stage
+2;2013-02-19 23:45:00;Toluca;Nacional (URU);2;3;2013;group stage
+3;2013-02-27 19:45:00;Barcelona-EQU;Boca Juniors;1;2;2013;group stage
+4;2013-03-07 00:15:00;Toluca;Barcelona-EQU;1;1;2013;group stage
+5;2013-03-07 21:30:00;Boca Juniors;Nacional (URU);0;1;2013;group stage
+6;2013-03-13 19:45:00;Barcelona-EQU;Toluca;0;0;2013;group stage
+7;2013-03-14 19:15:00;Nacional (URU);Boca Juniors;0;1;2013;group stage
+8;2013-04-03 19:45:00;Boca Juniors;Barcelona-EQU;1;0;2013;group stage
+9;2013-04-04 19:15:00;Nacional (URU);Toluca;4;0;2013;group stage
+10;2013-04-17 19:45:00;Barcelona-EQU;Nacional (URU);1;0;2013;group stage
+11;2013-04-17 19:45:00;Toluca;Boca Juniors;3;2;2013;group stage
+12;2013-02-14 22:00:00;Palmeiras;Sporting Cristal;2;1;2013;group stage
+13;2013-02-21 21:30:00;Tigre;Libertad;0;2;2013;group stage
+14;2013-02-28 17:00:00;Sporting Cristal;Tigre;2;0;2013;group stage
+15;2013-02-28 19:15:00;Libertad;Palmeiras;2;0;2013;group stage
+16;2013-03-06 19:45:00;Libertad;Sporting Cristal;2;2;2013;group stage
+17;2013-03-06 19:45:00;Tigre;Palmeiras;1;0;2013;group stage
+18;2013-03-12 19:15:00;Sporting Cristal;Libertad;1;1;2013;group stage
+19;2013-04-02 21:30:00;Palmeiras;Tigre;2;0;2013;group stage
+20;2013-04-09 21:30:00;Tigre;Sporting Cristal;3;1;2013;group stage
+21;2013-04-11 19:15:00;Palmeiras;Libertad;1;0;2013;group stage
+22;2013-04-18 19:45:00;Libertad;Tigre;3;5;2013;group stage
+23;2013-04-18 19:45:00;Sporting Cristal;Palmeiras;1;0;2013;group stage
+24;2013-02-13 22:00:00;Atlético-MG;São Paulo;2;1;2013;group stage
+25;2013-02-14 22:00:00;The Strongest;Arsenal Sarandí;2;1;2013;group stage
+26;2013-02-26 21:45:00;Arsenal Sarandí;Atlético-MG;2;5;2013;group stage
+27;2013-02-28 21:30:00;São Paulo;The Strongest;2;1;2013;group stage
+28;2013-03-07 19:15:00;São Paulo;Arsenal Sarandí;1;1;2013;group stage
+29;2013-03-07 21:30:00;Atlético-MG;The Strongest;2;1;2013;group stage
+30;2013-03-13 22:00:00;The Strongest;Atlético-MG;1;2;2013;group stage
+31;2013-03-14 21:30:00;Arsenal Sarandí;São Paulo;2;1;2013;group stage
+32;2013-04-03 22:00:00;Atlético-MG;Arsenal Sarandí;5;2;2013;group stage
+33;2013-04-04 21:30:00;The Strongest;São Paulo;2;1;2013;group stage
+34;2013-04-17 22:00:00;Arsenal Sarandí;The Strongest;2;1;2013;group stage
+35;2013-04-17 22:00:00;São Paulo;Atlético-MG;2;0;2013;group stage
+36;2013-02-12 22:30:00;Emelec;Vélez Sarsfield;1;0;2013;group stage
+37;2013-02-13 19:30:00;Deportes Iquique;Peñarol;1;2;2013;group stage
+38;2013-02-19 19:15:00;Peñarol;Emelec;1;0;2013;group stage
+39;2013-02-20 19:45:00;Vélez Sarsfield;Deportes Iquique;3;0;2013;group stage
+40;2013-02-26 19:30:00;Peñarol;Vélez Sarsfield;0;1;2013;group stage
+41;2013-02-27 19:45:00;Deportes Iquique;Emelec;2;0;2013;group stage
+42;2013-03-05 23:45:00;Emelec;Deportes Iquique;2;1;2013;group stage
+43;2013-03-12 19:15:00;Vélez Sarsfield;Peñarol;3;1;2013;group stage
+44;2013-04-02 19:15:00;Deportes Iquique;Vélez Sarsfield;1;3;2013;group stage
+45;2013-04-02 23:45:00;Emelec;Peñarol;2;0;2013;group stage
+46;2013-04-09 19:15:00;Peñarol;Deportes Iquique;3;0;2013;group stage
+47;2013-04-09 19:15:00;Vélez Sarsfield;Emelec;0;0;2013;group stage
+48;2013-02-19 21:30:00;Millonarios;Tijuana;0;1;2013;group stage
+49;2013-02-20 22:00:00;San José;Corinthians;1;1;2013;group stage
+50;2013-02-27 00:15:00;Tijuana;San José;4;0;2013;group stage
+51;2013-02-27 22:00:00;Corinthians;Millonarios;2;0;2013;group stage
+52;2013-03-05 21:30:00;Millonarios;San José;2;1;2013;group stage
+53;2013-03-06 22:00:00;Tijuana;Corinthians;1;0;2013;group stage
+54;2013-03-13 22:00:00;Corinthians;Tijuana;3;0;2013;group stage
+55;2013-03-14 21:30:00;San José;Millonarios;2;0;2013;group stage
+56;2013-04-03 19:45:00;San José;Tijuana;1;1;2013;group stage
+57;2013-04-03 22:00:00;Millonarios;Corinthians;0;1;2013;group stage
+58;2013-04-10 22:00:00;Corinthians;San José;3;0;2013;group stage
+59;2013-04-10 22:00:00;Tijuana;Millonarios;1;0;2013;group stage
+60;2013-02-14 00:15:00;Real Atlético;Ind. Santa Fe;1;1;2013;group stage
+61;2013-02-15 00:15:00;Deportes Tolima;Cerro Porteño;2;1;2013;group stage
+62;2013-02-21 19:15:00;Cerro Porteño;Real Atlético;0;1;2013;group stage
+63;2013-02-21 21:30:00;Ind. Santa Fe;Deportes Tolima;1;1;2013;group stage
+64;2013-02-26 21:45:00;Deportes Tolima;Real Atlético;0;1;2013;group stage
+65;2013-03-07 19:15:00;Cerro Porteño;Ind. Santa Fe;1;2;2013;group stage
+66;2013-04-02 19:15:00;Real Atlético;Deportes Tolima;0;3;2013;group stage
+67;2013-04-02 21:30:00;Ind. Santa Fe;Cerro Porteño;1;0;2013;group stage
+68;2013-04-09 21:30:00;Deportes Tolima;Ind. Santa Fe;1;2;2013;group stage
+69;2013-04-10 19:45:00;Real Atlético;Cerro Porteño;5;1;2013;group stage
+70;2013-04-16 21:15:00;Cerro Porteño;Deportes Tolima;0;0;2013;group stage
+71;2013-04-16 21:15:00;Ind. Santa Fe;Real Atlético;2;0;2013;group stage
+72;2013-02-12 22:30:00;Universidad de Chile;Deportivo Lara;2;0;2013;group stage
+73;2013-02-14 19:45:00;Newells Old Boys;Olimpia-PAR;3;1;2013;group stage
+74;2013-02-19 21:30:00;Olimpia-PAR;Universidad de Chile;3;0;2013;group stage
+75;2013-02-21 19:15:00;Deportivo Lara;Newells Old Boys;2;1;2013;group stage
+76;2013-03-05 19:15:00;Olimpia-PAR;Deportivo Lara;2;2;2013;group stage
+77;2013-03-05 19:15:00;Newells Old Boys;Universidad de Chile;1;2;2013;group stage
+78;2013-03-12 21:30:00;Universidad de Chile;Newells Old Boys;0;2;2013;group stage
+79;2013-03-13 19:45:00;Deportivo Lara;Olimpia-PAR;1;5;2013;group stage
+80;2013-04-04 19:15:00;Newells Old Boys;Deportivo Lara;3;1;2013;group stage
+81;2013-04-04 21:30:00;Universidad de Chile;Olimpia-PAR;0;1;2013;group stage
+82;2013-04-11 21:30:00;Deportivo Lara;Universidad de Chile;2;3;2013;group stage
+83;2013-04-11 21:30:00;Olimpia-PAR;Newells Old Boys;4;1;2013;group stage
+84;2013-02-13 22:00:00;Caracas;Fluminense;0;1;2013;group stage
+85;2013-02-14 19:45:00;Grêmio;Huachipato;1;2;2013;group stage
+86;2013-02-20 19:45:00;Huachipato;Caracas;1;3;2013;group stage
+87;2013-02-20 22:00:00;Fluminense;Grêmio;0;3;2013;group stage
+88;2013-02-27 22:00:00;Huachipato;Fluminense;1;2;2013;group stage
+89;2013-03-05 21:30:00;Grêmio;Caracas;4;1;2013;group stage
+90;2013-03-06 22:00:00;Fluminense;Huachipato;1;1;2013;group stage
+91;2013-03-12 21:30:00;Caracas;Grêmio;2;1;2013;group stage
+92;2013-04-03 19:45:00;Caracas;Huachipato;0;4;2013;group stage
+93;2013-04-10 22:00:00;Grêmio;Fluminense;0;0;2013;group stage
+94;2013-04-18 22:00:00;Huachipato;Grêmio;1;1;2013;group stage
+95;2013-04-18 22:00:00;Fluminense;Caracas;1;0;2013;group stage
+96;2013-07-17 21:50:00;Olimpia-PAR;Atlético-MG;2;0;2013;final
+97;2013-07-24 21:50:00;Atlético-MG;Olimpia-PAR;2;0;2013;final
+98;2013-07-03 21:50:00;Newells Old Boys;Atlético-MG;2;0;2013;semifinals
+99;2013-07-10 21:50:00;Atlético-MG;Newells Old Boys;2;0;2013;semifinals
+100;2013-07-02 21:50:00;Olimpia-PAR;Ind. Santa Fe;2;0;2013;semifinals
+101;2013-07-09 21:50:00;Ind. Santa Fe;Olimpia-PAR;1;0;2013;semifinals
+102;2013-05-23 21:30:00;Tijuana;Atlético-MG;2;2;2013;quarterfinals
+103;2013-05-30 22:00:00;Atlético-MG;Tijuana;1;1;2013;quarterfinals
+104;2013-05-23 21:30:00;Boca Juniors;Newells Old Boys;0;0;2013;quarterfinals
+105;2013-05-29 19:30:00;Newells Old Boys;Boca Juniors;0;0;2013;quarterfinals
+106;2013-05-22 19:45:00;Real Atlético;Ind. Santa Fe;1;3;2013;quarterfinals
+107;2013-05-28 22:00:00;Ind. Santa Fe;Real Atlético;2;0;2013;quarterfinals
+108;2013-05-22 22:00:00;Fluminense;Olimpia-PAR;0;0;2013;quarterfinals
+109;2013-05-29 22:00:00;Olimpia-PAR;Fluminense;2;1;2013;quarterfinals
+110;2013-05-02 20:15:00;São Paulo;Atlético-MG;1;2;2013;round of 16
+111;2013-05-08 22:00:00;Atlético-MG;São Paulo;4;1;2013;round of 16
+112;2013-04-30 22:30:00;Tijuana;Palmeiras;0;0;2013;round of 16
+113;2013-05-14 22:00:00;Palmeiras;Tijuana;1;2;2013;round of 16
+114;2013-05-01 21:50:00;Boca Juniors;Corinthians;1;0;2013;round of 16
+115;2013-05-15 22:00:00;Corinthians;Boca Juniors;1;1;2013;round of 16
+116;2013-04-24 21:15:00;Newells Old Boys;Vélez Sarsfield;0;1;2013;round of 16
+117;2013-05-15 19:15:00;Vélez Sarsfield;Newells Old Boys;1;2;2013;round of 16
+118;2013-05-01 19:30:00;Grêmio;Ind. Santa Fe;2;1;2013;round of 16
+119;2013-05-16 22:30:00;Ind. Santa Fe;Grêmio;1;0;2013;round of 16
+120;2013-04-25 22:15:00;Real Atlético;Nacional (URU);1;0;2013;round of 16
+121;2013-05-09 21:15:00;Nacional (URU);Real Atlético;1;0;2013;round of 16
+122;2013-04-30 20:15:00;Tigre;Olimpia-PAR;2;1;2013;round of 16
+123;2013-05-16 20:00:00;Olimpia-PAR;Tigre;2;0;2013;round of 16
+124;2013-05-02 22:30:00;Emelec;Fluminense;2;1;2013;round of 16
+125;2013-05-08 22:00:00;Fluminense;Emelec;2;0;2013;round of 16
+126;2014-02-12 00:30:00;Universitario (PER);Vélez Sarsfield;0;1;2014;group stage
+127;2014-02-13 20:00:00;Atlético-PR;The Strongest;1;0;2014;group stage
+128;2014-02-20 21:15:00;The Strongest;Universitario (PER);1;0;2014;group stage
+129;2014-02-25 19:45:00;Vélez Sarsfield;Atlético-PR;2;0;2014;group stage
+130;2014-03-11 21:15:00;The Strongest;Vélez Sarsfield;2;0;2014;group stage
+131;2014-03-13 23:30:00;Universitario (PER);Atlético-PR;0;1;2014;group stage
+132;2014-03-18 22:00:00;Vélez Sarsfield;The Strongest;2;0;2014;group stage
+133;2014-03-20 17:30:00;Atlético-PR;Universitario (PER);3;0;2014;group stage
+134;2014-03-26 22:00:00;Atlético-PR;Vélez Sarsfield;1;3;2014;group stage
+135;2014-03-27 23:00:00;Universitario (PER);The Strongest;3;3;2014;group stage
+136;2014-04-08 19:45:00;Vélez Sarsfield;Universitario (PER);1;0;2014;group stage
+137;2014-04-08 19:45:00;The Strongest;Atlético-PR;2;1;2014;group stage
+138;2014-02-11 20:00:00;Botafogo;San Lorenzo;2;0;2014;group stage
+139;2014-02-18 22:30:00;Independiente Del Valle;Unión Española;2;2;2014;group stage
+140;2014-02-26 19:45:00;Unión Española;Botafogo;1;1;2014;group stage
+141;2014-02-27 19:30:00;San Lorenzo;Independiente Del Valle;1;0;2014;group stage
+142;2014-03-12 19:45:00;Independiente Del Valle;Botafogo;2;1;2014;group stage
+143;2014-03-12 19:45:00;San Lorenzo;Unión Española;1;1;2014;group stage
+144;2014-03-18 22:00:00;Botafogo;Independiente Del Valle;1;0;2014;group stage
+145;2014-03-20 22:00:00;Unión Española;San Lorenzo;1;0;2014;group stage
+146;2014-03-27 20:45:00;Independiente Del Valle;San Lorenzo;1;1;2014;group stage
+147;2014-04-02 19:45:00;Botafogo;Unión Española;0;1;2014;group stage
+148;2014-04-09 22:00:00;Unión Española;Independiente Del Valle;4;5;2014;group stage
+149;2014-04-09 22:00:00;San Lorenzo;Botafogo;3;0;2014;group stage
+150;2014-02-13 00:15:00;Deportivo Cali;Cerro Porteño;1;0;2014;group stage
+151;2014-02-13 22:15:00;Lanús;O'Higgins;0;0;2014;group stage
+152;2014-02-19 21:45:00;O'Higgins;Deportivo Cali;1;0;2014;group stage
+153;2014-02-26 19:45:00;Cerro Porteño;Lanús;3;1;2014;group stage
+154;2014-03-13 21:15:00;O'Higgins;Cerro Porteño;2;2;2014;group stage
+155;2014-03-13 23:30:00;Deportivo Cali;Lanús;2;1;2014;group stage
+156;2014-03-20 19:45:00;Lanús;Deportivo Cali;2;0;2014;group stage
+157;2014-03-20 19:45:00;Cerro Porteño;O'Higgins;2;1;2014;group stage
+158;2014-03-26 22:00:00;Deportivo Cali;O'Higgins;1;1;2014;group stage
+159;2014-03-27 18:30:00;Lanús;Cerro Porteño;2;0;2014;group stage
+160;2014-04-08 22:00:00;Cerro Porteño;Deportivo Cali;3;2;2014;group stage
+161;2014-04-08 22:00:00;O'Higgins;Lanús;0;0;2014;group stage
+162;2014-02-11 22:15:00;Zamora;Atlético-MG;0;1;2014;group stage
+163;2014-02-12 00:30:00;Ind. Santa Fe;Nacional (PAR);3;1;2014;group stage
+164;2014-02-20 20:00:00;Nacional (PAR);Zamora;1;0;2014;group stage
+165;2014-02-26 22:00:00;Atlético-MG;Ind. Santa Fe;2;1;2014;group stage
+166;2014-03-12 22:00:00;Nacional (PAR);Atlético-MG;2;2;2014;group stage
+167;2014-03-12 22:00:00;Zamora;Ind. Santa Fe;2;1;2014;group stage
+168;2014-03-18 22:00:00;Ind. Santa Fe;Zamora;2;2;2014;group stage
+169;2014-03-19 19:45:00;Atlético-MG;Nacional (PAR);1;1;2014;group stage
+170;2014-03-25 20:45:00;Zamora;Nacional (PAR);2;0;2014;group stage
+171;2014-04-03 23:00:00;Ind. Santa Fe;Atlético-MG;1;1;2014;group stage
+172;2014-04-10 17:30:00;Atlético-MG;Zamora;1;0;2014;group stage
+173;2014-04-10 17:30:00;Nacional (PAR);Ind. Santa Fe;3;2;2014;group stage
+174;2014-02-12 22:00:00;Real Garcilaso;Cruzeiro;2;1;2014;group stage
+175;2014-02-13 20:00:00;Universidad de Chile;Defensor Sporting;1;0;2014;group stage
+176;2014-02-19 19:30:00;Defensor Sporting;Real Garcilaso;4;1;2014;group stage
+177;2014-02-25 17:30:00;Cruzeiro;Universidad de Chile;5;1;2014;group stage
+178;2014-03-11 19:00:00;Defensor Sporting;Cruzeiro;2;0;2014;group stage
+179;2014-03-11 23:30:00;Real Garcilaso;Universidad de Chile;1;2;2014;group stage
+180;2014-03-18 19:45:00;Universidad de Chile;Real Garcilaso;1;0;2014;group stage
+181;2014-03-20 22:00:00;Cruzeiro;Defensor Sporting;2;2;2014;group stage
+182;2014-04-01 21:00:00;Real Garcilaso;Defensor Sporting;0;2;2014;group stage
+183;2014-04-03 20:45:00;Universidad de Chile;Cruzeiro;0;2;2014;group stage
+184;2014-04-09 22:00:00;Cruzeiro;Real Garcilaso;3;0;2014;group stage
+185;2014-04-09 22:00:00;Defensor Sporting;Universidad de Chile;1;1;2014;group stage
+186;2014-02-13 22:15:00;Nacional (URU);Grêmio;0;1;2014;group stage
+187;2014-02-14 00:30:00;Atlético Nacional;Newells Old Boys;1;0;2014;group stage
+188;2014-02-25 22:00:00;Grêmio;Atlético Nacional;3;0;2014;group stage
+189;2014-02-27 21:45:00;Newells Old Boys;Nacional (URU);4;0;2014;group stage
+190;2014-03-11 21:15:00;Atlético Nacional;Nacional (URU);2;2;2014;group stage
+191;2014-03-13 21:15:00;Grêmio;Newells Old Boys;0;0;2014;group stage
+192;2014-03-18 19:45:00;Nacional (URU);Atlético Nacional;0;1;2014;group stage
+193;2014-03-19 22:00:00;Newells Old Boys;Grêmio;1;1;2014;group stage
+194;2014-03-26 19:45:00;Nacional (URU);Newells Old Boys;2;4;2014;group stage
+195;2014-04-02 22:00:00;Atlético Nacional;Grêmio;0;2;2014;group stage
+196;2014-04-10 22:00:00;Newells Old Boys;Atlético Nacional;1;3;2014;group stage
+197;2014-04-10 22:00:00;Grêmio;Nacional (URU);1;0;2014;group stage
+198;2014-02-12 22:00:00;León;Flamengo;2;1;2014;group stage
+199;2014-02-14 00:30:00;Emelec;Bolívar;2;1;2014;group stage
+200;2014-02-19 21:45:00;Bolívar;León;1;1;2014;group stage
+201;2014-02-26 22:00:00;Flamengo;Emelec;3;1;2014;group stage
+202;2014-03-11 23:30:00;Emelec;León;2;1;2014;group stage
+203;2014-03-12 22:00:00;Flamengo;Bolívar;2;2;2014;group stage
+204;2014-03-19 22:00:00;Bolívar;Flamengo;1;0;2014;group stage
+205;2014-03-19 22:00:00;León;Emelec;3;0;2014;group stage
+206;2014-03-27 00:15:00;León;Bolívar;0;1;2014;group stage
+207;2014-04-02 22:00:00;Emelec;Flamengo;1;2;2014;group stage
+208;2014-04-09 19:45:00;Flamengo;León;2;3;2014;group stage
+209;2014-04-09 19:45:00;Bolívar;Emelec;2;1;2014;group stage
+210;2014-02-11 22:15:00;Santos Laguna;Arsenal Sarandí;1;0;2014;group stage
+211;2014-02-12 19:45:00;Deportivo Anzoátegui;Peñarol;1;1;2014;group stage
+212;2014-02-18 20:15:00;Peñarol;Santos Laguna;0;2;2014;group stage
+213;2014-02-25 22:00:00;Arsenal Sarandí;Deportivo Anzoátegui;3;0;2014;group stage
+214;2014-03-11 21:15:00;Deportivo Anzoátegui;Santos Laguna;1;1;2014;group stage
+215;2014-03-13 19:00:00;Arsenal Sarandí;Peñarol;1;0;2014;group stage
+216;2014-03-19 00:15:00;Santos Laguna;Deportivo Anzoátegui;3;0;2014;group stage
+217;2014-03-19 19:45:00;Peñarol;Arsenal Sarandí;2;1;2014;group stage
+218;2014-03-25 23:00:00;Santos Laguna;Peñarol;4;1;2014;group stage
+219;2014-03-26 19:45:00;Deportivo Anzoátegui;Arsenal Sarandí;1;3;2014;group stage
+220;2014-04-10 19:45:00;Peñarol;Deportivo Anzoátegui;1;1;2014;group stage
+221;2014-04-10 19:45:00;Arsenal Sarandí;Santos Laguna;3;0;2014;group stage
+222;2014-08-06 21:15:00;Nacional (PAR);San Lorenzo;1;1;2014;final
+223;2014-08-13 21:15:00;San Lorenzo;Nacional (PAR);1;0;2014;final
+224;2014-07-22 21:15:00;Nacional (PAR);Defensor Sporting;2;0;2014;semifinals
+225;2014-07-29 21:15:00;Defensor Sporting;Nacional (PAR);1;0;2014;semifinals
+226;2014-07-23 19:45:00;San Lorenzo;Bolívar;5;0;2014;semifinals
+227;2014-07-30 21:15:00;Bolívar;San Lorenzo;1;0;2014;semifinals
+228;2014-05-07 19:45:00;Nacional (PAR);Arsenal Sarandí;1;0;2014;quarterfinals
+229;2014-05-14 19:30:00;Arsenal Sarandí;Nacional (PAR);0;0;2014;quarterfinals
+230;2014-05-08 22:00:00;Atlético Nacional;Defensor Sporting;0;2;2014;quarterfinals
+231;2014-05-15 22:00:00;Defensor Sporting;Atlético Nacional;1;0;2014;quarterfinals
+232;2014-05-07 22:00:00;San Lorenzo;Cruzeiro;1;0;2014;quarterfinals
+233;2014-05-14 22:00:00;Cruzeiro;San Lorenzo;1;1;2014;quarterfinals
+234;2014-05-08 19:45:00;Lanús;Bolívar;1;1;2014;quarterfinals
+235;2014-05-15 19:30:00;Bolívar;Lanús;1;0;2014;quarterfinals
+236;2014-04-23 19:45:00;Nacional (PAR);Vélez Sarsfield;1;0;2014;round of 16
+237;2014-04-29 21:45:00;Vélez Sarsfield;Nacional (PAR);2;2;2014;round of 16
+238;2014-04-24 21:15:00;Arsenal Sarandí;Unión Española;0;0;2014;round of 16
+239;2014-04-30 19:30:00;Unión Española;Arsenal Sarandí;0;1;2014;round of 16
+240;2014-04-23 22:00:00;Atlético Nacional;Atlético-MG;1;0;2014;round of 16
+241;2014-05-01 19:15:00;Atlético-MG;Atlético Nacional;1;1;2014;round of 16
+242;2014-04-17 21:15:00;The Strongest;Defensor Sporting;2;0;2014;round of 16
+243;2014-04-29 19:15:00;Defensor Sporting;The Strongest;2;0;2014;round of 16
+244;2014-04-23 22:00:00;San Lorenzo;Grêmio;1;0;2014;round of 16
+245;2014-04-30 22:00:00;Grêmio;San Lorenzo;1;0;2014;round of 16
+246;2014-04-16 22:00:00;Cruzeiro;Cerro Porteño;1;1;2014;round of 16
+247;2014-04-30 22:00:00;Cerro Porteño;Cruzeiro;0;2;2014;round of 16
+248;2014-04-16 19:45:00;Lanús;Santos Laguna;2;1;2014;round of 16
+249;2014-04-24 00:10:00;Santos Laguna;Lanús;0;2;2014;round of 16
+250;2014-04-16 22:00:00;León;Bolívar;2;2;2014;round of 16
+251;2014-04-22 21:15:00;Bolívar;León;1;1;2014;round of 16
+252;2015-02-18 00:45:00;Atlas;Ind. Santa Fe;0;1;2015;group stage
+253;2015-02-18 22:00:00;Colo-Colo;Atlético-MG;2;0;2015;group stage
+254;2015-02-25 19:45:00;Atlético-MG;Atlas;0;1;2015;group stage
+255;2015-02-26 22:30:00;Ind. Santa Fe;Colo-Colo;3;1;2015;group stage
+256;2015-03-04 19:45:00;Colo-Colo;Atlas;2;0;2015;group stage
+257;2015-03-18 22:00:00;Ind. Santa Fe;Atlético-MG;0;1;2015;group stage
+258;2015-04-07 23:15:00;Atlas;Colo-Colo;1;3;2015;group stage
+259;2015-04-09 21:45:00;Atlético-MG;Ind. Santa Fe;2;0;2015;group stage
+260;2015-04-15 22:00:00;Atlas;Atlético-MG;1;0;2015;group stage
+261;2015-04-15 22:00:00;Colo-Colo;Ind. Santa Fe;0;3;2015;group stage
+262;2015-04-22 19:45:00;Atlético-MG;Colo-Colo;2;0;2015;group stage
+263;2015-04-22 19:45:00;Ind. Santa Fe;Atlas;3;1;2015;group stage
+264;2015-02-18 22:00:00;Corinthians;São Paulo;2;0;2015;group stage
+265;2015-02-19 20:45:00;Danubio;San Lorenzo;1;2;2015;group stage
+266;2015-02-25 22:00:00;São Paulo;Danubio;4;0;2015;group stage
+267;2015-03-04 22:00:00;San Lorenzo;Corinthians;0;1;2015;group stage
+268;2015-03-17 20:00:00;Danubio;Corinthians;1;2;2015;group stage
+269;2015-03-18 22:00:00;São Paulo;San Lorenzo;1;0;2015;group stage
+270;2015-04-01 19:55:00;San Lorenzo;São Paulo;1;0;2015;group stage
+271;2015-04-01 22:00:00;Corinthians;Danubio;4;0;2015;group stage
+272;2015-04-15 22:00:00;Danubio;São Paulo;1;2;2015;group stage
+273;2015-04-16 22:00:00;Corinthians;San Lorenzo;0;0;2015;group stage
+274;2015-04-22 22:00:00;San Lorenzo;Danubio;0;1;2015;group stage
+275;2015-04-22 22:00:00;São Paulo;Corinthians;2;0;2015;group stage
+276;2015-02-24 19:00:00;Huracán;Mineros de Guaiana;2;2;2015;group stage
+277;2015-02-25 22:00:00;Universitario de Sucre;Cruzeiro;0;0;2015;group stage
+278;2015-03-03 19:45:00;Mineros de Guaiana;Universitario de Sucre;0;1;2015;group stage
+279;2015-03-03 22:00:00;Cruzeiro;Huracán;0;0;2015;group stage
+280;2015-03-10 19:30:00;Universitario de Sucre;Huracán;0;0;2015;group stage
+281;2015-03-19 22:15:00;Mineros de Guaiana;Cruzeiro;0;2;2015;group stage
+282;2015-04-08 19:45:00;Huracán;Universitario de Sucre;1;1;2015;group stage
+283;2015-04-08 22:00:00;Cruzeiro;Mineros de Guaiana;3;0;2015;group stage
+284;2015-04-14 19:00:00;Huracán;Cruzeiro;3;1;2015;group stage
+285;2015-04-14 19:00:00;Universitario de Sucre;Mineros de Guaiana;2;0;2015;group stage
+286;2015-04-21 20:30:00;Cruzeiro;Universitario de Sucre;2;0;2015;group stage
+287;2015-04-21 20:30:00;Mineros de Guaiana;Huracán;3;0;2015;group stage
+288;2015-02-17 20:15:00;Universidad de Chile;Emelec;0;1;2015;group stage
+289;2015-02-17 22:30:00;The Strongest;Internacional;3;1;2015;group stage
+290;2015-02-25 00:30:00;Emelec;The Strongest;3;0;2015;group stage
+291;2015-02-26 20:15:00;Internacional;Universidad de Chile;3;1;2015;group stage
+292;2015-03-04 22:00:00;Internacional;Emelec;3;2;2015;group stage
+293;2015-03-05 20:15:00;Universidad de Chile;The Strongest;3;1;2015;group stage
+294;2015-03-17 22:15:00;The Strongest;Universidad de Chile;5;3;2015;group stage
+295;2015-03-18 19:45:00;Emelec;Internacional;1;1;2015;group stage
+296;2015-04-15 17:30:00;The Strongest;Emelec;1;0;2015;group stage
+297;2015-04-16 22:00:00;Universidad de Chile;Internacional;0;4;2015;group stage
+298;2015-04-22 17:30:00;Emelec;Universidad de Chile;2;0;2015;group stage
+299;2015-04-22 17:30:00;Internacional;The Strongest;1;0;2015;group stage
+300;2015-02-17 20:15:00;Montevideo Wanderers;Zamora;3;2;2015;group stage
+301;2015-02-18 20:45:00;Palestino;Boca Juniors;0;2;2015;group stage
+302;2015-02-26 20:15:00;Boca Juniors;Montevideo Wanderers;2;1;2015;group stage
+303;2015-02-26 22:00:00;Zamora;Palestino;0;1;2015;group stage
+304;2015-03-10 19:30:00;Montevideo Wanderers;Palestino;1;0;2015;group stage
+305;2015-03-11 20:00:00;Boca Juniors;Zamora;5;0;2015;group stage
+306;2015-03-17 22:15:00;Zamora;Boca Juniors;1;5;2015;group stage
+307;2015-03-19 20:00:00;Palestino;Montevideo Wanderers;1;1;2015;group stage
+308;2015-04-07 20:00:00;Palestino;Zamora;4;0;2015;group stage
+309;2015-04-09 21:45:00;Montevideo Wanderers;Boca Juniors;0;3;2015;group stage
+310;2015-04-16 19:45:00;Zamora;Montevideo Wanderers;0;3;2015;group stage
+311;2015-04-16 19:45:00;Boca Juniors;Palestino;2;0;2015;group stage
+312;2015-02-19 00:15:00;Tigres;Juan Aurich;3;0;2015;group stage
+313;2015-02-19 23:00:00;San José;River Plate;2;0;2015;group stage
+314;2015-03-05 20:15:00;River Plate;Tigres;1;1;2015;group stage
+315;2015-03-05 22:30:00;Juan Aurich;San José;2;0;2015;group stage
+316;2015-03-11 22:15:00;San José;Tigres;0;1;2015;group stage
+317;2015-03-12 22:15:00;Juan Aurich;River Plate;1;1;2015;group stage
+318;2015-03-18 00:30:00;Tigres;San José;4;0;2015;group stage
+319;2015-03-19 20:00:00;River Plate;Juan Aurich;1;1;2015;group stage
+320;2015-04-07 22:15:00;San José;Juan Aurich;1;1;2015;group stage
+321;2015-04-08 22:00:00;Tigres;River Plate;2;2;2015;group stage
+322;2015-04-15 19:45:00;River Plate;San José;3;0;2015;group stage
+323;2015-04-15 19:45:00;Juan Aurich;Tigres;4;5;2015;group stage
+324;2015-02-19 20:45:00;Libertad;Atlético Nacional;2;2;2015;group stage
+325;2015-02-25 19:45:00;Estudiantes;Barcelona-EQU;3;0;2015;group stage
+326;2015-03-03 19:45:00;Barcelona-EQU;Libertad;0;1;2015;group stage
+327;2015-03-05 22:30:00;Atlético Nacional;Estudiantes;1;1;2015;group stage
+328;2015-03-11 22:15:00;Barcelona-EQU;Atlético Nacional;1;2;2015;group stage
+329;2015-03-12 19:45:00;Libertad;Estudiantes;1;0;2015;group stage
+330;2015-03-18 19:45:00;Estudiantes;Libertad;1;0;2015;group stage
+331;2015-03-19 22:15:00;Atlético Nacional;Barcelona-EQU;2;3;2015;group stage
+332;2015-04-09 19:30:00;Estudiantes;Atlético Nacional;0;1;2015;group stage
+333;2015-04-09 19:30:00;Libertad;Barcelona-EQU;1;1;2015;group stage
+334;2015-04-21 22:45:00;Atlético Nacional;Libertad;4;0;2015;group stage
+335;2015-04-21 22:45:00;Barcelona-EQU;Estudiantes;0;2;2015;group stage
+336;2015-02-17 22:30:00;Deportivo Táchira;Racing Club;0;5;2015;group stage
+337;2015-02-18 19:45:00;Guaraní (PAR);Sporting Cristal;2;2;2015;group stage
+338;2015-02-24 21:15:00;Racing Club;Guaraní (PAR);4;1;2015;group stage
+339;2015-02-24 23:30:00;Sporting Cristal;Deportivo Táchira;1;1;2015;group stage
+340;2015-03-10 21:45:00;Racing Club;Sporting Cristal;1;2;2015;group stage
+341;2015-03-10 21:45:00;Guaraní (PAR);Deportivo Táchira;5;2;2015;group stage
+342;2015-03-17 20:00:00;Sporting Cristal;Racing Club;0;2;2015;group stage
+343;2015-03-18 22:00:00;Deportivo Táchira;Guaraní (PAR);1;1;2015;group stage
+344;2015-04-07 20:00:00;Guaraní (PAR);Racing Club;2;0;2015;group stage
+345;2015-04-08 19:45:00;Deportivo Táchira;Sporting Cristal;0;0;2015;group stage
+346;2015-04-14 21:15:00;Sporting Cristal;Guaraní (PAR);1;1;2015;group stage
+347;2015-04-14 21:15:00;Racing Club;Deportivo Táchira;3;2;2015;group stage
+348;2015-07-29 22:00:00;Tigres;River Plate;0;0;2015;final
+349;2015-08-05 22:00:00;River Plate;Tigres;3;0;2015;final
+350;2015-07-14 21:00:00;River Plate;Guaraní (PAR);2;0;2015;semifinals
+351;2015-07-21 21:00:00;Guaraní (PAR);River Plate;1;1;2015;semifinals
+352;2015-07-15 22:00:00;Internacional;Tigres;2;1;2015;semifinals
+353;2015-07-22 22:00:00;Tigres;Internacional;3;1;2015;semifinals
+354;2015-05-21 22:00:00;River Plate;Cruzeiro;0;1;2015;quarterfinals
+355;2015-05-27 22:00:00;Cruzeiro;River Plate;0;3;2015;quarterfinals
+356;2015-05-21 19:45:00;Guaraní (PAR);Racing Club;1;0;2015;quarterfinals
+357;2015-05-28 21:00:00;Racing Club;Guaraní (PAR);0;0;2015;quarterfinals
+358;2015-05-19 22:00:00;Emelec;Tigres;1;0;2015;quarterfinals
+359;2015-05-26 22:00:00;Tigres;Emelec;2;0;2015;quarterfinals
+360;2015-05-20 22:00:00;Ind. Santa Fe;Internacional;1;0;2015;quarterfinals
+361;2015-05-27 19:30:00;Internacional;Ind. Santa Fe;2;0;2015;quarterfinals
+362;2015-05-07 21:00:00;River Plate;Boca Juniors;1;0;2015;round of 16
+363;2015-05-06 22:00:00;São Paulo;Cruzeiro;1;0;2015;round of 16
+364;2015-05-13 19:30:00;Cruzeiro;São Paulo;1;0;2015;round of 16
+365;2015-05-06 19:45:00;Guaraní (PAR);Corinthians;2;0;2015;round of 16
+366;2015-05-13 22:00:00;Corinthians;Guaraní (PAR);0;1;2015;round of 16
+367;2015-05-07 18:45:00;Montevideo Wanderers;Racing Club;1;1;2015;round of 16
+368;2015-05-14 18:30:00;Racing Club;Montevideo Wanderers;2;1;2015;round of 16
+369;2015-04-28 21:30:00;Universitario de Sucre;Tigres;1;2;2015;round of 16
+370;2015-05-05 23:00:00;Tigres;Universitario de Sucre;1;1;2015;round of 16
+371;2015-05-07 23:15:00;Emelec;Atlético Nacional;2;0;2015;round of 16
+372;2015-05-14 23:30:00;Atlético Nacional;Emelec;1;0;2015;round of 16
+373;2015-05-06 22:00:00;Atlético-MG;Internacional;2;2;2015;round of 16
+374;2015-05-13 22:00:00;Internacional;Atlético-MG;3;1;2015;round of 16
+375;2015-05-05 20:45:00;Estudiantes;Ind. Santa Fe;2;1;2015;round of 16
+376;2015-05-12 21:30:00;Ind. Santa Fe;Estudiantes;2;0;2015;round of 16
+377;2016-02-17 19:30:00;São Paulo;The Strongest;0;1;2016;group stage
+378;2016-02-25 21:45:00;Trujillanos (VEN);River Plate;0;4;2016;group stage
+379;2016-03-02 17:15:00;The Strongest;Trujillanos (VEN);2;1;2016;group stage
+380;2016-03-10 19:30:00;River Plate;São Paulo;1;1;2016;group stage
+381;2016-03-16 19:30:00;The Strongest;River Plate;1;1;2016;group stage
+382;2016-03-16 19:30:00;Trujillanos (VEN);São Paulo;1;1;2016;group stage
+383;2016-04-05 21:45:00;São Paulo;Trujillanos (VEN);6;0;2016;group stage
+384;2016-04-06 19:30:00;River Plate;The Strongest;6;0;2016;group stage
+385;2016-04-12 19:30:00;Trujillanos (VEN);The Strongest;2;1;2016;group stage
+386;2016-04-13 21:45:00;São Paulo;River Plate;2;1;2016;group stage
+387;2016-04-21 21:45:00;River Plate;Trujillanos (VEN);4;3;2016;group stage
+388;2016-04-21 21:45:00;The Strongest;São Paulo;1;1;2016;group stage
+389;2016-02-16 21:45:00;River Plate-URU;Palmeiras;2;2;2016;group stage
+390;2016-02-25 19:30:00;Rosario Central;Nacional (URU);1;1;2016;group stage
+391;2016-03-02 19:30:00;Nacional (URU);River Plate-URU;0;0;2016;group stage
+392;2016-03-03 21:45:00;Palmeiras;Rosario Central;2;0;2016;group stage
+393;2016-03-09 19:30:00;Rosario Central;River Plate-URU;4;1;2016;group stage
+394;2016-03-09 21:45:00;Palmeiras;Nacional (URU);1;2;2016;group stage
+395;2016-03-17 19:30:00;River Plate-URU;Rosario Central;1;3;2016;group stage
+396;2016-03-17 21:45:00;Nacional (URU);Palmeiras;1;0;2016;group stage
+397;2016-04-06 21:45:00;Rosario Central;Palmeiras;3;3;2016;group stage
+398;2016-04-07 19:30:00;River Plate-URU;Nacional (URU);2;2;2016;group stage
+399;2016-04-14 21:45:00;Nacional (URU);Rosario Central;0;2;2016;group stage
+400;2016-04-14 21:45:00;Palmeiras;River Plate-URU;4;0;2016;group stage
+401;2016-02-24 19:30:00;Racing Club;Bolívar;4;1;2016;group stage
+402;2016-02-24 21:45:00;Deportivo Cali;Boca Juniors;0;0;2016;group stage
+403;2016-03-03 19:30:00;Boca Juniors;Racing Club;0;0;2016;group stage
+404;2016-03-03 21:45:00;Bolívar;Deportivo Cali;5;0;2016;group stage
+405;2016-03-10 21:45:00;Bolívar;Boca Juniors;1;1;2016;group stage
+406;2016-03-17 21:45:00;Deportivo Cali;Racing Club;2;2;2016;group stage
+407;2016-04-07 19:30:00;Boca Juniors;Bolívar;3;1;2016;group stage
+408;2016-04-07 21:45:00;Racing Club;Deportivo Cali;4;2;2016;group stage
+409;2016-04-13 19:30:00;Racing Club;Boca Juniors;0;1;2016;group stage
+410;2016-04-14 21:45:00;Deportivo Cali;Bolívar;1;1;2016;group stage
+411;2016-04-20 19:30:00;Boca Juniors;Deportivo Cali;6;2;2016;group stage
+412;2016-04-20 19:30:00;Bolívar;Racing Club;1;1;2016;group stage
+413;2016-02-18 22:45:00;Sporting Cristal;Peñarol;1;1;2016;group stage
+414;2016-02-23 21:45:00;Huracán;Atlético Nacional;0;2;2016;group stage
+415;2016-03-01 21:45:00;Peñarol;Huracán;0;1;2016;group stage
+416;2016-03-01 21:45:00;Atlético Nacional;Sporting Cristal;3;0;2016;group stage
+417;2016-03-08 21:45:00;Atlético Nacional;Peñarol;2;0;2016;group stage
+418;2016-03-08 21:45:00;Sporting Cristal;Huracán;3;2;2016;group stage
+419;2016-03-15 21:45:00;Peñarol;Atlético Nacional;0;4;2016;group stage
+420;2016-04-05 19:30:00;Huracán;Sporting Cristal;4;2;2016;group stage
+421;2016-04-12 19:30:00;Huracán;Peñarol;0;0;2016;group stage
+422;2016-04-12 21:45:00;Sporting Cristal;Atlético Nacional;0;1;2016;group stage
+423;2016-04-19 19:30:00;Peñarol;Sporting Cristal;4;3;2016;group stage
+424;2016-04-19 19:30:00;Atlético Nacional;Huracán;0;0;2016;group stage
+425;2016-02-17 21:45:00;Melgar;Atlético-MG;1;2;2016;group stage
+426;2016-02-18 22:45:00;Independiente del Valle;Colo-Colo;1;1;2016;group stage
+427;2016-02-24 19:30:00;Colo-Colo;Melgar;1;0;2016;group stage
+428;2016-02-24 21:45:00;Atlético-MG;Independiente del Valle;1;0;2016;group stage
+429;2016-03-01 17:15:00;Melgar;Independiente del Valle;0;1;2016;group stage
+430;2016-03-10 21:45:00;Colo-Colo;Atlético-MG;0;0;2016;group stage
+431;2016-03-15 19:30:00;Independiente del Valle;Melgar;2;0;2016;group stage
+432;2016-03-16 21:45:00;Atlético-MG;Colo-Colo;3;0;2016;group stage
+433;2016-04-06 21:45:00;Independiente del Valle;Atlético-MG;3;2;2016;group stage
+434;2016-04-07 21:45:00;Melgar;Colo-Colo;1;2;2016;group stage
+435;2016-04-14 19:30:00;Atlético-MG;Melgar;4;0;2016;group stage
+436;2016-04-14 19:30:00;Colo-Colo;Independiente del Valle;0;0;2016;group stage
+437;2016-02-18 00:00:00;Toluca;Grêmio;2;0;2016;group stage
+438;2016-02-23 19:30:00;LDU;San Lorenzo;2;0;2016;group stage
+439;2016-03-02 19:30:00;San Lorenzo;Toluca;1;1;2016;group stage
+440;2016-03-02 21:45:00;Grêmio;LDU;4;0;2016;group stage
+441;2016-03-09 21:45:00;Grêmio;San Lorenzo;1;1;2016;group stage
+442;2016-03-10 21:45:00;LDU;Toluca;1;2;2016;group stage
+443;2016-03-15 21:45:00;San Lorenzo;Grêmio;1;1;2016;group stage
+444;2016-04-05 21:45:00;Toluca;LDU;2;1;2016;group stage
+445;2016-04-12 21:45:00;Toluca;San Lorenzo;2;1;2016;group stage
+446;2016-04-13 21:45:00;LDU;Grêmio;2;3;2016;group stage
+447;2016-04-19 21:45:00;San Lorenzo;LDU;1;1;2016;group stage
+448;2016-04-19 21:45:00;Grêmio;Toluca;1;0;2016;group stage
+449;2016-02-17 00:00:00;Deportivo Táchira;Olimpia-PAR;2;1;2016;group stage
+450;2016-02-19 01:00:00;Pumas;Emelec;4;2;2016;group stage
+451;2016-02-25 21:45:00;Emelec;Deportivo Táchira;2;0;2016;group stage
+452;2016-03-01 19:30:00;Olimpia-PAR;Pumas;0;2;2016;group stage
+453;2016-03-08 19:30:00;Emelec;Olimpia-PAR;2;2;2016;group stage
+454;2016-03-09 21:45:00;Deportivo Táchira;Pumas;2;0;2016;group stage
+455;2016-03-17 19:30:00;Olimpia-PAR;Emelec;4;2;2016;group stage
+456;2016-03-18 00:00:00;Pumas;Deportivo Táchira;4;1;2016;group stage
+457;2016-04-05 19:30:00;Deportivo Táchira;Emelec;1;0;2016;group stage
+458;2016-04-07 00:00:00;Pumas;Olimpia-PAR;4;1;2016;group stage
+459;2016-04-13 19:30:00;Olimpia-PAR;Deportivo Táchira;4;0;2016;group stage
+460;2016-04-13 19:30:00;Emelec;Pumas;2;3;2016;group stage
+461;2016-02-17 00:00:00;Ind. Santa Fe;Cerro Porteño;0;0;2016;group stage
+462;2016-02-17 21:45:00;Cobresal;Corinthians;0;1;2016;group stage
+463;2016-02-25 19:30:00;Cerro Porteño;Cobresal;2;1;2016;group stage
+464;2016-03-02 21:45:00;Corinthians;Ind. Santa Fe;1;0;2016;group stage
+465;2016-03-09 17:15:00;Cobresal;Ind. Santa Fe;1;2;2016;group stage
+466;2016-03-09 19:30:00;Cerro Porteño;Corinthians;3;2;2016;group stage
+467;2016-03-15 19:30:00;Ind. Santa Fe;Cobresal;3;0;2016;group stage
+468;2016-03-16 21:45:00;Corinthians;Cerro Porteño;2;0;2016;group stage
+469;2016-04-06 21:45:00;Ind. Santa Fe;Corinthians;1;1;2016;group stage
+470;2016-04-13 17:15:00;Cobresal;Cerro Porteño;2;0;2016;group stage
+471;2016-04-20 21:45:00;Corinthians;Cobresal;6;0;2016;group stage
+472;2016-04-20 21:45:00;Cerro Porteño;Ind. Santa Fe;1;0;2016;group stage
+473;2016-07-20 21:45:00;Independiente del Valle;Atlético Nacional;1;1;2016;final
+474;2016-07-27 21:45:00;Atlético Nacional;Independiente del Valle;1;0;2016;final
+475;2016-07-06 21:45:00;São Paulo;Atlético Nacional;0;2;2016;semifinals
+476;2016-07-13 21:45:00;Atlético Nacional;São Paulo;2;1;2016;semifinals
+477;2016-07-07 21:45:00;Independiente del Valle;Boca Juniors;2;1;2016;semifinals
+478;2016-07-14 21:45:00;Boca Juniors;Independiente del Valle;2;3;2016;semifinals
+479;2016-05-12 21:45:00;Rosario Central;Atlético Nacional;1;0;2016;quarterfinals
+480;2016-05-19 22:45:00;Atlético Nacional;Rosario Central;3;1;2016;quarterfinals
+481;2016-05-11 21:45:00;São Paulo;Atlético-MG;1;0;2016;quarterfinals
+482;2016-05-18 21:45:00;Atlético-MG;São Paulo;2;1;2016;quarterfinals
+483;2016-05-17 21:45:00;Independiente del Valle;Pumas;2;1;2016;quarterfinals
+484;2016-05-24 21:45:00;Pumas;Independiente del Valle;2;1;2016;quarterfinals
+485;2016-05-12 19:30:00;Nacional (URU);Boca Juniors;1;1;2016;quarterfinals
+486;2016-05-19 20:15:00;Boca Juniors;Nacional (URU);1;1;2016;quarterfinals
+487;2016-04-26 19:30:00;Huracán;Atlético Nacional;0;0;2016;round of 16
+488;2016-05-03 21:45:00;Atlético Nacional;Huracán;4;2;2016;round of 16
+489;2016-04-27 21:45:00;Grêmio;Rosario Central;0;1;2016;round of 16
+490;2016-05-05 19:15:00;Rosario Central;Grêmio;3;0;2016;round of 16
+491;2016-04-27 19:30:00;Racing Club;Atlético-MG;0;0;2016;round of 16
+492;2016-05-04 21:45:00;Atlético-MG;Racing Club;2;1;2016;round of 16
+493;2016-04-28 21:45:00;São Paulo;Toluca;4;0;2016;round of 16
+494;2016-05-04 19:15:00;Toluca;São Paulo;3;1;2016;round of 16
+495;2016-04-26 21:45:00;Deportivo Táchira;Pumas;1;0;2016;round of 16
+496;2016-05-03 23:45:00;Pumas;Deportivo Táchira;2;0;2016;round of 16
+497;2016-04-28 19:30:00;Independiente del Valle;River Plate;2;0;2016;round of 16
+498;2016-05-04 19:15:00;River Plate;Independiente del Valle;1;0;2016;round of 16
+499;2016-04-27 21:45:00;Nacional (URU);Corinthians;0;0;2016;round of 16
+500;2016-05-04 21:45:00;Corinthians;Nacional (URU);2;2;2016;round of 16
+501;2016-04-28 21:45:00;Cerro Porteño;Boca Juniors;1;2;2016;round of 16
+502;2016-05-05 21:45:00;Boca Juniors;Cerro Porteño;3;1;2016;round of 16
+503;2017-03-14 21:00:00;Botafogo;Estudiantes;2;1;2017;group stage
+504;2017-03-14 21:45:00;Barcelona-EQU;Atlético Nacional;2;1;2017;group stage
+505;2017-04-11 21:00:00;Estudiantes;Barcelona-EQU;0;2;2017;group stage
+506;2017-04-13 21:45:00;Atlético Nacional;Botafogo;0;2;2017;group stage
+507;2017-04-19 19:30:00;Estudiantes;Atlético Nacional;1;0;2017;group stage
+508;2017-04-20 21:45:00;Barcelona-EQU;Botafogo;1;1;2017;group stage
+509;2017-05-02 21:00:00;Atlético Nacional;Estudiantes;4;1;2017;group stage
+510;2017-05-02 21:45:00;Botafogo;Barcelona-EQU;0;2;2017;group stage
+511;2017-05-18 19:30:00;Barcelona-EQU;Estudiantes;0;3;2017;group stage
+512;2017-05-18 21:45:00;Botafogo;Atlético Nacional;1;0;2017;group stage
+513;2017-05-25 21:45:00;Atlético Nacional;Barcelona-EQU;3;1;2017;group stage
+514;2017-05-25 21:45:00;Estudiantes;Botafogo;1;0;2017;group stage
+515;2017-03-09 21:00:00;The Strongest;Ind. Santa Fe;2;0;2017;group stage
+516;2017-03-09 21:45:00;Sporting Cristal;Santos;1;1;2017;group stage
+517;2017-03-16 21:45:00;Santos;The Strongest;2;0;2017;group stage
+518;2017-03-16 21:45:00;Ind. Santa Fe;Sporting Cristal;3;0;2017;group stage
+519;2017-04-18 21:45:00;Sporting Cristal;The Strongest;0;0;2017;group stage
+520;2017-04-19 21:45:00;Ind. Santa Fe;Santos;0;0;2017;group stage
+521;2017-05-04 19:30:00;The Strongest;Sporting Cristal;5;1;2017;group stage
+522;2017-05-04 21:45:00;Santos;Ind. Santa Fe;3;2;2017;group stage
+523;2017-05-17 19:30:00;Sporting Cristal;Ind. Santa Fe;0;2;2017;group stage
+524;2017-05-17 19:30:00;The Strongest;Santos;1;1;2017;group stage
+525;2017-05-23 21:45:00;Santos;Sporting Cristal;4;0;2017;group stage
+526;2017-05-23 21:45:00;Ind. Santa Fe;The Strongest;1;1;2017;group stage
+527;2017-03-14 19:30:00;Melgar;Emelec;1;0;2017;group stage
+528;2017-03-15 21:00:00;Independiente Medellín;River Plate;1;3;2017;group stage
+529;2017-04-13 19:30:00;Emelec;Independiente Medellín;1;0;2017;group stage
+530;2017-04-13 21:00:00;River Plate;Melgar;4;2;2017;group stage
+531;2017-04-20 19:00:00;Independiente Medellín;Melgar;2;0;2017;group stage
+532;2017-04-27 21:00:00;Emelec;River Plate;1;2;2017;group stage
+533;2017-04-26 21:00:00;Melgar;Independiente Medellín;1;2;2017;group stage
+534;2017-05-10 21:00:00;River Plate;Emelec;1;1;2017;group stage
+535;2017-05-16 23:15:00;Independiente Medellín;Emelec;1;2;2017;group stage
+536;2017-05-18 21:00:00;Melgar;River Plate;2;3;2017;group stage
+537;2017-05-25 19:30:00;Emelec;Melgar;3;0;2017;group stage
+538;2017-05-25 19:30:00;River Plate;Independiente Medellín;1;2;2017;group stage
+539;2017-03-07 21:00:00;Atlético-PR;Universidad Católica;2;2;2017;group stage
+540;2017-03-08 21:45:00;Flamengo;San Lorenzo;4;0;2017;group stage
+541;2017-03-15 19:30:00;San Lorenzo;Atlético-PR;0;1;2017;group stage
+542;2017-03-15 21:45:00;Universidad Católica;Flamengo;1;0;2017;group stage
+543;2017-04-12 21:00:00;Universidad Católica;San Lorenzo;1;1;2017;group stage
+544;2017-04-12 21:45:00;Flamengo;Atlético-PR;2;1;2017;group stage
+545;2017-04-25 21:00:00;San Lorenzo;Universidad Católica;2;1;2017;group stage
+546;2017-04-26 21:45:00;Atlético-PR;Flamengo;2;1;2017;group stage
+547;2017-05-03 21:00:00;Atlético-PR;San Lorenzo;0;3;2017;group stage
+548;2017-05-03 21:45:00;Flamengo;Universidad Católica;3;1;2017;group stage
+549;2017-05-17 21:45:00;San Lorenzo;Flamengo;2;1;2017;group stage
+550;2017-05-17 21:45:00;Universidad Católica;Atlético-PR;2;3;2017;group stage
+551;2017-03-07 19:30:00;Jorge Wilstermann;Peñarol;6;2;2017;group stage
+552;2017-03-08 21:45:00;Atlético Tucumán;Palmeiras;1;1;2017;group stage
+553;2017-03-15 21:45:00;Palmeiras;Jorge Wilstermann;1;0;2017;group stage
+554;2017-03-16 21:00:00;Peñarol;Atlético Tucumán;2;1;2017;group stage
+555;2017-04-11 19:30:00;Jorge Wilstermann;Atlético Tucumán;2;1;2017;group stage
+556;2017-04-12 21:45:00;Palmeiras;Peñarol;3;2;2017;group stage
+557;2017-04-25 19:30:00;Atlético Tucumán;Jorge Wilstermann;2;1;2017;group stage
+558;2017-04-26 21:45:00;Peñarol;Palmeiras;2;3;2017;group stage
+559;2017-05-02 19:30:00;Atlético Tucumán;Peñarol;2;1;2017;group stage
+560;2017-05-03 21:45:00;Jorge Wilstermann;Palmeiras;3;2;2017;group stage
+561;2017-05-24 21:45:00;Palmeiras;Atlético Tucumán;3;1;2017;group stage
+562;2017-05-24 21:45:00;Peñarol;Jorge Wilstermann;2;0;2017;group stage
+563;2017-03-08 19:30:00;Godoy Cruz;Atlético-MG;1;1;2017;group stage
+564;2017-03-08 19:30:00;Sport Boys;Libertad;3;3;2017;group stage
+565;2017-04-11 19:30:00;Libertad;Godoy Cruz;1;2;2017;group stage
+566;2017-04-13 19:30:00;Atlético-MG;Sport Boys;5;2;2017;group stage
+567;2017-04-19 21:45:00;Libertad;Atlético-MG;1;0;2017;group stage
+568;2017-04-20 19:30:00;Godoy Cruz;Sport Boys;2;0;2017;group stage
+569;2017-04-26 19:30:00;Atlético-MG;Libertad;2;0;2017;group stage
+570;2017-04-27 21:45:00;Sport Boys;Godoy Cruz;1;3;2017;group stage
+571;2017-05-03 19:30:00;Sport Boys;Atlético-MG;1;5;2017;group stage
+572;2017-05-04 21:00:00;Godoy Cruz;Libertad;1;1;2017;group stage
+573;2017-05-16 21:00:00;Atlético-MG;Godoy Cruz;4;1;2017;group stage
+574;2017-05-16 21:00:00;Libertad;Sport Boys;1;1;2017;group stage
+575;2017-03-07 21:45:00;Zulia;Chapecoense;1;2;2017;group stage
+576;2017-03-09 21:00:00;Lanús;Nacional (URU);0;1;2017;group stage
+577;2017-03-15 19:30:00;Nacional (URU);Zulia;0;1;2017;group stage
+578;2017-03-16 19:30:00;Chapecoense;Lanús;1;3;2017;group stage
+579;2017-04-18 21:00:00;Lanús;Zulia;5;0;2017;group stage
+580;2017-04-18 21:45:00;Chapecoense;Nacional (URU);1;1;2017;group stage
+581;2017-04-27 19:30:00;Nacional (URU);Chapecoense;3;0;2017;group stage
+582;2017-04-27 19:30:00;Zulia;Lanús;1;1;2017;group stage
+583;2017-05-16 19:30:00;Zulia;Nacional (URU);0;0;2017;group stage
+584;2017-05-17 21:45:00;Lanús;Chapecoense;3;0;2017;group stage
+585;2017-05-23 19:30:00;Nacional (URU);Lanús;0;1;2017;group stage
+586;2017-05-23 19:30:00;Chapecoense;Zulia;2;1;2017;group stage
+587;2017-03-07 17:15:00;Deportes Iquique;Guaraní (PAR);0;1;2017;group stage
+588;2017-03-09 19:30:00;Zamora;Grêmio;0;2;2017;group stage
+589;2017-04-11 21:45:00;Grêmio;Deportes Iquique;3;2;2017;group stage
+590;2017-04-12 19:30:00;Guaraní (PAR);Zamora;3;1;2017;group stage
+591;2017-04-19 21:00:00;Zamora;Deportes Iquique;1;4;2017;group stage
+592;2017-04-20 19:30:00;Guaraní (PAR);Grêmio;1;1;2017;group stage
+593;2017-04-25 17:15:00;Deportes Iquique;Zamora;4;3;2017;group stage
+594;2017-04-27 21:45:00;Grêmio;Guaraní (PAR);4;1;2017;group stage
+595;2017-05-03 19:30:00;Deportes Iquique;Grêmio;2;1;2017;group stage
+596;2017-05-04 21:45:00;Zamora;Guaraní (PAR);1;3;2017;group stage
+597;2017-05-25 21:45:00;Grêmio;Zamora;4;0;2017;group stage
+598;2017-05-25 21:45:00;Guaraní (PAR);Deportes Iquique;0;0;2017;group stage
+599;2017-11-22 21:45:00;Grêmio;Lanús;1;0;2017;final
+600;2017-11-29 21:45:00;Lanús;Grêmio;1;2;2017;final
+601;2017-10-24 20:15:00;River Plate;Lanús;1;0;2017;semifinals
+602;2017-10-31 22:15:00;Lanús;River Plate;4;2;2017;semifinals
+603;2017-10-25 21:45:00;Barcelona-EQU;Grêmio;0;3;2017;semifinals
+604;2017-11-01 21:45:00;Grêmio;Barcelona-EQU;0;1;2017;semifinals
+605;2017-09-14 21:45:00;Jorge Wilstermann;River Plate;3;0;2017;quarterfinals
+606;2017-09-21 19:15:00;River Plate;Jorge Wilstermann;8;0;2017;quarterfinals
+607;2017-09-13 19:15:00;San Lorenzo;Lanús;2;0;2017;quarterfinals
+608;2017-09-21 21:45:00;Lanús;San Lorenzo;2;0;2017;quarterfinals
+609;2017-09-13 21:45:00;Barcelona-EQU;Santos;1;1;2017;quarterfinals
+610;2017-09-20 21:45:00;Santos;Barcelona-EQU;0;1;2017;quarterfinals
+611;2017-09-13 21:45:00;Botafogo;Grêmio;0;0;2017;quarterfinals
+612;2017-09-20 21:45:00;Grêmio;Botafogo;1;0;2017;quarterfinals
+613;2017-07-04 21:45:00;Guaraní (PAR);River Plate;0;2;2017;round of 16
+614;2017-08-08 21:45:00;River Plate;Guaraní (PAR);1;1;2017;round of 16
+615;2017-07-05 21:45:00;Jorge Wilstermann;Atlético-MG;1;0;2017;round of 16
+616;2017-08-09 21:45:00;Atlético-MG;Jorge Wilstermann;0;0;2017;round of 16
+617;2017-07-06 21:45:00;Emelec;San Lorenzo;0;1;2017;round of 16
+618;2017-08-10 21:45:00;San Lorenzo;Emelec;0;1;2017;round of 16
+619;2017-07-06 19:15:00;The Strongest;Lanús;1;1;2017;round of 16
+620;2017-08-08 19:15:00;Lanús;The Strongest;1;0;2017;round of 16
+621;2017-07-05 19:15:00;Atlético-PR;Santos;2;3;2017;round of 16
+622;2017-08-10 21:45:00;Santos;Atlético-PR;1;0;2017;round of 16
+623;2017-07-05 21:45:00;Barcelona-EQU;Palmeiras;1;0;2017;round of 16
+624;2017-08-09 21:45:00;Palmeiras;Barcelona-EQU;1;0;2017;round of 16
+625;2017-07-06 21:45:00;Nacional (URU);Botafogo;0;1;2017;round of 16
+626;2017-08-10 19:15:00;Botafogo;Nacional (URU);2;0;2017;round of 16
+627;2017-07-04 19:15:00;Godoy Cruz;Grêmio;0;1;2017;round of 16
+628;2017-08-09 19:15:00;Grêmio;Godoy Cruz;2;1;2017;round of 16
+629;2018-02-27 19:15:00;Monagas;Cerro Porteño;0;2;2018;group stage
+630;2018-02-27 19:15:00;Defensor Sporting;Grêmio;1;1;2018;group stage
+631;2018-03-13 21:30:00;Cerro Porteño;Defensor Sporting;2;1;2018;group stage
+632;2018-04-04 19:15:00;Grêmio;Monagas;4;0;2018;group stage
+633;2018-04-17 19:15:00;Defensor Sporting;Monagas;3;1;2018;group stage
+634;2018-04-17 21:30:00;Cerro Porteño;Grêmio;0;0;2018;group stage
+635;2018-04-25 21:45:00;Monagas;Defensor Sporting;1;0;2018;group stage
+636;2018-05-01 19:15:00;Grêmio;Cerro Porteño;5;0;2018;group stage
+637;2018-05-15 19:15:00;Defensor Sporting;Cerro Porteño;0;1;2018;group stage
+638;2018-05-15 21:30:00;Monagas;Grêmio;1;2;2018;group stage
+639;2018-05-23 19:15:00;Cerro Porteño;Monagas;3;2;2018;group stage
+640;2018-05-23 19:15:00;Grêmio;Defensor Sporting;1;0;2018;group stage
+641;2018-02-27 21:30:00;Colo-Colo;Atlético Nacional;0;1;2018;group stage
+642;2018-02-28 21:45:00;Delfín-EQU;Bolívar;1;1;2018;group stage
+643;2018-03-14 19:15:00;Bolívar;Colo-Colo;1;1;2018;group stage
+644;2018-03-14 21:45:00;Atlético Nacional;Delfín-EQU;4;0;2018;group stage
+645;2018-04-05 19:15:00;Colo-Colo;Delfín-EQU;0;2;2018;group stage
+646;2018-04-05 21:30:00;Bolívar;Atlético Nacional;1;0;2018;group stage
+647;2018-04-24 21:30:00;Atlético Nacional;Bolívar;4;1;2018;group stage
+648;2018-05-02 21:45:00;Delfín-EQU;Colo-Colo;1;2;2018;group stage
+649;2018-05-15 19:15:00;Delfín-EQU;Atlético Nacional;1;0;2018;group stage
+650;2018-05-15 21:30:00;Colo-Colo;Bolívar;2;0;2018;group stage
+651;2018-05-24 21:30:00;Atlético Nacional;Colo-Colo;0;0;2018;group stage
+652;2018-05-24 21:30:00;Bolívar;Delfín-EQU;2;1;2018;group stage
+653;2018-03-13 19:15:00;Atlético Tucumán;Libertad;0;2;2018;group stage
+654;2018-03-15 19:15:00;The Strongest;Peñarol;1;0;2018;group stage
+655;2018-04-03 19:15:00;Libertad;The Strongest;3;0;2018;group stage
+656;2018-04-04 19:15:00;Peñarol;Atlético Tucumán;3;1;2018;group stage
+657;2018-04-18 19:15:00;The Strongest;Atlético Tucumán;1;2;2018;group stage
+658;2018-04-18 21:45:00;Libertad;Peñarol;2;1;2018;group stage
+659;2018-04-25 19:15:00;Atlético Tucumán;The Strongest;3;0;2018;group stage
+660;2018-04-26 21:30:00;Peñarol;Libertad;2;0;2018;group stage
+661;2018-05-02 19:15:00;Atlético Tucumán;Peñarol;1;0;2018;group stage
+662;2018-05-03 21:30:00;The Strongest;Libertad;1;3;2018;group stage
+663;2018-05-17 19:15:00;Libertad;Atlético Tucumán;0;0;2018;group stage
+664;2018-05-17 19:15:00;Peñarol;The Strongest;2;0;2018;group stage
+665;2018-02-28 21:45:00;Flamengo;River Plate;2;2;2018;group stage
+666;2018-03-01 19:15:00;Ind. Santa Fe;Emelec;1;1;2018;group stage
+667;2018-03-14 21:45:00;Emelec;Flamengo;1;2;2018;group stage
+668;2018-04-05 19:15:00;River Plate;Ind. Santa Fe;0;0;2018;group stage
+669;2018-04-18 21:45:00;Flamengo;Ind. Santa Fe;1;1;2018;group stage
+670;2018-04-19 21:30:00;Emelec;River Plate;0;1;2018;group stage
+671;2018-04-25 21:45:00;Ind. Santa Fe;Flamengo;0;0;2018;group stage
+672;2018-04-26 19:15:00;River Plate;Emelec;2;1;2018;group stage
+673;2018-05-03 21:30:00;Ind. Santa Fe;River Plate;0;1;2018;group stage
+674;2018-05-16 21:45:00;Flamengo;Emelec;2;0;2018;group stage
+675;2018-05-23 21:45:00;Emelec;Ind. Santa Fe;0;3;2018;group stage
+676;2018-05-23 21:45:00;River Plate;Flamengo;0;0;2018;group stage
+677;2018-02-27 21:30:00;Racing Club;Cruzeiro;4;2;2018;group stage
+678;2018-03-13 21:30:00;Vasco;Universidad de Chile;0;1;2018;group stage
+679;2018-04-03 21:30:00;Universidad de Chile;Racing Club;1;1;2018;group stage
+680;2018-04-04 21:45:00;Cruzeiro;Vasco;0;0;2018;group stage
+681;2018-04-19 19:15:00;Racing Club;Vasco;4;0;2018;group stage
+682;2018-04-19 21:30:00;Universidad de Chile;Cruzeiro;0;0;2018;group stage
+683;2018-04-26 19:15:00;Cruzeiro;Universidad de Chile;7;0;2018;group stage
+684;2018-04-26 21:30:00;Vasco;Racing Club;1;1;2018;group stage
+685;2018-05-02 21:45:00;Vasco;Cruzeiro;0;4;2018;group stage
+686;2018-05-03 19:15:00;Racing Club;Universidad de Chile;1;0;2018;group stage
+687;2018-05-22 21:30:00;Universidad de Chile;Vasco;0;2;2018;group stage
+688;2018-05-22 21:30:00;Cruzeiro;Racing Club;2;1;2018;group stage
+689;2018-02-28 19:15:00;Nacional (URU);Estudiantes;0;0;2018;group stage
+690;2018-03-01 19:15:00;Real Garcilaso;Santos;2;0;2018;group stage
+691;2018-03-14 19:15:00;Estudiantes;Real Garcilaso;3;0;2018;group stage
+692;2018-03-15 19:15:00;Santos;Nacional (URU);3;1;2018;group stage
+693;2018-04-03 19:15:00;Real Garcilaso;Nacional (URU);0;0;2018;group stage
+694;2018-04-05 21:30:00;Estudiantes;Santos;0;1;2018;group stage
+695;2018-04-24 21:30:00;Santos;Estudiantes;2;0;2018;group stage
+696;2018-04-25 19:15:00;Nacional (URU);Real Garcilaso;4;0;2018;group stage
+697;2018-05-01 19:15:00;Real Garcilaso;Estudiantes;0;0;2018;group stage
+698;2018-05-01 21:30:00;Nacional (URU);Santos;1;0;2018;group stage
+699;2018-05-24 19:15:00;Santos;Real Garcilaso;0;0;2018;group stage
+700;2018-05-24 19:15:00;Estudiantes;Nacional (URU);3;1;2018;group stage
+701;2018-02-28 21:45:00;Millonarios;Corinthians;0;0;2018;group stage
+702;2018-03-01 19:15:00;Deportivo Lara;Independiente;1;0;2018;group stage
+703;2018-03-14 21:45:00;Corinthians;Deportivo Lara;2;0;2018;group stage
+704;2018-03-15 21:30:00;Independiente;Millonarios;1;0;2018;group stage
+705;2018-04-17 21:30:00;Millonarios;Deportivo Lara;4;0;2018;group stage
+706;2018-04-18 21:45:00;Independiente;Corinthians;0;1;2018;group stage
+707;2018-04-24 19:15:00;Deportivo Lara;Millonarios;2;1;2018;group stage
+708;2018-05-02 21:45:00;Corinthians;Independiente;1;2;2018;group stage
+709;2018-05-17 21:30:00;Deportivo Lara;Corinthians;2;7;2018;group stage
+710;2018-05-17 21:30:00;Millonarios;Independiente;1;1;2018;group stage
+711;2018-05-24 21:30:00;Independiente;Deportivo Lara;2;0;2018;group stage
+712;2018-05-24 21:30:00;Corinthians;Millonarios;0;1;2018;group stage
+713;2018-03-01 21:30:00;Alianza Lima;Boca Juniors;0;0;2018;group stage
+714;2018-03-01 21:30:00;Junior de Barranquilla;Palmeiras;0;3;2018;group stage
+715;2018-04-03 21:30:00;Palmeiras;Alianza Lima;2;0;2018;group stage
+716;2018-04-04 21:45:00;Boca Juniors;Junior de Barranquilla;1;0;2018;group stage
+717;2018-04-11 21:45:00;Palmeiras;Boca Juniors;1;1;2018;group stage
+718;2018-04-19 21:30:00;Alianza Lima;Junior de Barranquilla;0;2;2018;group stage
+719;2018-04-25 21:45:00;Boca Juniors;Palmeiras;0;2;2018;group stage
+720;2018-04-26 21:30:00;Junior de Barranquilla;Alianza Lima;1;0;2018;group stage
+721;2018-05-02 19:15:00;Junior de Barranquilla;Boca Juniors;1;1;2018;group stage
+722;2018-05-03 21:30:00;Alianza Lima;Palmeiras;1;3;2018;group stage
+723;2018-05-16 21:45:00;Boca Juniors;Alianza Lima;5;0;2018;group stage
+724;2018-05-16 21:45:00;Palmeiras;Junior de Barranquilla;3;1;2018;group stage
+725;2018-11-11 17:00:00;Boca Juniors;River Plate;2;2;2018;final
+726;2018-12-09 17:30:00;River Plate;Boca Juniors;3;1;2018;final
+727;2018-10-23 21:45:00;River Plate;Grêmio;0;1;2018;semifinals
+728;2018-10-30 21:45:00;Grêmio;River Plate;1;2;2018;semifinals
+729;2018-10-24 21:45:00;Boca Juniors;Palmeiras;2;0;2018;semifinals
+730;2018-10-31 21:45:00;Palmeiras;Boca Juniors;2;2;2018;semifinals
+731;2018-09-19 19:30:00;Independiente;River Plate;0;0;2018;quarterfinals
+732;2018-10-02 19:30:00;River Plate;Independiente;3;1;2018;quarterfinals
+733;2018-09-18 21:45:00;Atlético Tucumán;Grêmio;0;2;2018;quarterfinals
+734;2018-10-02 21:45:00;Grêmio;Atlético Tucumán;4;0;2018;quarterfinals
+735;2018-09-20 21:45:00;Colo-Colo;Palmeiras;0;2;2018;quarterfinals
+736;2018-10-03 21:45:00;Palmeiras;Colo-Colo;2;0;2018;quarterfinals
+737;2018-09-19 21:45:00;Boca Juniors;Cruzeiro;2;0;2018;quarterfinals
+738;2018-10-04 21:45:00;Cruzeiro;Boca Juniors;1;1;2018;quarterfinals
+739;2018-08-09 19:30:00;Racing Club;River Plate;0;0;2018;round of 16
+740;2018-08-29 19:30:00;River Plate;Racing Club;3;0;2018;round of 16
+741;2018-08-21 21:45:00;Independiente;Santos;3;0;2018;round of 16
+742;2018-08-28 19:30:00;Santos;Independiente;0;0;2018;round of 16
+743;2018-08-07 21:45:00;Estudiantes;Grêmio;2;1;2018;round of 16
+744;2018-08-28 21:45:00;Grêmio;Estudiantes;2;1;2018;round of 16
+745;2018-08-09 21:45:00;Atlético Tucumán;Atlético Nacional;2;0;2018;round of 16
+746;2018-08-28 21:45:00;Atlético Nacional;Atlético Tucumán;1;0;2018;round of 16
+747;2018-08-08 21:45:00;Colo-Colo;Corinthians;1;0;2018;round of 16
+748;2018-08-29 21:45:00;Corinthians;Colo-Colo;2;1;2018;round of 16
+749;2018-08-09 21:45:00;Cerro Porteño;Palmeiras;0;2;2018;round of 16
+750;2018-08-30 21:45:00;Palmeiras;Cerro Porteño;0;1;2018;round of 16
+751;2018-08-08 21:45:00;Flamengo;Cruzeiro;0;2;2018;round of 16
+752;2018-08-29 21:45:00;Cruzeiro;Flamengo;0;1;2018;round of 16
+753;2018-08-08 19:30:00;Boca Juniors;Libertad;2;0;2018;round of 16
+754;2018-08-30 19:30:00;Libertad;Boca Juniors;2;4;2018;round of 16
+755;2019-03-06 19:15:00;Palestino;Internacional;0;1;2019;group stage
+756;2019-03-06 21:30:00;Alianza Lima;River Plate;1;1;2019;group stage
+757;2019-03-13 21:30:00;Internacional;Alianza Lima;2;0;2019;group stage
+758;2019-03-13 21:30:00;River Plate;Palestino;0;0;2019;group stage
+759;2019-04-02 21:30:00;Palestino;Alianza Lima;3;0;2019;group stage
+760;2019-04-03 19:15:00;Internacional;River Plate;2;2;2019;group stage
+761;2019-04-09 21:30:00;Internacional;Palestino;3;2;2019;group stage
+762;2019-04-11 19:00:00;River Plate;Alianza Lima;3;0;2019;group stage
+763;2019-04-24 19:15:00;Palestino;River Plate;0;2;2019;group stage
+764;2019-04-24 21:30:00;Alianza Lima;Internacional;0;1;2019;group stage
+765;2019-05-07 21:30:00;River Plate;Internacional;2;2;2019;group stage
+766;2019-05-07 21:30:00;Alianza Lima;Palestino;1;2;2019;group stage
+767;2019-03-07 19:00:00;Huracán;Cruzeiro;0;1;2019;group stage
+768;2019-03-08 16:00:00;Deportivo Lara;Emelec;0;0;2019;group stage
+769;2019-03-14 23:00:00;Emelec;Huracán;0;0;2019;group stage
+770;2019-03-27 21:30:00;Cruzeiro;Deportivo Lara;2;0;2019;group stage
+771;2019-04-03 21:30:00;Deportivo Lara;Huracán;2;1;2019;group stage
+772;2019-04-03 21:30:00;Emelec;Cruzeiro;0;1;2019;group stage
+773;2019-04-10 19:15:00;Cruzeiro;Huracán;4;0;2019;group stage
+774;2019-04-11 23:00:00;Emelec;Deportivo Lara;2;2;2019;group stage
+775;2019-04-23 17:00:00;Deportivo Lara;Cruzeiro;0;2;2019;group stage
+776;2019-04-23 19:15:00;Huracán;Emelec;1;2;2019;group stage
+777;2019-05-08 19:15:00;Huracán;Deportivo Lara;3;0;2019;group stage
+778;2019-05-08 19:15:00;Cruzeiro;Emelec;1;2;2019;group stage
+779;2019-03-05 19:15:00;Godoy Cruz;Olimpia-PAR;0;0;2019;group stage
+780;2019-03-06 19:15:00;Universidad de Concepción;Sporting Cristal;5;4;2019;group stage
+781;2019-03-12 19:15:00;Olimpia-PAR;Universidad de Concepción;1;1;2019;group stage
+782;2019-03-12 21:30:00;Sporting Cristal;Godoy Cruz;1;1;2019;group stage
+783;2019-04-03 19:15:00;Universidad de Concepción;Godoy Cruz;0;0;2019;group stage
+784;2019-04-04 23:00:00;Sporting Cristal;Olimpia-PAR;0;3;2019;group stage
+785;2019-04-09 19:15:00;Olimpia-PAR;Godoy Cruz;2;1;2019;group stage
+786;2019-04-10 19:15:00;Sporting Cristal;Universidad de Concepción;2;0;2019;group stage
+787;2019-04-23 19:15:00;Universidad de Concepción;Olimpia-PAR;3;3;2019;group stage
+788;2019-04-23 21:30:00;Godoy Cruz;Sporting Cristal;2;0;2019;group stage
+789;2019-05-09 19:15:00;Godoy Cruz;Universidad de Concepción;1;0;2019;group stage
+790;2019-05-09 19:15:00;Olimpia-PAR;Sporting Cristal;0;1;2019;group stage
+791;2019-03-05 19:15:00;San José;Flamengo;0;1;2019;group stage
+792;2019-03-07 21:00:00;LDU;Peñarol;2;0;2019;group stage
+793;2019-03-13 21:30:00;Flamengo;LDU;3;1;2019;group stage
+794;2019-03-14 19:00:00;Peñarol;San José;4;0;2019;group stage
+795;2019-04-02 19:15:00;San José;LDU;3;3;2019;group stage
+796;2019-04-03 21:30:00;Flamengo;Peñarol;0;1;2019;group stage
+797;2019-04-09 21:30:00;Peñarol;LDU;1;0;2019;group stage
+798;2019-04-11 21:00:00;Flamengo;San José;6;1;2019;group stage
+799;2019-04-24 21:30:00;San José;Peñarol;3;1;2019;group stage
+800;2019-04-24 21:30:00;LDU;Flamengo;2;1;2019;group stage
+801;2019-05-08 21:30:00;LDU;San José;4;0;2019;group stage
+802;2019-05-08 21:30:00;Peñarol;Flamengo;0;0;2019;group stage
+803;2019-03-06 19:15:00;Atlético-MG;Cerro Porteño;0;1;2019;group stage
+804;2019-03-06 21:30:00;Zamora;Nacional (URU);0;1;2019;group stage
+805;2019-03-12 21:30:00;Nacional (URU);Atlético-MG;1;0;2019;group stage
+806;2019-03-13 19:15:00;Cerro Porteño;Zamora;2;1;2019;group stage
+807;2019-04-02 19:15:00;Cerro Porteño;Nacional (URU);1;0;2019;group stage
+808;2019-04-03 19:15:00;Atlético-MG;Zamora;3;2;2019;group stage
+809;2019-04-10 19:15:00;Nacional (URU);Zamora;1;0;2019;group stage
+810;2019-04-10 19:15:00;Cerro Porteño;Atlético-MG;4;1;2019;group stage
+811;2019-04-23 21:30:00;Atlético-MG;Nacional (URU);0;1;2019;group stage
+812;2019-04-25 17:00:00;Zamora;Cerro Porteño;2;1;2019;group stage
+813;2019-05-07 19:15:00;Zamora;Atlético-MG;1;2;2019;group stage
+814;2019-05-07 19:15:00;Nacional (URU);Cerro Porteño;1;1;2019;group stage
+815;2019-03-05 19:15:00;Melgar;San Lorenzo;0;0;2019;group stage
+816;2019-03-06 21:30:00;Junior de Barranquilla;Palmeiras;0;2;2019;group stage
+817;2019-03-12 19:15:00;Palmeiras;Melgar;3;0;2019;group stage
+818;2019-03-13 19:15:00;San Lorenzo;Junior de Barranquilla;1;0;2019;group stage
+819;2019-04-02 19:15:00;San Lorenzo;Palmeiras;1;0;2019;group stage
+820;2019-04-02 21:30:00;Melgar;Junior de Barranquilla;1;0;2019;group stage
+821;2019-04-09 21:30:00;San Lorenzo;Melgar;2;0;2019;group stage
+822;2019-04-10 21:30:00;Palmeiras;Junior de Barranquilla;3;0;2019;group stage
+823;2019-04-25 21:00:00;Junior de Barranquilla;San Lorenzo;1;0;2019;group stage
+824;2019-04-25 23:00:00;Melgar;Palmeiras;0;4;2019;group stage
+825;2019-05-08 21:30:00;Junior de Barranquilla;Melgar;0;1;2019;group stage
+826;2019-05-08 21:30:00;Palmeiras;San Lorenzo;1;0;2019;group stage
+827;2019-03-05 21:30:00;Jorge Wilstermann;Boca Juniors;0;0;2019;group stage
+828;2019-03-05 21:30:00;Deportes Tolima;Athletico;1;0;2019;group stage
+829;2019-03-12 19:15:00;Boca Juniors;Deportes Tolima;3;0;2019;group stage
+830;2019-03-14 21:00:00;Athletico;Jorge Wilstermann;4;0;2019;group stage
+831;2019-04-02 21:30:00;Athletico;Boca Juniors;3;0;2019;group stage
+832;2019-04-03 21:30:00;Deportes Tolima;Jorge Wilstermann;2;2;2019;group stage
+833;2019-04-09 19:15:00;Athletico;Deportes Tolima;1;0;2019;group stage
+834;2019-04-10 21:30:00;Boca Juniors;Jorge Wilstermann;4;0;2019;group stage
+835;2019-04-24 19:15:00;Jorge Wilstermann;Athletico;3;2;2019;group stage
+836;2019-04-24 21:30:00;Deportes Tolima;Boca Juniors;2;2;2019;group stage
+837;2019-05-09 21:30:00;Boca Juniors;Athletico;2;1;2019;group stage
+838;2019-05-09 21:30:00;Jorge Wilstermann;Deportes Tolima;0;2;2019;group stage
+839;2019-03-05 21:30:00;Libertad;Universidad Católica;4;1;2019;group stage
+840;2019-03-06 21:30:00;Rosario Central;Grêmio;1;1;2019;group stage
+841;2019-03-12 21:30:00;Grêmio;Libertad;0;1;2019;group stage
+842;2019-03-13 21:30:00;Universidad Católica;Rosario Central;2;1;2019;group stage
+843;2019-04-04 19:00:00;Universidad Católica;Grêmio;1;0;2019;group stage
+844;2019-04-04 22:00:00;Libertad;Rosario Central;2;0;2019;group stage
+845;2019-04-10 21:30:00;Grêmio;Rosario Central;3;1;2019;group stage
+846;2019-04-10 21:30:00;Universidad Católica;Libertad;2;3;2019;group stage
+847;2019-04-23 19:15:00;Libertad;Grêmio;0;2;2019;group stage
+848;2019-04-24 19:15:00;Rosario Central;Universidad Católica;1;1;2019;group stage
+849;2019-05-08 19:15:00;Rosario Central;Libertad;2;1;2019;group stage
+850;2019-05-08 19:15:00;Grêmio;Universidad Católica;2;0;2019;group stage
+851;2019-07-23 19:15:00;River Plate;Cruzeiro;0;0;2019;round of 16
+852;2019-07-30 19:15:00;Cruzeiro;River Plate;0;0;2019;round of 16
+853;2019-07-24 19:15:00;San Lorenzo;Cerro Porteño;0;0;2019;round of 16
+854;2019-07-31 19:15:00;Cerro Porteño;San Lorenzo;2;1;2019;round of 16
+855;2019-07-23 21:30:00;LDU;Olimpia-PAR;3;1;2019;round of 16
+856;2019-07-30 21:30:00;Olimpia-PAR;LDU;1;1;2019;round of 16
+857;2019-07-24 21:30:00;Athletico;Boca Juniors;0;1;2019;round of 16
+858;2019-07-31 21:30:00;Boca Juniors;Athletico;2;0;2019;round of 16
+859;2019-07-23 21:30:00;Godoy Cruz;Palmeiras;2;2;2019;round of 16
+860;2019-07-30 21:30:00;Palmeiras;Godoy Cruz;4;0;2019;round of 16
+861;2019-07-25 21:30:00;Grêmio;Libertad;2;0;2019;round of 16
+862;2019-08-01 21:30:00;Libertad;Grêmio;0;3;2019;round of 16
+863;2019-07-24 21:30:00;Emelec;Flamengo;2;0;2019;round of 16
+864;2019-07-31 21:30:00;Flamengo;Emelec;2;0;2019;round of 16
+865;2019-07-24 19:15:00;Nacional (URU);Internacional;0;1;2019;round of 16
+866;2019-07-31 19:15:00;Internacional;Nacional (URU);2;0;2019;round of 16
+867;2019-08-22 19:15:00;River Plate;Cerro Porteño;2;0;2019;quarterfinals
+868;2019-08-29 19:15:00;Cerro Porteño;River Plate;1;1;2019;quarterfinals
+869;2019-08-21 19:15:00;LDU;Boca Juniors;0;3;2019;quarterfinals
+870;2019-08-28 19:15:00;Boca Juniors;LDU;0;0;2019;quarterfinals
+871;2019-08-20 21:30:00;Grêmio;Palmeiras;0;1;2019;quarterfinals
+872;2019-08-27 21:30:00;Palmeiras;Grêmio;1;2;2019;quarterfinals
+873;2019-08-21 21:30:00;Flamengo;Internacional;2;0;2019;quarterfinals
+874;2019-08-28 21:30:00;Internacional;Flamengo;1;1;2019;quarterfinals
+875;2019-10-01 21:30:00;River Plate;Boca Juniors;2;0;2019;semifinals
+876;2019-10-22 21:30:00;Boca Juniors;River Plate;1;0;2019;semifinals
+877;2019-10-02 21:30:00;Grêmio;Flamengo;1;1;2019;semifinals
+878;2019-10-23 21:30:00;Flamengo;Grêmio;5;0;2019;semifinals
+879;2019-11-23 17:00:00;Flamengo;River Plate;2;1;2019;final
+880;2020-03-04 19:15:00;Barcelona-EQU;Independiente del Valle;0;3;2020;group stage
+881;2020-03-04 21:30:00;Junior de Barranquilla;Flamengo;1;2;2020;group stage
+882;2020-03-11 21:30:00;Flamengo;Barcelona-EQU;3;0;2020;group stage
+883;2020-03-11 21:30:00;Independiente del Valle;Junior de Barranquilla;3;0;2020;group stage
+884;2020-09-17 21:00:00;Independiente del Valle;Flamengo;5;0;2020;group stage
+885;2020-09-17 23:00:00;Barcelona-EQU;Junior de Barranquilla;1;2;2020;group stage
+886;2020-09-22 19:15:00;Barcelona-EQU;Flamengo;1;2;2020;group stage
+887;2020-09-22 21:30:00;Junior de Barranquilla;Independiente del Valle;4;1;2020;group stage
+888;2020-09-30 21:30:00;Junior de Barranquilla;Barcelona-EQU;0;2;2020;group stage
+889;2020-09-30 21:30:00;Flamengo;Independiente del Valle;4;0;2020;group stage
+890;2020-10-21 21:30:00;Independiente del Valle;Barcelona-EQU;2;0;2020;group stage
+891;2020-10-21 21:30:00;Flamengo;Junior de Barranquilla;3;1;2020;group stage
+892;2020-03-04 19:15:00;Tigre;Palmeiras;0;2;2020;group stage
+893;2020-03-04 21:30:00;Guaraní-PAR;Bolívar;2;0;2020;group stage
+894;2020-03-10 19:15:00;Bolívar;Tigre;2;0;2020;group stage
+895;2020-03-10 21:30:00;Palmeiras;Guaraní-PAR;3;1;2020;group stage
+896;2020-09-16 21:30:00;Bolívar;Palmeiras;1;2;2020;group stage
+897;2020-09-17 23:00:00;Guaraní-PAR;Tigre;4;1;2020;group stage
+898;2020-09-22 19:15:00;Tigre;Bolívar;1;1;2020;group stage
+899;2020-09-23 21:30:00;Guaraní-PAR;Palmeiras;0;0;2020;group stage
+900;2020-09-30 19:15:00;Palmeiras;Bolívar;5;0;2020;group stage
+901;2020-10-01 21:00:00;Tigre;Guaraní-PAR;1;3;2020;group stage
+902;2020-10-21 21:30:00;Bolívar;Guaraní-PAR;2;3;2020;group stage
+903;2020-10-21 21:30:00;Palmeiras;Tigre;5;0;2020;group stage
+904;2020-03-03 21:30:00;Athletico;Peñarol;1;0;2020;group stage
+905;2020-03-04 19:15:00;Jorge Wilstermann;Colo-Colo;2;0;2020;group stage
+906;2020-03-11 19:15:00;Peñarol;Jorge Wilstermann;1;0;2020;group stage
+907;2020-03-11 19:15:00;Colo-Colo;Athletico;1;0;2020;group stage
+908;2020-09-15 19:15:00;Jorge Wilstermann;Athletico;2;3;2020;group stage
+909;2020-09-15 19:15:00;Colo-Colo;Peñarol;2;1;2020;group stage
+910;2020-09-23 19:15:00;Athletico;Colo-Colo;2;0;2020;group stage
+911;2020-09-24 19:00:00;Jorge Wilstermann;Peñarol;3;1;2020;group stage
+912;2020-09-29 19:15:00;Peñarol;Colo-Colo;3;0;2020;group stage
+913;2020-09-29 21:30:00;Athletico;Jorge Wilstermann;0;0;2020;group stage
+914;2020-10-20 21:30:00;Peñarol;Athletico;3;2;2020;group stage
+915;2020-10-20 21:30:00;Colo-Colo;Jorge Wilstermann;0;1;2020;group stage
+916;2020-03-04 21:30:00;LDU;River Plate;3;0;2020;group stage
+917;2020-03-05 21:00:00;Binacional;São Paulo;2;1;2020;group stage
+918;2020-03-11 19:15:00;River Plate;Binacional;8;0;2020;group stage
+919;2020-03-11 21:30:00;São Paulo;LDU;3;0;2020;group stage
+920;2020-09-15 21:30:00;Binacional;LDU;0;1;2020;group stage
+921;2020-09-17 19:00:00;São Paulo;River Plate;2;2;2020;group stage
+922;2020-09-22 21:30:00;LDU;São Paulo;4;2;2020;group stage
+923;2020-09-22 21:30:00;Binacional;River Plate;0;6;2020;group stage
+924;2020-09-29 21:30:00;LDU;Binacional;4;0;2020;group stage
+925;2020-09-30 21:30:00;River Plate;São Paulo;2;1;2020;group stage
+926;2020-10-20 21:30:00;River Plate;LDU;3;0;2020;group stage
+927;2020-10-20 21:30:00;São Paulo;Binacional;5;1;2020;group stage
+928;2020-03-03 19:15:00;Internacional;Universidad Católica;3;0;2020;group stage
+929;2020-03-03 21:30:00;América de Cali;Grêmio;0;2;2020;group stage
+930;2020-03-10 19:15:00;Universidad Católica;América de Cali;1;2;2020;group stage
+931;2020-03-12 21:00:00;Grêmio;Internacional;0;0;2020;group stage
+932;2020-09-16 19:15:00;Internacional;América de Cali;4;3;2020;group stage
+933;2020-09-16 21:30:00;Universidad Católica;Grêmio;2;0;2020;group stage
+934;2020-09-23 21:30:00;América de Cali;Universidad Católica;1;1;2020;group stage
+935;2020-09-23 21:30:00;Internacional;Grêmio;0;1;2020;group stage
+936;2020-09-29 19:15:00;Grêmio;Universidad Católica;2;0;2020;group stage
+937;2020-09-29 21:30:00;América de Cali;Internacional;0;0;2020;group stage
+938;2020-10-22 21:30:00;Universidad Católica;Internacional;2;1;2020;group stage
+939;2020-10-22 21:30:00;Grêmio;América de Cali;1;1;2020;group stage
+940;2020-03-05 19:00:00;Estudiantes de Mérida;Racing Club;1;2;2020;group stage
+941;2020-03-05 23:00:00;Alianza Lima;Nacional-URU;0;1;2020;group stage
+942;2020-03-12 19:00:00;Nacional-URU;Estudiantes de Mérida;1;0;2020;group stage
+943;2020-03-12 21:00:00;Racing Club;Alianza Lima;1;0;2020;group stage
+944;2020-09-16 19:15:00;Estudiantes de Mérida;Alianza Lima;3;2;2020;group stage
+945;2020-09-17 17:00:00;Racing Club;Nacional-URU;0;1;2020;group stage
+946;2020-09-22 19:15:00;Estudiantes de Mérida;Nacional-URU;1;3;2020;group stage
+947;2020-09-23 21:30:00;Alianza Lima;Racing Club;0;2;2020;group stage
+948;2020-09-30 19:15:00;Nacional-URU;Racing Club;1;2;2020;group stage
+949;2020-09-30 21:30:00;Alianza Lima;Estudiantes de Mérida;2;2;2020;group stage
+950;2020-10-21 19:15:00;Nacional-URU;Alianza Lima;2;0;2020;group stage
+951;2020-10-21 19:15:00;Racing Club;Estudiantes de Mérida;2;1;2020;group stage
+952;2020-03-03 19:15:00;Defensa y Justicia;Santos;1;2;2020;group stage
+953;2020-03-04 21:30:00;Delfín;Olimpia-PAR;1;1;2020;group stage
+954;2020-03-10 19:15:00;Santos;Delfín;1;0;2020;group stage
+955;2020-03-11 21:30:00;Olimpia-PAR;Defensa y Justicia;2;1;2020;group stage
+956;2020-09-15 21:30:00;Santos;Olimpia-PAR;0;0;2020;group stage
+957;2020-09-17 19:00:00;Defensa y Justicia;Delfín;3;0;2020;group stage
+958;2020-09-23 19:15:00;Defensa y Justicia;Olimpia-PAR;2;1;2020;group stage
+959;2020-09-24 23:00:00;Delfín;Santos;1;2;2020;group stage
+960;2020-10-01 19:00:00;Olimpia-PAR;Santos;2;3;2020;group stage
+961;2020-10-01 23:00:00;Delfín;Defensa y Justicia;3;0;2020;group stage
+962;2020-10-20 19:15:00;Olimpia-PAR;Delfín;0;1;2020;group stage
+963;2020-10-20 19:15:00;Santos;Defensa y Justicia;2;1;2020;group stage
+964;2020-03-03 21:30:00;Independiente Medellín;Libertad-PAR;1;2;2020;group stage
+965;2020-03-03 21:30:00;Caracas;Boca Juniors;1;1;2020;group stage
+966;2020-03-10 21:30:00;Boca Juniors;Independiente Medellín;3;0;2020;group stage
+967;2020-03-10 21:30:00;Libertad-PAR;Caracas;3;2;2020;group stage
+968;2020-09-16 21:30:00;Independiente Medellín;Caracas;2;3;2020;group stage
+969;2020-09-17 21:00:00;Libertad-PAR;Boca Juniors;0;2;2020;group stage
+970;2020-09-23 19:15:00;Caracas;Libertad-PAR;2;1;2020;group stage
+971;2020-09-24 21:00:00;Independiente Medellín;Boca Juniors;0;1;2020;group stage
+972;2020-09-29 21:30:00;Boca Juniors;Libertad-PAR;0;0;2020;group stage
+973;2020-09-30 19:15:00;Caracas;Independiente Medellín;0;2;2020;group stage
+974;2020-10-22 21:30:00;Libertad-PAR;Independiente Medellín;2;4;2020;group stage
+975;2020-10-22 21:30:00;Boca Juniors;Caracas;3;0;2020;group stage
+976;2020-11-26 21:30:00;Guaraní-PAR;Grêmio;0;2;2020;round of 16
+977;2020-12-03 21:30:00;Grêmio;Guaraní-PAR;2;0;2020;round of 16
+978;2020-11-24 19:15:00;LDU;Santos;1;2;2020;round of 16
+979;2020-12-01 19:15:00;Santos;LDU;0;1;2020;round of 16
+980;2020-11-24 21:30:00;Racing Club;Flamengo;1;1;2020;round of 16
+981;2020-12-01 21:30:00;Flamengo;Racing Club;1;1;2020;round of 16
+982;2020-12-02 21:30:00;Internacional;Boca Juniors;0;1;2020;round of 16
+983;2020-12-09 21:30:00;Boca Juniors;Internacional;0;1;2020;round of 16
+984;2020-11-25 19:15:00;Independiente del Valle;Nacional-URU;0;0;2020;round of 16
+985;2020-12-02 19:15:00;Nacional-URU;Independiente del Valle;0;0;2020;round of 16
+986;2020-11-24 19:15:00;Athletico;River Plate;1;1;2020;round of 16
+987;2020-12-01 19:15:00;River Plate;Athletico;1;0;2020;round of 16
+988;2020-11-25 21:30:00;Libertad-PAR;Jorge Wilstermann;3;1;2020;round of 16
+989;2020-12-02 21:30:00;Jorge Wilstermann;Libertad-PAR;0;2;2020;round of 16
+990;2020-11-25 19:15:00;Delfín;Palmeiras;1;3;2020;round of 16
+991;2020-12-02 19:15:00;Palmeiras;Delfín;5;0;2020;round of 16
+992;2020-12-09 19:15:00;Grêmio;Santos;1;1;2020;quarterfinals
+993;2020-12-16 19:15:00;Santos;Grêmio;4;1;2020;quarterfinals
+994;2020-12-16 21:30:00;Racing Club;Boca Juniors;1;0;2020;quarterfinals
+995;2020-12-23 21:30:00;Boca Juniors;Racing Club;2;0;2020;quarterfinals
+996;2020-12-10 21:30:00;River Plate;Nacional-URU;2;0;2020;quarterfinals
+997;2020-12-17 21:30:00;Nacional-URU;River Plate;2;6;2020;quarterfinals
+998;2020-12-08 21:30:00;Libertad-PAR;Palmeiras;1;1;2020;quarterfinals
+999;2020-12-15 21:30:00;Palmeiras;Libertad-PAR;3;0;2020;quarterfinals
+1000;2020-01-06 19:15:00;Boca Juniors;Santos;0;0;2020;semifinals
+1001;2020-01-13 19:15:00;Santos;Boca Juniors;3;0;2020;semifinals
+1002;2020-01-05 21:30:00;River Plate;Palmeiras;0;3;2020;semifinals
+1003;2020-01-12 21:30:00;Palmeiras;River Plate;0;2;2020;semifinals
+1004;2020-01-30 17:00:00;Palmeiras;Santos;1;0;2020;final
+1005;2021-04-21 21:00:00;Universitario-PER;Palmeiras;2;3;2021;group stage
+1006;2021-04-21 21:00:00;Independiente del Valle;Defensa y Justicia;1;1;2021;group stage
+1007;2021-04-27 21:30:00;Palmeiras;Independiente del Valle;5;0;2021;group stage
+1008;2021-04-28 19:00:00;Defensa y Justicia;Universitario-PER;3;0;2021;group stage
+1009;2021-05-04 21:30:00;Defensa y Justicia;Palmeiras;1;2;2021;group stage
+1010;2021-05-05 19:00:00;Independiente del Valle;Universitario-PER;4;0;2021;group stage
+1011;2021-05-11 21:30:00;Independiente del Valle;Palmeiras;0;1;2021;group stage
+1012;2021-05-12 23:00:00;Universitario-PER;Defensa y Justicia;1;1;2021;group stage
+1013;2021-05-18 19:15:00;Palmeiras;Defensa y Justicia;3;4;2021;group stage
+1014;2021-05-18 21:30:00;Universitario-PER;Independiente del Valle;3;2;2021;group stage
+1015;2021-05-27 19:00:00;Palmeiras;Universitario-PER;6;0;2021;group stage
+1016;2021-05-27 19:00:00;Defensa y Justicia;Independiente del Valle;1;1;2021;group stage
+1017;2021-04-20 19:15:00;Always Ready;Internacional;2;0;2021;group stage
+1018;2021-04-20 19:15:00;Deportivo Táchira;Olimpia-PAR;3;2;2021;group stage
+1019;2021-04-27 21:30:00;Internacional;Deportivo Táchira;4;0;2021;group stage
+1020;2021-04-28 23:00:00;Olimpia-PAR;Always Ready;2;1;2021;group stage
+1021;2021-05-05 21:00:00;Internacional;Olimpia-PAR;6;1;2021;group stage
+1022;2021-05-06 19:00:00;Always Ready;Deportivo Táchira;2;0;2021;group stage
+1023;2021-05-11 19:15:00;Deportivo Táchira;Internacional;2;1;2021;group stage
+1024;2021-05-13 21:00:00;Always Ready;Olimpia-PAR;1;2;2021;group stage
+1025;2021-05-19 23:00:00;Deportivo Táchira;Always Ready;7;2;2021;group stage
+1026;2021-05-20 21:00:00;Olimpia-PAR;Internacional;0;1;2021;group stage
+1027;2021-05-26 19:00:00;Internacional;Always Ready;0;0;2021;group stage
+1028;2021-05-26 19:00:00;Olimpia-PAR;Deportivo Táchira;6;2;2021;group stage
+1029;2021-04-20 19:15:00;Santos;Barcelona-EQU;0;2;2021;group stage
+1030;2021-04-21 19:00:00;The Strongest;Boca Juniors;0;1;2021;group stage
+1031;2021-04-27 21:30:00;Boca Juniors;Santos;2;0;2021;group stage
+1032;2021-04-28 23:00:00;Barcelona-EQU;The Strongest;4;0;2021;group stage
+1033;2021-05-04 19:15:00;Santos;The Strongest;5;0;2021;group stage
+1034;2021-05-04 21:30:00;Barcelona-EQU;Boca Juniors;1;0;2021;group stage
+1035;2021-05-11 19:15:00;Santos;Boca Juniors;1;0;2021;group stage
+1036;2021-05-11 19:15:00;The Strongest;Barcelona-EQU;2;0;2021;group stage
+1037;2021-05-18 19:15:00;The Strongest;Santos;2;1;2021;group stage
+1038;2021-05-20 21:00:00;Boca Juniors;Barcelona-EQU;0;0;2021;group stage
+1039;2021-05-26 21:00:00;Boca Juniors;The Strongest;3;0;2021;group stage
+1040;2021-05-26 21:00:00;Barcelona-EQU;Santos;3;1;2021;group stage
+1041;2021-04-22 19:00:00;Fluminense;River Plate;1;1;2021;group stage
+1042;2021-04-22 23:00:00;Junior de Barranquilla;Ind. Santa Fe;1;1;2021;group stage
+1043;2021-04-28 21:00:00;River Plate;Junior de Barranquilla;2;1;2021;group stage
+1044;2021-04-28 21:00:00;Ind. Santa Fe;Fluminense;1;2;2021;group stage
+1045;2021-05-06 21:00:00;Ind. Santa Fe;River Plate;0;0;2021;group stage
+1046;2021-05-06 21:00:00;Junior de Barranquilla;Fluminense;1;1;2021;group stage
+1047;2021-05-12 21:00:00;Junior de Barranquilla;River Plate;1;1;2021;group stage
+1048;2021-05-12 21:00:00;Fluminense;Ind. Santa Fe;2;1;2021;group stage
+1049;2021-05-18 21:30:00;Fluminense;Junior de Barranquilla;1;2;2021;group stage
+1050;2021-05-19 21:00:00;River Plate;Ind. Santa Fe;2;1;2021;group stage
+1051;2021-05-25 19:15:00;River Plate;Fluminense;1;3;2021;group stage
+1052;2021-05-25 19:15:00;Ind. Santa Fe;Junior de Barranquilla;0;0;2021;group stage
+1053;2021-04-20 21:30:00;Sporting Cristal;São Paulo;0;3;2021;group stage
+1054;2021-04-21 21:00:00;Rentistas ;Racing Club;1;1;2021;group stage
+1055;2021-04-29 19:00:00;Racing Club;Sporting Cristal;2;1;2021;group stage
+1056;2021-04-29 21:00:00;São Paulo;Rentistas ;2;0;2021;group stage
+1057;2021-05-05 19:00:00;Racing Club;São Paulo;0;0;2021;group stage
+1058;2021-05-05 21:00:00;Rentistas ;Sporting Cristal;0;0;2021;group stage
+1059;2021-05-11 21:30:00;Sporting Cristal;Racing Club;0;2;2021;group stage
+1060;2021-05-12 19:00:00;Rentistas ;São Paulo;1;1;2021;group stage
+1061;2021-05-18 21:30:00;São Paulo;Racing Club;0;1;2021;group stage
+1062;2021-05-19 19:00:00;Sporting Cristal;Rentistas ;2;0;2021;group stage
+1063;2021-05-25 21:30:00;São Paulo;Sporting Cristal;3;0;2021;group stage
+1064;2021-05-25 21:30:00;Racing Club;Rentistas ;3;0;2021;group stage
+1065;2021-04-20 19:15:00;Argentinos Juniors;Nacional-URU;2;0;2021;group stage
+1066;2021-04-22 21:00:00;Atlético Nacional;Universidad Católica;2;0;2021;group stage
+1067;2021-04-28 19:00:00;Nacional-URU;Atlético Nacional;4;4;2021;group stage
+1068;2021-04-29 19:00:00;Universidad Católica;Argentinos Juniors;0;2;2021;group stage
+1069;2021-05-05 23:00:00;Universidad Católica;Nacional-URU;3;1;2021;group stage
+1070;2021-05-06 19:00:00;Atlético Nacional;Argentinos Juniors;0;2;2021;group stage
+1071;2021-05-12 19:00:00;Argentinos Juniors;Universidad Católica;0;1;2021;group stage
+1072;2021-05-12 23:00:00;Atlético Nacional;Nacional-URU;0;0;2021;group stage
+1073;2021-05-18 19:15:00;Nacional-URU;Universidad Católica;1;0;2021;group stage
+1074;2021-05-20 19:00:00;Argentinos Juniors;Atlético Nacional;1;0;2021;group stage
+1075;2021-05-26 23:00:00;Nacional-URU;Argentinos Juniors;2;0;2021;group stage
+1076;2021-05-26 23:00:00;Universidad Católica;Atlético Nacional;2;0;2021;group stage
+1077;2021-04-20 21:30:00;Vélez Sarsfield;Flamengo;2;3;2021;group stage
+1078;2021-04-21 23:00:00;Unión La Calera;LDU;2;2;2021;group stage
+1079;2021-04-27 19:15:00;Flamengo;Unión La Calera;4;1;2021;group stage
+1080;2021-04-27 19:15:00;LDU;Vélez Sarsfield;3;1;2021;group stage
+1081;2021-05-04 19:15:00;Unión La Calera;Vélez Sarsfield;0;2;2021;group stage
+1082;2021-05-04 21:30:00;LDU;Flamengo;2;3;2021;group stage
+1083;2021-05-11 21:30:00;Unión La Calera;Flamengo;2;2;2021;group stage
+1084;2021-05-13 19:00:00;Vélez Sarsfield;LDU;3;1;2021;group stage
+1085;2021-05-19 19:00:00;Vélez Sarsfield;Unión La Calera;2;1;2021;group stage
+1086;2021-05-19 21:00:00;Flamengo;LDU;2;2;2021;group stage
+1087;2021-05-27 21:00:00;Flamengo;Vélez Sarsfield;0;0;2021;group stage
+1088;2021-05-27 21:00:00;LDU;Unión La Calera;5;2;2021;group stage
+1089;2021-04-21 19:00:00;La Guaira;Atlético-MG;1;1;2021;group stage
+1090;2021-04-21 23:00:00;América de Cali;Cerro Porteño;0;2;2021;group stage
+1091;2021-04-27 19:15:00;Atlético-MG;América de Cali;2;1;2021;group stage
+1092;2021-04-28 19:00:00;Cerro Porteño;La Guaira;0;0;2021;group stage
+1093;2021-05-04 19:15:00;Atlético-MG;Cerro Porteño;4;0;2021;group stage
+1094;2021-05-06 23:00:00;La Guaira;América de Cali;0;0;2021;group stage
+1095;2021-05-12 21:00:00;La Guaira;Cerro Porteño;0;1;2021;group stage
+1096;2021-05-13 21:00:00;América de Cali;Atlético-MG;1;3;2021;group stage
+1097;2021-05-19 21:00:00;Cerro Porteño;Atlético-MG;0;1;2021;group stage
+1098;2021-05-19 23:00:00;América de Cali;La Guaira;3;1;2021;group stage
+1099;2021-05-25 21:30:00;Atlético-MG;La Guaira;4;0;2021;group stage
+1100;2021-05-25 21:30:00;Cerro Porteño;América de Cali;1;0;2021;group stage
+1101;2021-07-14 21:30:00;Defensa y Justicia;Flamengo;0;1;2021;round of 16
+1102;2021-07-21 21:30:00;Flamengo;Defensa y Justicia;4;1;2021;round of 16
+1103;2021-07-15 21:30:00;Olimpia-PAR;Internacional;0;0;2021;round of 16
+1104;2021-07-22 21:30:00;Internacional;Olimpia-PAR;0;0;2021;round of 16
+1105;2021-07-14 19:15:00;Vélez Sarsfield;Barcelona-EQU;1;0;2021;round of 16
+1106;2021-07-21 19:15:00;Barcelona-EQU;Vélez Sarsfield;3;1;2021;round of 16
+1107;2021-07-13 19:15:00;Cerro Porteño;Fluminense;0;2;2021;round of 16
+1108;2021-08-03 19:15:00;Fluminense;Cerro Porteño;1;0;2021;round of 16
+1109;2021-07-13 19:15:00;Boca Juniors;Atlético-MG;0;0;2021;round of 16
+1110;2021-07-20 19:15:00;Atlético-MG;Boca Juniors;0;0;2021;round of 16
+1111;2021-07-14 21:30:00;River Plate;Argentinos Juniors;1;1;2021;round of 16
+1112;2021-07-21 21:30:00;Argentinos Juniors;River Plate;0;2;2021;round of 16
+1113;2021-07-13 21:30:00;São Paulo;Racing Club;1;1;2021;round of 16
+1114;2021-07-20 21:30:00;Racing Club;São Paulo;1;3;2021;round of 16
+1115;2021-07-14 19:15:00;Universidad Católica;Palmeiras;0;1;2021;round of 16
+1116;2021-07-21 19:15:00;Palmeiras;Universidad Católica;1;0;2021;round of 16
+1117;2021-08-11 19:15:00;Olimpia-PAR;Flamengo;1;4;2021;quarterfinals
+1118;2021-08-18 19:15:00;Flamengo;Olimpia-PAR;5;1;2021;quarterfinals
+1119;2021-08-12 21:30:00;Fluminense;Barcelona-EQU;2;2;2021;quarterfinals
+1120;2021-08-19 21:30:00;Barcelona-EQU;Fluminense;1;1;2021;quarterfinals
+1121;2021-08-11 21:30:00;River Plate;Atlético-MG;0;1;2021;quarterfinals
+1122;2021-08-18 21:30:00;Atlético-MG;River Plate;3;0;2021;quarterfinals
+1123;2021-08-10 21:30:00;São Paulo;Palmeiras;1;1;2021;quarterfinals
+1124;2021-08-17 21:30:00;Palmeiras;São Paulo;3;0;2021;quarterfinals
+1125;2021-09-22 21:30:00;Flamengo;Barcelona-EQU;2;0;2021;semifinals
+1126;2021-09-29 21:30:00;Barcelona-EQU;Flamengo;0;2;2021;semifinals
+1127;2021-09-21 21:30:00;Palmeiras;Atlético-MG;0;0;2021;semifinals
+1128;2021-09-28 21:30:00;Atlético-MG;Palmeiras;1;1;2021;semifinals
+1129;2022-04-06 21:00:00;Deportivo Táchira;Palmeiras;0;4;2022;group stage
+1130;2022-04-06 23:00:00;Independiente Petrolero;Emelec;1;1;2022;group stage
+1131;2022-04-12 21:30:00;Palmeiras;Independiente Petrolero;8;1;2022;group stage
+1132;2022-04-14 23:00:00;Emelec;Deportivo Táchira;1;1;2022;group stage
+1133;2022-04-26 19:15:00;Independiente Petrolero;Deportivo Táchira;1;2;2022;group stage
+1134;2022-04-27 21:00:00;Emelec;Palmeiras;1;3;2022;group stage
+1135;2022-05-03 19:15:00;Deportivo Táchira;Emelec;1;4;2022;group stage
+1136;2022-05-03 21:30:00;Independiente Petrolero;Palmeiras;0;5;2022;group stage
+1137;2022-05-18 19:00:00;Palmeiras;Emelec;1;0;2022;group stage
+1138;2022-05-18 21:00:00;Deportivo Táchira;Independiente Petrolero;3;0;2022;group stage
+1139;2022-05-24 21:30:00;Palmeiras;Deportivo Táchira;4;1;2022;group stage
+1140;2022-05-24 21:30:00;Emelec;Independiente Petrolero;7;0;2022;group stage
+1141;2022-04-05 19:15:00;Caracas;Athletico;0;0;2022;group stage
+1142;2022-04-07 23:00:00;The Strongest;Libertad-PAR;1;1;2022;group stage
+1143;2022-04-13 19:00:00;Libertad-PAR;Caracas;2;1;2022;group stage
+1144;2022-04-14 19:00:00;Athletico;The Strongest;1;0;2022;group stage
+1145;2022-04-26 19:15:00;Libertad-PAR;Athletico;1;0;2022;group stage
+1146;2022-04-27 23:00:00;The Strongest;Caracas;1;1;2022;group stage
+1147;2022-05-03 19:15:00;The Strongest;Athletico;5;0;2022;group stage
+1148;2022-05-03 19:15:00;Caracas;Libertad-PAR;1;0;2022;group stage
+1149;2022-05-17 19:15:00;Caracas;The Strongest;0;0;2022;group stage
+1150;2022-05-18 19:00:00;Athletico;Libertad-PAR;2;0;2022;group stage
+1151;2022-05-26 19:00:00;Libertad-PAR;The Strongest;4;1;2022;group stage
+1152;2022-05-26 19:00:00;Athletico;Caracas;5;1;2022;group stage
+1153;2022-04-06 19:00:00;Red Bull Bragantino;Nacional-URU;2;0;2022;group stage
+1154;2022-04-07 21:00:00;Estudiantes;Vélez Sarsfield;4;1;2022;group stage
+1155;2022-04-13 21:00:00;Nacional-URU;Estudiantes;0;0;2022;group stage
+1156;2022-04-14 21:00:00;Vélez Sarsfield;Red Bull Bragantino;2;2;2022;group stage
+1157;2022-04-26 19:15:00;Vélez Sarsfield;Nacional-URU;1;2;2022;group stage
+1158;2022-04-26 19:15:00;Estudiantes;Red Bull Bragantino;2;0;2022;group stage
+1159;2022-05-03 21:30:00;Estudiantes;Nacional-URU;1;0;2022;group stage
+1160;2022-05-05 21:00:00;Red Bull Bragantino;Vélez Sarsfield;1;1;2022;group stage
+1161;2022-05-17 19:15:00;Red Bull Bragantino;Estudiantes;0;1;2022;group stage
+1162;2022-05-18 19:00:00;Nacional-URU;Vélez Sarsfield;2;3;2022;group stage
+1163;2022-05-24 19:15:00;Nacional-URU;Red Bull Bragantino;3;0;2022;group stage
+1164;2022-05-24 19:15:00;Vélez Sarsfield;Estudiantes;4;0;2022;group stage
+1165;2022-04-06 19:00:00;América-MG;Independiente del Valle;0;2;2022;group stage
+1166;2022-04-06 21:00:00;Tolima;Atlético-MG;0;2;2022;group stage
+1167;2022-04-13 21:00:00;Atlético-MG;América-MG;1;1;2022;group stage
+1168;2022-04-13 23:00:00;Independiente del Valle;Tolima;2;2;2022;group stage
+1169;2022-04-26 21:30:00;Independiente del Valle;Atlético-MG;1;1;2022;group stage
+1170;2022-04-27 19:00:00;América-MG;Tolima;2;3;2022;group stage
+1171;2022-05-03 21:30:00;América-MG;Atlético-MG;1;2;2022;group stage
+1172;2022-05-04 23:00:00;Tolima;Independiente del Valle;1;0;2022;group stage
+1173;2022-05-18 21:00:00;Tolima;América-MG;2;2;2022;group stage
+1174;2022-05-19 19:00:00;Atlético-MG;Independiente del Valle;3;1;2022;group stage
+1175;2022-05-25 21:00:00;Independiente del Valle;América-MG;3;0;2022;group stage
+1176;2022-05-25 21:00:00;Atlético-MG;Tolima;1;2;2022;group stage
+1177;2022-04-05 21:30:00;Deportivo Cali;Boca Juniors;2;0;2022;group stage
+1178;2022-04-05 21:30:00;Always Ready;Corinthians;2;0;2022;group stage
+1179;2022-04-12 19:15:00;Boca Juniors;Always Ready;2;0;2022;group stage
+1180;2022-04-13 21:00:00;Corinthians;Deportivo Cali;1;0;2022;group stage
+1181;2022-04-26 21:30:00;Corinthians;Boca Juniors;2;0;2022;group stage
+1182;2022-04-28 23:00:00;Always Ready;Deportivo Cali;2;2;2022;group stage
+1183;2022-05-04 21:00:00;Always Ready;Boca Juniors;0;1;2022;group stage
+1184;2022-05-04 21:00:00;Deportivo Cali;Corinthians;0;0;2022;group stage
+1185;2022-05-17 21:30:00;Boca Juniors;Corinthians;1;1;2022;group stage
+1186;2022-05-19 23:00:00;Deportivo Cali;Always Ready;3;0;2022;group stage
+1187;2022-05-26 21:00:00;Boca Juniors;Deportivo Cali;1;0;2022;group stage
+1188;2022-05-26 21:00:00;Corinthians;Always Ready;1;1;2022;group stage
+1189;2022-04-06 21:00:00;Alianza Lima;River Plate;0;1;2022;group stage
+1190;2022-04-07 19:00:00;Fortaleza;Colo-Colo;1;2;2022;group stage
+1191;2022-04-13 19:00:00;Colo-Colo;Alianza Lima;2;1;2022;group stage
+1192;2022-04-13 21:00:00;River Plate;Fortaleza;2;0;2022;group stage
+1193;2022-04-27 19:00:00;Fortaleza;Alianza Lima;2;1;2022;group stage
+1194;2022-04-27 21:00:00;Colo-Colo;River Plate;1;2;2022;group stage
+1195;2022-05-05 19:00:00;Fortaleza;River Plate;1;1;2022;group stage
+1196;2022-05-05 23:00:00;Alianza Lima;Colo-Colo;1;1;2022;group stage
+1197;2022-05-18 23:00:00;Alianza Lima;Fortaleza;0;2;2022;group stage
+1198;2022-05-19 21:00:00;River Plate;Colo-Colo;4;0;2022;group stage
+1199;2022-05-25 19:00:00;Colo-Colo;Fortaleza;3;4;2022;group stage
+1200;2022-05-25 19:00:00;River Plate;Alianza Lima;8;1;2022;group stage
+1201;2022-04-05 19:15:00;Olimpia-PAR;Cerro Porteño;0;0;2022;group stage
+1202;2022-04-05 19:15:00;Colón;Peñarol;2;1;2022;group stage
+1203;2022-04-12 19:15:00;Cerro Porteño;Colón;3;1;2022;group stage
+1204;2022-04-12 21:30:00;Peñarol;Olimpia-PAR;2;1;2022;group stage
+1205;2022-04-27 21:00:00;Cerro Porteño;Peñarol;1;0;2022;group stage
+1206;2022-04-28 21:00:00;Olimpia-PAR;Colón;0;0;2022;group stage
+1207;2022-05-04 19:00:00;Colón;Cerro Porteño;2;1;2022;group stage
+1208;2022-05-04 21:00:00;Olimpia-PAR;Peñarol;1;0;2022;group stage
+1209;2022-05-17 19:15:00;Peñarol;Cerro Porteño;0;0;2022;group stage
+1210;2022-05-18 21:00:00;Colón;Olimpia-PAR;2;1;2022;group stage
+1211;2022-05-25 21:00:00;Peñarol;Colón;2;1;2022;group stage
+1212;2022-05-25 21:00:00;Cerro Porteño;Olimpia-PAR;0;1;2022;group stage
+1213;2022-04-05 22:00:00;Sporting Cristal;Flamengo;0;2;2022;group stage
+1214;2022-04-06 19:00:00;Talleres;Universidad Católica;1;0;2022;group stage
+1215;2022-04-12 19:15:00;Universidad Católica;Sporting Cristal;2;1;2022;group stage
+1216;2022-04-12 21:30:00;Flamengo;Talleres;3;1;2022;group stage
+1217;2022-04-26 21:30:00;Talleres;Sporting Cristal;1;0;2022;group stage
+1218;2022-04-28 19:00:00;Universidad Católica;Flamengo;2;3;2022;group stage
+1219;2022-05-04 19:00:00;Talleres;Flamengo;2;2;2022;group stage
+1220;2022-05-04 23:00:00;Sporting Cristal;Universidad Católica;1;1;2022;group stage
+1221;2022-05-17 21:30:00;Sporting Cristal;Talleres;0;0;2022;group stage
+1222;2022-05-17 21:30:00;Flamengo;Universidad Católica;3;0;2022;group stage
+1223;2022-05-24 21:30:00;Flamengo;Sporting Cristal;2;1;2022;group stage
+1224;2022-05-24 21:30:00;Universidad Católica;Talleres;0;1;2022;group stage
+1225;2022-06-28 21:30:00;Athletico;Libertad-PAR;2;1;2022;round of 16
+1226;2022-07-05 21:30:00;Libertad-PAR;Athletico;1;1;2022;round of 16
+1227;2022-06-30 21:30:00;Fortaleza;Estudiantes;1;1;2022;round of 16
+1228;2022-07-07 21:30:00;Estudiantes;Fortaleza;3;0;2022;round of 16
+1229;2022-06-29 19:15:00;Cerro Porteño;Palmeiras;0;3;2022;round of 16
+1230;2022-07-06 19:15:00;Palmeiras;Cerro Porteño;5;0;2022;round of 16
+1231;2022-06-28 19:15:00;Emelec;Atlético-MG;1;1;2022;round of 16
+1232;2022-07-05 19:15:00;Atlético-MG;Emelec;1;0;2022;round of 16
+1233;2022-06-29 21:30:00;Tolima;Flamengo;0;1;2022;round of 16
+1234;2022-07-06 21:30:00;Flamengo;Tolima;7;1;2022;round of 16
+1235;2022-06-28 21:30:00;Corinthians;Boca Juniors;0;0;2022;round of 16
+1236;2022-07-05 21:30:00;Boca Juniors;Corinthians;0;0;2022;round of 16
+1237;2022-06-29 19:15:00;Talleres;Colón;1;1;2022;round of 16
+1238;2022-07-06 19:15:00;Colón;Talleres;0;2;2022;round of 16
+1239;2022-06-29 21:30:00;Vélez Sarsfield;River Plate;1;0;2022;round of 16
+1240;2022-07-06 21:30:00;River Plate;Vélez Sarsfield;0;0;2022;round of 16
+1241;2022-08-04 21:30:00;Athletico;Estudiantes;0;0;2022;quarterfinals
+1242;2022-08-11 21:30:00;Estudiantes;Athletico;0;1;2022;quarterfinals
+1243;2022-08-03 21:30:00;Atlético-MG;Palmeiras;2;2;2022;quarterfinals
+1244;2022-08-10 21:30:00;Palmeiras;Atlético-MG;0;0;2022;quarterfinals
+1245;2022-08-02 21:30:00;Corinthians;Flamengo;0;2;2022;quarterfinals
+1246;2022-08-09 21:30:00;Flamengo;Corinthians;1;0;2022;quarterfinals
+1247;2022-08-03 21:30:00;Vélez Sarsfield;Talleres;3;2;2022;quarterfinals
+1248;2022-08-10 21:30:00;Talleres;Vélez Sarsfield;0;1;2022;quarterfinals
+1249;2022-08-30 21:30:00;Athletico;Palmeiras;1;0;2022;semifinals
+1250;2022-09-06 21:30:00;Palmeiras;Athletico;2;2;2022;semifinals
+1251;2022-08-31 21:30:00;Vélez Sarsfield;Flamengo;0;4;2022;semifinals
+1252;2022-09-07 21:30:00;Flamengo;Vélez Sarsfield;2;1;2022;semifinals
