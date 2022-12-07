@@ -1,0 +1,132 @@
+Rodada,Sem,Dia,Data,Horário,Em casa,xG,Resultado,xG,Visitante,Público,Local,Árbitro,Relatório da Partida,Notas
+Estágio de grupos,1,ter,2021-09-14,18:45 (13:45),Sevilla es,1.5,1–1,2.9,at RB Salzburg,18.373,Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakou,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,18:45 (13:45),Young Boys ch,1.4,2–1,0.5,eng Manchester Utd,31.120,Wankdorfstadion,François Letexier,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,20:00 (16:00),Chelsea eng,0.7,1–0,0.9,ru Zenit,39.252,Stamford Bridge,Bartosz Frankowski,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,21:00 (16:00),Villarreal es,2.3,2–2,1.3,it Atalanta,12.916,Estadio de la Cerámica,Clément Turpin,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,21:00 (16:00),Barcelona es,0.2,0–3,2.7,de Bayern Munich,39.737,Camp Nou,Michael Oliver,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,21:00 (16:00),Lille fr,1.6,0–0,0.1,de Wolfsburg,34.314,Stade Pierre-Mauroy,Danny Makkelie,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,21:00 (16:00),Malmö se,0.4,0–3,3.5,it Juventus,5.832,Swedbank Stadion,Artur Dias,Relatório da Partida,
+Estágio de grupos,1,ter,2021-09-14,22:00 (16:00),Dynamo Kyiv ua,0.6,0–0,1.0,pt Benfica,21.657,NSK Olimpijs'kyj,Anthony Taylor,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,19:45 (13:45),Sheriff Tiraspol md,1.0,2–0,0.8,ua Shakhtar,5.205,Bolshaya Sportivnaya Arena,Deniz Aytekin,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,19:45 (13:45),Beşiktaş tr,1.2,1–2,3.0,de Dortmund,22.445,Vodafone Arena,Antonio Matéu Lahoz,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,20:00 (16:00),Sporting CP pt,0.7,1–5,3.1,nl Ajax,20.382,Estádio José Alvalade,José Sánchez,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,20:00 (16:00),Manchester City eng,2.3,6–3,1.3,de RB Leipzig,38.062,Etihad Stadium,Serdar Gözübüyük,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,20:00 (16:00),Liverpool eng,2.5,3–2,1.6,it Milan,51.445,Anfield,Szymon Marciniak,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,21:00 (16:00),Inter it,2.4,0–1,1.2,es Real Madrid,37.082,Stadio Giuseppe Meazza,Daniel Siebert,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,21:00 (16:00),Club Brugge be,1.3,1–1,1.4,fr Paris S-G,27.546,Jan Breydelstadion,Sandro Schärer,Relatório da Partida,
+Estágio de grupos,1,qua,2021-09-15,21:00 (16:00),Atlético Madrid es,0.3,0–0,1.6,pt Porto,40.098,Estadio Wanda Metropolitano,Ovidiu Hațegan,Relatório da Partida,
+,,,,,,,,,,,,,,
+Estágio de grupos,2,ter,2021-09-28,18:45 (13:45),Ajax nl,3.5,2–0,0.9,tr Beşiktaş,52.628,Johan Cruyff ArenA,Benoît Bastien,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,19:45 (13:45),Shakhtar ua,1.3,0–0,1.0,it Inter,26.170,NSK Olimpijs'kyj,István Kovács,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,20:00 (16:00),Porto pt,0.9,1–5,3.4,eng Liverpool,23.520,Estádio Do Dragão,Sergey Karasev,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,21:00 (16:00),Real Madrid es,3.1,1–2,0.4,md Sheriff Tiraspol,24.522,Estadio Santiago Bernabéu,Lawrence Visser,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,21:00 (16:00),RB Leipzig de,1.3,1–2,1.4,be Club Brugge,23.500,Red Bull Arena,Slavko Vinčič,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,21:00 (16:00),Dortmund de,0.3,1–0,0.4,pt Sporting CP,25.000,Signal Iduna Park,Srdjan Stojanovic,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,21:00 (16:00),Paris S-G fr,0.4,2–0,1.9,eng Manchester City,37.350,Parc des Princes,Carlos del Cerro,Relatório da Partida,
+Estágio de grupos,2,ter,2021-09-28,21:00 (16:00),Milan it,0.7,1–2,2.1,es Atlético Madrid,35.374,Stadio Giuseppe Meazza,Cüneyt Çakιr,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,18:45 (13:45),Atalanta it,2.5,1–0,0.1,ch Young Boys,8.536,Stadio Atleti Azzurri d'Italia,Felix Brych,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,19:45 (13:45),Zenit ru,2.5,4–0,0.5,se Malmö,15.339,Gazprom Arena,Anastasios Sidiropoulos,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,20:00 (16:00),Manchester Utd eng,1.1,2–1,2.3,es Villarreal,73.130,Old Trafford,Felix Zwayer,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,20:00 (16:00),Benfica pt,1.9,3–0,1.2,es Barcelona,29.454,Estádio do Sport Lisboa e Benfica,Daniele Orsato,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,21:00 (16:00),RB Salzburg at,2.1,2–1,0.5,fr Lille,24.207,Red Bull Arena,Halil Umut Meler,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,21:00 (16:00),Juventus it,0.9,1–0,1.3,eng Chelsea,19.934,Allianz Stadium,Jesús Gil,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,21:00 (16:00),Bayern Munich de,2.7,5–0,0.3,ua Dynamo Kyiv,25.000,Allianz Arena,Marco Guida,Relatório da Partida,
+Estágio de grupos,2,qua,2021-09-29,21:00 (16:00),Wolfsburg de,1.2,1–1,1.1,es Sevilla,11.733,Volkswagen Arena,Georgi Kabakov,Relatório da Partida,
+,,,,,,,,,,,,,,
+Estágio de grupos,3,ter,2021-10-19,18:45 (13:45),Club Brugge be,0.6,1–5,4.7,eng Manchester City,24.915,Jan Breydelstadion,István Kovács,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,19:45 (13:45),Beşiktaş tr,0.9,1–4,4.4,pt Sporting CP,22.936,Vodafone Arena,Slavko Vinčič,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,20:00 (16:00),Porto pt,1.1,1–0,0.2,it Milan,32.130,Estádio Do Dragão,Felix Brych,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,21:00 (16:00),Atlético Madrid es,2.2,2–3,1.3,eng Liverpool,60.725,Estadio Wanda Metropolitano,Daniel Siebert,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,21:00 (16:00),Inter it,2.3,3–1,0.4,md Sheriff Tiraspol,43.305,Stadio Giuseppe Meazza,Danny Makkelie,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,21:00 (16:00),Paris S-G fr,3.0,3–2,2.1,de RB Leipzig,47.359,Parc des Princes,Marco Guida,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,21:00 (16:00),Ajax nl,2.1,4–0,1.2,de Dortmund,54.029,Johan Cruyff ArenA,Jesús Gil,Relatório da Partida,
+Estágio de grupos,3,ter,2021-10-19,22:00 (16:00),Shakhtar ua,0.7,0–5,2.6,es Real Madrid,34.037,Oblasny SportKomplex Metalist,Srđan Jovanović,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,18:45 (13:45),RB Salzburg at,2.7,3–1,0.9,de Wolfsburg,29.520,Red Bull Arena,Daniele Orsato,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,18:45 (13:45),Barcelona es,2.2,1–0,0.1,ua Dynamo Kyiv,45.968,Camp Nou,Clément Turpin,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,20:00 (16:00),Manchester Utd eng,2.8,3–2,1.6,it Atalanta,72.279,Old Trafford,Szymon Marciniak,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,20:00 (16:00),Benfica pt,0.7,0–4,3.0,de Bayern Munich,55.201,Estádio do Sport Lisboa e Benfica,Ovidiu Hațegan,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,20:00 (16:00),Chelsea eng,2.6,4–0,0.1,se Malmö,39.095,Stamford Bridge,François Letexier,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,21:00 (16:00),Lille fr,0.8,0–0,1.1,es Sevilla,34.362,Stade Pierre-Mauroy,Michael Oliver,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,21:00 (16:00),Young Boys ch,2.7,1–4,2.7,es Villarreal,27.398,Wankdorfstadion,Sergey Karasev,Relatório da Partida,
+Estágio de grupos,3,qua,2021-10-20,22:00 (16:00),Zenit ru,0.6,0–1,1.2,it Juventus,18.717,Gazprom Arena,Sandro Schärer,Relatório da Partida,
+,,,,,,,,,,,,,,
+Estágio de grupos,4,ter,2021-11-02,18:45 (14:45),Wolfsburg de,1.7,2–1,1.6,at RB Salzburg,16.112,Volkswagen Arena,Artur Dias,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,18:45 (14:45),Malmö se,0.2,0–1,2.5,eng Chelsea,19.551,Swedbank Stadion,Felix Brych,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,21:00 (17:00),Bayern Munich de,4.8,5–2,1.0,pt Benfica,50.000,Allianz Arena,Szymon Marciniak,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,21:00 (17:00),Atalanta it,1.5,2–2,1.1,eng Manchester Utd,14.443,Stadio Atleti Azzurri d'Italia,Slavko Vinčič,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,21:00 (17:00),Villarreal es,2.2,2–0,1.1,ch Young Boys,14.890,Estadio de la Cerámica,Serdar Gözübüyük,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,21:00 (17:00),Juventus it,2.7,4–2,1.3,ru Zenit,20.053,Allianz Stadium,Alejandro Hernández,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,21:00 (17:00),Sevilla es,1.0,1–2,1.9,fr Lille,29.369,Estadio Ramón Sánchez Pizjuán,István Kovács,Relatório da Partida,
+Estágio de grupos,4,ter,2021-11-02,22:00 (17:00),Dynamo Kyiv ua,1.0,0–1,0.8,es Barcelona,31.378,NSK Olimpijs'kyj,Ovidiu Hațegan,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,18:45 (14:45),Milan it,0.6,1–1,1.8,pt Porto,39.675,Stadio Giuseppe Meazza,Clément Turpin,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,18:45 (14:45),Real Madrid es,2.0,2–1,1.3,ua Shakhtar,38.105,Estadio Santiago Bernabéu,Benoît Bastien,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,20:00 (17:00),Manchester City eng,4.6,4–1,0.8,be Club Brugge,50.228,Etihad Stadium,Antonio Matéu Lahoz,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,20:00 (17:00),Sporting CP pt,2.7,4–0,1.1,tr Beşiktaş,40.835,Estádio José Alvalade,Sergey Karasev,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,20:00 (17:00),Liverpool eng,3.0,2–0,0.2,es Atlético Madrid,51.347,Anfield,Danny Makkelie,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,21:00 (17:00),RB Leipzig de,3.3,2–2,2.1,fr Paris S-G,39.794,Red Bull Arena,Andreas Ekberg,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,21:00 (17:00),Dortmund de,1.7,1–3,2.0,nl Ajax,54.820,Signal Iduna Park,Michael Oliver,Relatório da Partida,
+Estágio de grupos,4,qua,2021-11-03,22:00 (17:00),Sheriff Tiraspol md,0.3,1–3,2.5,it Inter,5.930,Bolshaya Sportivnaya Arena,Felix Zwayer,Relatório da Partida,
+,,,,,,,,,,,,,,
+Estágio de grupos,5,ter,2021-11-23,18:45 (14:45),Villarreal es,0.6,0–2,1.2,eng Manchester Utd,20.875,Estadio de la Cerámica,Felix Brych,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,19:45 (14:45),Dynamo Kyiv ua,1.1,1–2,1.0,de Bayern Munich,28.732,NSK Olimpijs'kyj,Halil Umut Meler,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,20:00 (17:00),Chelsea eng,3.0,4–0,0.7,it Juventus,39.513,Stamford Bridge,Srđan Jovanović,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,21:00 (17:00),Barcelona es,1.4,0–0,1.2,pt Benfica,49.572,Camp Nou,Sergey Karasev,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,21:00 (17:00),Lille fr,0.7,1–0,0.5,at RB Salzburg,33.573,Stade Pierre-Mauroy,Anthony Taylor,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,21:00 (17:00),Young Boys ch,0.7,3–3,1.2,it Atalanta,31.120,Stade de Suisse Wankdorf Bern,Daniel Siebert,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,21:00 (17:00),Sevilla es,1.6,2–0,0.3,de Wolfsburg,28.663,Estadio Ramón Sánchez Pizjuán,Cüneyt Çakιr,Relatório da Partida,
+Estágio de grupos,5,ter,2021-11-23,21:00 (17:00),Malmö se,0.2,1–1,1.9,ru Zenit,15.520,Swedbank Stadion,Andris Treimanis,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,18:45 (14:45),Inter it,2.6,2–0,0.6,ua Shakhtar,46.225,Stadio Giuseppe Meazza,Ovidiu Hațegan,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,20:00 (17:00),Manchester City eng,2.1,2–1,1.0,fr Paris S-G,52.030,Etihad Stadium,Daniele Orsato,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,20:00 (17:00),Sporting CP pt,1.9,3–1,1.6,de Dortmund,41.341,Estádio José Alvalade,Carlos del Cerro,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,20:00 (17:00),Liverpool eng,0.6,2–0,1.1,pt Porto,52.209,Anfield,Felix Zwayer,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,20:45 (14:45),Beşiktaş tr,1.9,1–2,2.5,nl Ajax,11.712,Vodafone Arena,Irfan Peljto,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,21:00 (17:00),Atlético Madrid es,0.9,0–1,1.3,it Milan,61.019,Estadio Wanda Metropolitano,Slavko Vinčič,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,21:00 (17:00),Club Brugge be,0.9,0–5,3.8,de RB Leipzig,24.072,Jan Breydelstadion,Davide Massa,Relatório da Partida,
+Estágio de grupos,5,qua,2021-11-24,22:00 (17:00),Sheriff Tiraspol md,1.4,0–3,1.5,es Real Madrid,5.932,Bolshaya Sportivnaya Arena,Szymon Marciniak,Relatório da Partida,
+,,,,,,,,,,,,,,
+Estágio de grupos,6,ter,2021-12-07,18:45 (14:45),Paris S-G fr,3.6,4–1,1.1,be Club Brugge,47.492,Parc des Princes,Jesús Gil,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,18:45 (14:45),RB Leipzig de,1.7,2–1,1.2,eng Manchester City,,Red Bull Arena,Sandro Schärer,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,20:00 (17:00),Porto pt,1.6,1–3,3.7,es Atlético Madrid,38.830,Estádio Do Dragão,Clément Turpin,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,21:00 (17:00),Real Madrid es,1.2,2–0,0.9,it Inter,44.887,Estadio Santiago Bernabéu,Felix Brych,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,21:00 (17:00),Dortmund de,3.5,5–0,0.1,tr Beşiktaş,15.000,Signal Iduna Park,François Letexier,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,21:00 (17:00),Ajax nl,2.1,4–2,1.2,pt Sporting CP,,Johan Cruyff ArenA,Davide Massa,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,21:00 (17:00),Milan it,1.4,1–2,1.9,eng Liverpool,56.237,Stadio Giuseppe Meazza,Danny Makkelie,Relatório da Partida,
+Estágio de grupos,6,ter,2021-12-07,22:00 (17:00),Shakhtar ua,2.0,1–1,1.0,md Sheriff Tiraspol,6.841,Oblasny SportKomplex Metalist,Donatas Rumšas,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,18:45 (14:45),Juventus it,2.1,1–0,0.2,se Malmö,17.501,Allianz Stadium,Irfan Peljto,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,20:00 (17:00),Benfica pt,1.1,2–0,1.0,ua Dynamo Kyiv,36.591,Estádio do Sport Lisboa e Benfica,Deniz Aytekin,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,20:00 (17:00),Manchester Utd eng,1.2,1–1,1.3,ch Young Boys,73.156,Old Trafford,Benoît Bastien,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,20:45 (14:45),Zenit ru,2.6,3–3,2.7,eng Chelsea,29.349,Gazprom Arena,Serdar Gözübüyük,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,21:00 (17:00),Bayern Munich de,2.4,3–0,0.4,es Barcelona,,Allianz Arena,Ovidiu Hațegan,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,21:00 (17:00),Wolfsburg de,0.7,1–3,2.5,fr Lille,6.544,Volkswagen Arena,Daniele Orsato,Relatório da Partida,
+Estágio de grupos,6,qua,2021-12-08,21:00 (17:00),RB Salzburg at,0.6,1–0,0.9,es Sevilla,,Red Bull Arena,Slavko Vinčič,Relatório da Partida,
+Estágio de grupos,6,qui,2021-12-09,19:00 (15:00),Atalanta it,2.0,2–3,2.2,es Villarreal,11.690,Stadio Atleti Azzurri d'Italia,Anthony Taylor,Relatório da Partida,
+,,,,,,,,,,,,,,
+Oitavas de final,,ter,2022-02-15,20:00 (17:00),Sporting CP pt,0.1,0–5,2.1,eng Manchester City,48.129,Estádio José Alvalade,Srdjan Stojanovic,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,ter,2022-02-15,21:00 (17:00),Paris S-G fr,2.4,1–0,0.3,es Real Madrid,47.443,Parc des Princes,Daniele Orsato,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,qua,2022-02-16,21:00 (17:00),RB Salzburg at,1.1,1–1,2.3,de Bayern Munich,29.520,Red Bull Arena,Michael Oliver,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,qua,2022-02-16,21:00 (17:00),Inter it,0.6,0–2,1.0,eng Liverpool,37.918,Stadio Giuseppe Meazza,Szymon Marciniak,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,ter,2022-02-22,20:00 (17:00),Chelsea eng,1.2,2–0,0.8,fr Lille,38.832,Stamford Bridge,Jesús Gil,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,ter,2022-02-22,21:00 (17:00),Villarreal es,1.3,1–1,0.7,it Juventus,17.686,Estadio de la Cerámica,Daniel Siebert,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,qua,2022-02-23,20:00 (17:00),Benfica pt,2.0,2–2,2.4,nl Ajax,54.760,Estádio do Sport Lisboa e Benfica,Slavko Vinčič,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,qua,2022-02-23,21:00 (17:00),Atlético Madrid es,1.3,1–1,0.6,eng Manchester Utd,63.273,Estadio Wanda Metropolitano,Ovidiu Hațegan,Relatório da Partida,Jogo de ida/volta 1 de 2
+Oitavas de final,,ter,2022-03-08,20:00 (17:00),Liverpool eng,1.8,0–1,0.5,it Inter,51.747,Anfield,Antonio Matéu Lahoz,Relatório da Partida,Jogo de ida/volta 2 de 2; Liverpool venceu
+Oitavas de final,,ter,2022-03-08,21:00 (17:00),Bayern Munich de,4.2,7–1,0.7,at RB Salzburg,25.000,Allianz Arena,Clément Turpin,Relatório da Partida,Jogo de ida/volta 2 de 2; Bayern Munich venceu
+Oitavas de final,,qua,2022-03-09,20:00 (17:00),Manchester City eng,1.5,0–0,0.8,pt Sporting CP,51.213,Etihad Stadium,Halil Umut Meler,Relatório da Partida,Jogo de ida/volta 2 de 2; Manchester City venceu
+Oitavas de final,,qua,2022-03-09,21:00 (17:00),Real Madrid es,1.9,3–1,1.1,fr Paris S-G,59.895,Estadio Santiago Bernabéu,Danny Makkelie,Relatório da Partida,Jogo de ida/volta 2 de 2; Real Madrid venceu
+Oitavas de final,,ter,2022-03-15,20:00 (17:00),Manchester Utd eng,1.0,0–1,0.5,es Atlético Madrid,73.008,Old Trafford,Slavko Vinčič,Relatório da Partida,Jogo de ida/volta 2 de 2; Atlético Madrid venceu
+Oitavas de final,,ter,2022-03-15,21:00 (17:00),Ajax nl,1.3,0–1,0.4,pt Benfica,54.066,Johan Cruyff ArenA,Carlos del Cerro,Relatório da Partida,Jogo de ida/volta 2 de 2; Benfica venceu
+Oitavas de final,,qua,2022-03-16,21:00 (17:00),Lille fr,1.7,1–2,1.0,eng Chelsea,49.048,Stade Pierre-Mauroy,Davide Massa,Relatório da Partida,Jogo de ida/volta 2 de 2; Chelsea venceu
+Oitavas de final,,qua,2022-03-16,21:00 (17:00),Juventus it,1.5,0–3,2.5,es Villarreal,30.385,Allianz Stadium,Szymon Marciniak,Relatório da Partida,Jogo de ida/volta 2 de 2; Villarreal venceu
+Quartas de final,,ter,2022-04-05,20:00 (16:00),Benfica pt,1.2,1–3,3.9,eng Liverpool,59.633,Estádio do Sport Lisboa e Benfica,Jesús Gil,Relatório da Partida,Jogo de ida/volta 1 de 2
+Quartas de final,,ter,2022-04-05,20:00 (16:00),Manchester City eng,1.0,1–0,0.0,es Atlético Madrid,52.018,Etihad Stadium,István Kovács,Relatório da Partida,Jogo de ida/volta 1 de 2
+Quartas de final,,qua,2022-04-06,20:00 (16:00),Chelsea eng,1.3,1–3,1.8,es Real Madrid,38.689,Stamford Bridge,Clément Turpin,Relatório da Partida,Jogo de ida/volta 1 de 2
+Quartas de final,,qua,2022-04-06,21:00 (16:00),Villarreal es,1.5,1–0,1.6,de Bayern Munich,21.626,Estadio de la Cerámica,Anthony Taylor,Relatório da Partida,Jogo de ida/volta 1 de 2
+Quartas de final,,ter,2022-04-12,21:00 (16:00),Bayern Munich de,1.4,1–1,0.7,es Villarreal,70.000,Allianz Arena,Slavko Vinčič,Relatório da Partida,Jogo de ida/volta 2 de 2; Villarreal venceu
+Quartas de final,,ter,2022-04-12,21:00 (16:00),Real Madrid es,1.2,2–3,2.7,eng Chelsea,59.839,Estadio Santiago Bernabéu,Szymon Marciniak,Relatório da Partida,Jogo de ida/volta 2 de 2; Real Madrid venceu; Tempo Extra Solicitado
+Quartas de final,,qua,2022-04-13,20:00 (16:00),Liverpool eng,1.8,3–3,1.2,pt Benfica,51.373,Anfield,Serdar Gözübüyük,Relatório da Partida,Jogo de ida/volta 2 de 2; Liverpool venceu
+Quartas de final,,qua,2022-04-13,21:00 (16:00),Atlético Madrid es,0.8,0–0,1.2,eng Manchester City,65.675,Estadio Wanda Metropolitano,Daniel Siebert,Relatório da Partida,Jogo de ida/volta 2 de 2; Manchester City venceu
+Semifinais,,ter,2022-04-26,20:00 (16:00),Manchester City eng,2.7,4–3,1.6,es Real Madrid,52.217,Etihad Stadium,István Kovács,Relatório da Partida,Jogo de ida/volta 1 de 2
+Semifinais,,qua,2022-04-27,20:00 (16:00),Liverpool eng,1.6,2–0,0.1,es Villarreal,51.586,Anfield,Szymon Marciniak,Relatório da Partida,Jogo de ida/volta 1 de 2
+Semifinais,,ter,2022-05-03,21:00 (16:00),Villarreal es,1.2,2–3,2.5,eng Liverpool,23.665,Estadio de la Cerámica,Danny Makkelie,Relatório da Partida,Jogo de ida/volta 2 de 2; Liverpool venceu
+Semifinais,,qua,2022-05-04,21:00 (16:00),Real Madrid es,2.3,3–1,1.4,eng Manchester City,61.416,Estadio Santiago Bernabéu,Daniele Orsato,Relatório da Partida,Jogo de ida/volta 2 de 2; Real Madrid venceu; Tempo Extra Solicitado
+Final,,sáb,2022-05-28,21:30 (16:30),Liverpool eng,2.2,0–1,0.9,es Real Madrid,75.000,Stade de France (Campo neutro),Clément Turpin,Relatório da Partida,
