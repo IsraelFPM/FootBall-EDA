@@ -1,0 +1,751 @@
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost
+1;Brenden Aaronson;usUSA;MF;at RB Salzburg;20;2000;7.9;0;0;0;3;13;5;20;2;6;0;0;0;44;6;22
+2;Malik Abubakari;ghGHA;FW;se Malmö;21;2000;1.3;0;0;0;5;4;0;1;0;0;0;0;0;4;2;2
+3;Marcos Acuña;arARG;DF;es Sevilla;29;1991;4.2;0;0;0;11;6;0;27;7;10;0;0;0;33;1;5
+4;Tyler Adams;usUSA;MF;de RB Leipzig;22;1999;3.3;4;0;0;6;2;0;2;2;4;0;0;0;20;1;3
+5;Chikwubuike Adamu;atAUT;FW;at RB Salzburg;20;2001;2.6;0;0;0;10;2;1;3;0;2;0;0;0;15;5;10
+6;Antonio Adán;esESP;GK;pt Sporting CP;34;1987;7.0;1;0;0;0;1;0;0;0;0;0;0;0;6;3;0
+7;Edmund Addo;ghGHA;MF;md Sheriff Tiraspol;21;2000;5.4;3;0;0;14;4;0;0;11;9;0;1;0;34;1;5
+8;Karim Adeyemi;deGER;FW;at RB Salzburg;19;2002;6.7;2;0;0;9;18;1;4;2;0;4;0;0;19;4;8
+9;Michel Aebischer;chSUI;MF;ch Young Boys;24;1997;5.6;2;0;0;5;4;0;19;10;4;0;0;0;43;0;7
+10;Sergio Agüero;arARG;FW;es Barcelona;33;1988;0.2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+11;Anel Ahmedhodzic;baBIH;DF;se Malmö;22;1999;4.6;1;1;0;6;0;0;0;13;2;0;0;0;23;5;6
+12;Manuel Akanji;chSUI;DF;de Dortmund;26;1995;5.0;0;0;0;1;2;0;1;9;6;0;0;0;30;6;6
+13;Nathan Aké;nlNED;DF;eng Manchester City;26;1995;3.6;1;0;0;3;4;2;0;12;2;0;0;0;12;13;10
+14;David Alaba;atAUT;DF;es Real Madrid;29;1992;11.5;1;0;0;9;1;0;16;11;9;0;0;0;39;7;10
+15;Jordi Alba;esESP;DF,FW;es Barcelona;32;1989;4.1;0;0;0;4;2;1;27;6;2;0;0;0;23;2;0
+16;Raúl Albiol;esESP;DF;es Villarreal;35;1985;11.6;1;0;0;9;6;0;1;7;4;0;0;0;58;16;13
+17;Paco Alcácer;esESP;FW;es Villarreal;27;1993;0.8;0;0;0;1;0;0;0;0;1;0;0;0;1;0;4
+18;Thiago Alcántara;esESP;MF;eng Liverpool;30;1991;6.7;1;0;0;5;7;0;1;16;11;0;0;0;56;7;11
+19;Trent Alexander-Arnold;engENG;DF;eng Liverpool;22;1998;8.8;2;0;0;5;6;0;81;9;7;0;0;0;73;1;4
+20;Alisson;brBRA;GK;eng Liverpool;28;1992;13.0;0;0;0;0;0;0;0;0;1;0;0;0;24;0;0
+21;André Almeida;ptPOR;DF,MF;pt Benfica;30;1990;2.6;0;0;0;2;5;0;3;3;5;0;0;0;11;7;3
+22;Marcos Alonso;esESP;DF,MF;eng Chelsea;30;1990;6.1;1;0;0;11;7;0;31;8;6;0;0;0;31;9;9
+23;Éder Álvarez Balanta;coCOL;MF;be Club Brugge;28;1993;4.5;4;0;0;18;3;0;1;12;8;0;0;0;48;9;1
+24;Edson Álvarez;mxMEX;MF;nl Ajax;23;1997;6.2;4;0;0;17;6;2;1;4;13;0;0;0;30;17;6
+25;Mohamed Aly Camara;gnGUI;DF;ch Young Boys;23;1997;3.8;0;0;0;4;0;0;0;7;4;0;0;0;26;5;1
+26;Benjamin André;frFRA;MF;fr Lille;30;1990;7.0;3;0;0;9;10;1;5;8;8;0;0;0;62;25;24
+27;Oleksandr Andriyevskyi;uaUKR;MF;ua Dynamo Kyiv;27;1994;1.1;0;0;0;0;1;0;0;2;1;0;0;0;5;0;0
+28;Angeliño;esESP;DF;de RB Leipzig;24;1997;4.8;2;1;1;4;2;0;28;5;1;0;0;0;24;0;4
+29;Marcos Antônio;brBRA;MF;ua Shakhtar;21;2000;2.8;1;0;0;3;3;0;0;3;4;0;0;0;17;0;4
+30;Antony;brBRA;FW;nl Ajax;21;2000;6.4;1;0;0;5;9;4;21;3;7;0;0;0;41;6;4
+31;Ronald Araújo;uyURU;DF;es Barcelona;22;1999;4.1;1;0;0;1;5;2;3;4;8;0;0;0;23;10;5
+32;Danilo Arboleda;coCOL;DF;md Sheriff Tiraspol;26;1995;6.0;1;0;0;1;1;0;0;12;2;0;0;0;13;3;3
+33;Maximilian Arnold;deGER;MF;de Wolfsburg;27;1994;6.0;3;0;0;10;9;0;21;5;6;0;0;0;42;8;2
+34;Kepa Arrizabalaga;esESP;GK;eng Chelsea;26;1994;1.0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+35;Marco Asensio;esESP;FW,MF;es Real Madrid;25;1996;2.3;0;0;0;2;0;0;4;0;2;0;0;0;11;1;1
+36;Giorgos Athanasiadis;grGRE;GK;md Sheriff Tiraspol;28;1993;5.0;0;0;0;0;0;0;0;2;0;0;0;0;4;1;0
+37;Ludwig Augustinsson;seSWE;DF;es Sevilla;27;1994;0.9;1;0;0;2;3;0;8;3;0;0;0;0;3;2;3
+38;Serge Aurier;ciCIV;DF;es Villarreal;28;1992;1.5;0;0;0;1;1;0;2;4;2;0;0;0;10;4;1
+39;Sardar Azmoun;irIRN;FW;ru Zenit;26;1995;3.4;0;0;0;3;1;1;0;2;1;0;0;0;7;11;11
+40;César Azpilicueta;esESP;DF;eng Chelsea;31;1989;7.5;2;0;0;9;3;0;18;9;8;0;0;0;35;12;12
+41;Eric Bailly;ciCIV;DF;eng Manchester Utd;27;1994;2.0;0;0;0;2;2;0;0;5;2;0;0;0;11;2;2
+42;Tiemoué Bakayoko;frFRA;MF,FW;it Milan;26;1994;0.7;1;0;0;1;4;0;0;2;3;0;0;0;5;3;2
+43;Ridle Baku;deGER;FW,DF;de Wolfsburg;23;1998;4.6;0;0;0;3;1;0;8;2;6;0;0;0;29;1;3
+44;Alejandro Balde;esESP;DF,FW;es Barcelona;17;2003;0.2;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0
+45;Gareth Bale;wlsWAL;FW;es Real Madrid;32;1989;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+46;David von Ballmoos;chSUI;GK;ch Young Boys;26;1994;3.0;0;0;0;0;0;0;0;1;0;0;0;0;4;0;0
+47;Fodé Ballo-Touré;snSEN;DF,MF;it Milan;24;1997;1.0;0;0;0;2;2;0;1;3;3;0;0;0;7;3;3
+48;Jonathan Bamba;frFRA;MF,FW;fr Lille;25;1996;5.2;3;0;0;7;11;2;23;7;7;1;0;0;34;3;7
+49;Nicolò Barella;itITA;MF;it Inter;24;1997;5.5;0;1;0;3;7;0;9;5;6;0;0;0;26;3;2
+50;Ross Barkley;engENG;MF;eng Chelsea;27;1993;1.1;0;0;0;0;1;0;8;0;0;0;0;0;9;1;0
+51;Wílmar Barrios;coCOL;MF,DF;ru Zenit;27;1993;6.0;1;0;0;7;9;0;2;9;10;0;0;0;50;3;3
+52;Gil Bastião Dias;ptPOR;FW;pt Benfica;24;1996;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+53;Alessandro Bastoni;itITA;DF;it Inter;22;1999;7.4;2;0;0;11;8;0;12;6;5;0;0;0;45;7;8
+54;Michy Batshuayi;beBEL;FW;tr Beşiktaş;27;1993;4.3;1;0;0;6;3;7;3;1;3;0;0;0;9;4;7
+55;Donny van de Beek;nlNED;MF;eng Manchester Utd;24;1997;2.3;1;0;0;4;2;0;0;5;3;0;0;0;13;1;1
+56;Jude Bellingham;engENG;MF,FW;de Dortmund;18;2003;5.6;1;0;0;8;17;1;7;7;8;1;0;0;36;10;6
+57;Hatem Ben Arfa;frFRA;FW,MF;fr Lille;34;1987;0.3;1;0;0;1;1;0;2;0;0;0;0;0;1;1;1
+58;Ismaël Bennacer;dzALG;MF;it Milan;23;1997;4.2;1;0;0;7;9;0;10;5;8;0;1;0;39;7;5
+59;Rodrigo Bentancur;uyURU;MF,FW;it Juventus;24;1997;4.2;0;0;0;5;2;1;4;4;8;0;0;0;24;1;5
+60;Karim Benzema;frFRA;FW;es Real Madrid;33;1987;12.2;1;0;0;2;4;8;10;1;2;1;0;0;35;7;9
+61;Steven Berghuis;nlNED;MF;nl Ajax;29;1991;6.9;1;0;0;3;1;2;27;2;2;0;0;0;30;6;2
+62;Federico Bernardeschi;itITA;FW,MF;it Juventus;27;1994;3.2;0;0;0;2;4;1;19;5;1;0;0;0;19;1;4
+63;Bernardo;brBRA;DF,MF;at RB Salzburg;26;1995;0.3;0;0;0;0;0;0;0;0;0;0;0;0;4;0;1
+64;Paulo Bernardo;ptPOR;MF;pt Benfica;19;2002;0.5;0;0;0;0;0;0;1;0;1;0;0;0;7;0;0
+65;Veljko Birmančević;rsSRB;MF,FW;se Malmö;23;1998;3.9;0;0;0;2;10;0;2;2;4;0;0;0;9;3;6
+66;Blanco;esESP;MF;es Real Madrid;21;2000;0.1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+67;Daley Blind;nlNED;DF;nl Ajax;31;1990;6.3;1;0;0;5;0;1;16;5;5;0;0;0;37;8;5
+68;Valerii Bondar;uaUKR;DF;ua Shakhtar;22;1999;1.0;0;0;0;1;0;0;0;1;0;0;0;0;6;1;1
+69;Artem Bondarenko;uaUKR;MF;ua Shakhtar;20;2000;0.9;0;0;0;1;2;0;0;1;2;0;0;0;6;1;0
+70;Solomon Bonnah;nlNED;DF;de RB Leipzig;17;2003;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+71;Leonardo Bonucci;itITA;DF;it Juventus;34;1987;6.4;0;0;0;0;2;0;1;15;5;0;0;1;24;8;10
+72;Sebastiaan Bornauw;beBEL;DF;de Wolfsburg;22;1999;2.3;1;0;0;3;0;0;0;2;3;0;0;0;8;6;3
+73;Sven Botman;nlNED;DF;fr Lille;21;2000;4.6;1;0;0;1;4;0;0;3;3;0;1;0;25;14;4
+74;Yassine Bounou;maMAR;GK;es Sevilla;30;1991;6.0;0;0;0;1;0;0;0;0;0;0;1;0;4;0;1
+75;Denys Boyko;uaUKR;GK;ua Dynamo Kyiv;33;1988;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+76;Can Bozdogan;deGER;MF;tr Beşiktaş;20;2001;2.4;1;0;0;4;7;0;0;1;4;0;0;0;12;2;1
+77;Domagoj Bradarić;hrCRO;DF;fr Lille;21;1999;0.2;0;0;0;1;0;0;0;0;1;0;0;0;2;1;0
+78;Conor Bradley;nirNIR;FW;eng Liverpool;18;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+79;Daniel Bragança;ptPOR;MF;pt Sporting CP;22;1999;1.5;1;0;0;3;6;0;0;4;5;0;1;0;13;1;1
+80;Julian Brandt;deGER;MF,FW;de Dortmund;25;1996;4.4;0;0;0;2;2;1;21;4;4;0;0;0;32;1;3
+81;Brian Brobbey;nlNED;FW;nl Ajax;19;2002;0.1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;2
+82;Brian Brobbey;nlNED;FW,MF;de RB Leipzig;19;2002;1.2;0;0;0;3;2;1;1;0;1;1;0;0;4;4;4
+83;John Brooks;usUSA;DF;de Wolfsburg;28;1993;3.7;3;1;1;5;0;0;0;7;3;0;0;0;21;6;2
+84;Franz Brorsson;seSWE;DF;se Malmö;25;1996;5.0;2;0;0;5;1;0;0;9;3;0;0;0;12;4;5
+85;Marcelo Brozović;hrCRO;MF;it Inter;28;1992;7.0;0;0;0;5;5;0;8;14;10;0;0;0;55;2;0
+86;Nicolas Bürgy;chSUI;DF;ch Young Boys;25;1995;2.0;0;0;0;1;2;1;0;3;0;0;0;0;10;3;6
+87;Heorhiy Bushchan;uaUKR;GK;ua Dynamo Kyiv;27;1994;5.0;0;0;0;0;0;0;0;0;0;;;0;;;
+88;Sergio Busquets;esESP;MF;es Barcelona;33;1988;5.4;1;0;0;9;14;0;0;11;8;0;0;0;41;4;8
+89;Vitaliy Buyalskyi;uaUKR;FW,MF;ua Dynamo Kyiv;28;1993;4.8;1;0;0;2;14;4;1;2;3;0;0;0;18;2;4
+90;Jovane Cabral;cvCPV;FW,MF;pt Sporting CP;23;1998;0.9;0;0;0;2;0;0;1;2;0;0;0;0;3;1;0
+91;Davide Calabria;itITA;DF;it Milan;24;1996;3.5;0;0;0;2;3;0;7;2;7;0;0;0;20;4;3
+92;Hakan Çalhanoğlu;trTUR;MF;it Inter;27;1994;4.6;0;0;0;5;4;0;32;2;2;0;0;0;38;1;2
+93;Mohamed Camara;mlMLI;MF;at RB Salzburg;21;2000;7.4;2;0;0;14;24;0;1;12;10;0;0;0;76;4;5
+94;Eduardo Camavinga;frFRA;MF;es Real Madrid;18;2002;3.4;1;0;0;5;10;1;0;0;7;0;0;0;18;4;4
+95;Emre Can;deGER;DF;de Dortmund;27;1994;0.8;0;1;0;1;1;0;1;0;1;0;0;0;6;0;1
+96;João Cancelo;ptPOR;DF;eng Manchester City;27;1994;9.3;3;0;0;11;4;2;24;25;9;0;0;0;49;13;9
+97;Nicolás Capaldo;arARG;MF;at RB Salzburg;23;1997;3.2;3;0;0;15;8;0;7;11;7;0;0;0;29;4;4
+98;Étienne Capoue;frFRA;MF;es Villarreal;33;1988;11.6;3;1;1;18;17;0;3;24;10;0;0;0;68;15;10
+99;Fábio Cardoso;ptPOR;DF;pt Porto;27;1994;1.7;0;0;0;0;1;0;0;3;0;0;0;0;1;4;2
+100;Diego Carlos;brBRA;DF;es Sevilla;28;1993;6.0;2;0;0;2;3;0;0;3;3;0;1;0;48;12;12
+101;Yannick Carrasco;beBEL;FW,MF;es Atlético Madrid;27;1993;5.2;0;1;0;1;7;5;13;2;5;0;0;0;30;1;0
+102;Scott Carson;engENG;GK;eng Manchester City;35;1985;0.2;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+103;Dani Carvajal;esESP;DF;es Real Madrid;29;1992;10.6;3;0;0;15;6;1;19;12;12;0;1;0;59;9;5
+104;Casemiro;brBRA;MF;es Real Madrid;29;1992;10.1;3;0;0;17;18;0;3;16;20;0;0;0;78;16;6
+105;Frank Castañeda;coCOL;FW,MF;md Sheriff Tiraspol;27;1994;3.9;0;0;0;5;5;4;8;1;0;0;0;0;30;1;8
+106;Koen Casteels;beBEL;GK;de Wolfsburg;29;1992;5.0;0;0;0;0;1;0;0;0;0;0;0;0;5;1;0
+107;Edinson Cavani;uyURU;FW;eng Manchester Utd;34;1987;0.9;1;0;0;2;1;0;0;0;1;0;0;0;5;4;1
+108;Dani Ceballos;esESP;MF,FW;es Real Madrid;24;1996;0.5;0;0;0;0;1;0;0;1;1;0;0;0;3;0;4
+109;Dumitru Celeadnic;mdMDA;GK;md Sheriff Tiraspol;29;1992;1.0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+110;Zeki Çelik;trTUR;DF;fr Lille;24;1997;6.5;1;0;0;6;3;1;13;3;14;0;0;0;37;5;5
+111;Leonardo César Jardim;brBRA;GK;fr Lille;26;1995;2.0;0;0;0;0;0;0;0;0;0;;;0;;;
+112;Trevoh Chalobah;engENG;DF;eng Chelsea;22;1999;2.0;1;0;0;3;0;0;1;3;0;0;0;0;6;6;3
+113;Giorgio Chiellini;itITA;DF;it Juventus;36;1984;0.1;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+114;Federico Chiesa;itITA;FW,MF;it Juventus;23;1997;3.7;0;0;0;5;11;2;11;1;2;1;0;0;13;1;2
+115;Ben Chilwell;engENG;DF;eng Chelsea;24;1996;2.1;0;0;0;2;1;0;13;1;5;0;0;0;7;1;2
+116;Dmitri Chistyakov;ruRUS;DF;ru Zenit;27;1994;4.9;2;1;1;7;1;0;0;4;0;0;0;0;17;8;6
+117;Andreas Christensen;dkDEN;DF;eng Chelsea;25;1996;6.7;0;0;0;7;4;0;1;7;3;0;0;0;41;10;9
+118;Anders Christiansen;dkDEN;MF;se Malmö;31;1990;3.6;1;0;0;3;3;0;11;4;0;0;0;0;17;1;0
+119;Samuel Chukwueze;ngNGA;MF,FW;es Villarreal;22;1999;3.1;0;0;0;6;2;0;3;1;1;0;0;0;16;1;9
+120;Claudinho;brBRA;MF,FW;ru Zenit;24;1997;5.1;1;0;0;6;8;2;22;5;5;0;1;0;28;1;7
+121;Sebastián Coates;uyURU;DF;pt Sporting CP;30;1990;6.0;1;0;0;1;3;0;0;9;6;0;0;0;26;11;5
+122;Serafim Cojocari;mdMDA;FW;md Sheriff Tiraspol;20;2001;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+123;Maxim Cojocaru;mdMDA;FW,MF;md Sheriff Tiraspol;23;1998;0.2;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+124;Antonio Čolak;hrCRO;FW;se Malmö;27;1993;5.5;1;0;0;11;7;2;2;1;1;0;0;0;15;8;19
+125;Kingsley Coman;frFRA;FW;de Bayern Munich;25;1996;7.0;1;0;0;6;16;4;37;2;6;0;0;0;37;8;6
+126;Francisco Conceição;ptPOR;MF;pt Porto;18;2002;0.4;1;0;0;1;0;0;0;1;0;0;0;0;2;0;1
+127;Francis Coquelin;frFRA;MF;es Villarreal;30;1991;5.1;2;1;1;9;4;2;3;10;4;1;0;0;23;5;8
+128;Jesús Corona;mxMEX;DF,FW;pt Porto;28;1993;2.4;1;0;0;3;4;0;6;3;2;0;0;0;9;4;0
+129;Ángel Correa;arARG;FW,MF;es Atlético Madrid;26;1995;4.5;2;0;0;10;8;2;6;2;3;0;0;0;17;0;3
+130;Joaquín Correa;arARG;FW;it Inter;26;1994;1.2;0;0;0;1;2;1;0;0;1;0;0;0;2;1;0
+131;Bruno Xavier Almeida Costa;ptPOR;MF;pt Porto;24;1997;0.1;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0
+132;Diogo Costa;ptPOR;GK;pt Porto;21;1999;6.0;0;0;0;0;1;0;0;0;1;0;0;0;7;0;0
+133;Thibaut Courtois;beBEL;GK;es Real Madrid;29;1992;13.7;0;0;0;0;2;0;0;0;0;0;0;0;12;2;1
+134;Philippe Coutinho;brBRA;FW,MF;es Barcelona;29;1992;1.2;0;0;0;1;4;0;2;0;1;0;0;0;3;1;0
+135;Juan Cuadrado;coCOL;DF,MF;it Juventus;33;1988;5.2;2;0;0;3;9;0;29;5;3;0;0;0;35;6;0
+136;Matheus Cunha;brBRA;FW;es Atlético Madrid;22;1999;1.6;0;0;0;6;3;0;0;3;1;0;0;0;3;0;8
+137;Danilo D'Ambrosio;itITA;DF;it Inter;32;1988;1.6;1;0;0;4;1;0;3;1;1;0;0;0;11;1;1
+138;Cosimo Marco Da Graca;itITA;FW;it Juventus;19;2002;0.0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+139;Johan Dahlin;seSWE;GK;se Malmö;34;1986;3.5;1;0;0;1;0;0;0;0;0;0;1;0;2;0;0
+140;Mahmoud Dahoud;deGER;MF;de Dortmund;25;1996;2.4;0;0;0;2;2;1;5;0;4;1;0;0;23;0;2
+141;Diogo Dalot;ptPOR;DF;eng Manchester Utd;22;1999;2.6;1;0;0;5;0;0;5;2;7;0;0;0;13;8;1
+142;Danilo;brBRA;DF;it Juventus;30;1991;5.0;0;0;0;4;6;0;7;11;2;0;0;0;22;4;2
+143;Mohammed Daramy;dkDEN;FW;nl Ajax;19;2002;0.6;0;0;0;0;0;0;1;1;0;0;0;0;2;0;0
+144;Matteo Darmian;itITA;DF;it Inter;31;1989;2.2;1;0;0;1;2;5;3;2;3;0;0;0;5;0;1
+145;Jonathan David;caCAN;FW;fr Lille;21;2000;7.5;0;0;0;4;12;1;1;3;2;0;0;0;25;2;15
+146;Alphonso Davies;caCAN;DF;de Bayern Munich;20;2000;5.3;0;0;0;7;4;0;18;6;10;0;0;0;37;2;4
+147;Kevin De Bruyne;beBEL;MF;eng Manchester City;30;1991;8.1;2;0;0;9;9;0;43;5;4;0;0;0;33;2;4
+148;Charles De Ketelaere;beBEL;FW;be Club Brugge;20;2001;5.5;0;0;0;1;11;10;12;1;4;0;0;0;14;6;10
+149;Rodrigo De Paul;arARG;MF;es Atlético Madrid;27;1994;6.4;2;0;0;12;13;0;15;7;12;0;0;0;44;1;1
+150;Mattia De Sciglio;itITA;DF;it Juventus;28;1992;3.2;0;0;0;5;2;0;22;7;8;0;0;0;15;2;2
+151;Koni De Winter;beBEL;DF;it Juventus;19;2002;0.9;0;0;0;1;1;0;2;0;0;0;0;0;7;0;3
+152;Thomas Delaney;dkDEN;MF;es Sevilla;29;1991;2.2;2;0;0;4;2;0;0;6;5;0;1;0;9;6;3
+153;Liam Delap;engENG;FW;eng Manchester City;18;2003;0.1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+154;Ousmane Dembélé;frFRA;FW,DF;es Barcelona;24;1997;1.4;0;0;0;1;2;1;10;0;0;0;0;0;7;0;1
+155;Yusuf Demir;atAUT;DF,FW;es Barcelona;18;2003;1.1;0;0;0;1;1;1;1;0;1;0;0;0;7;2;2
+156;Merih Demiral;trTUR;DF;it Atalanta;23;1998;4.1;1;0;0;4;2;0;0;9;4;0;0;0;22;13;8
+157;Dentinho;brBRA;FW;ua Shakhtar;32;1989;0.1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+158;Sergiño Dest;usUSA;DF,FW;es Barcelona;20;2000;2.6;1;0;0;3;3;0;7;1;6;0;1;0;15;2;2
+159;Ersin Destanoğlu;trTUR;GK;tr Beşiktaş;20;2001;5.0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0
+160;Ángel Di María;arARG;FW;fr Paris S-G;33;1988;2.9;0;0;0;4;2;1;7;0;2;0;0;0;12;0;1
+161;Boulaye Dia;snSEN;FW;es Villarreal;24;1996;2.9;0;0;0;3;3;4;0;1;0;0;0;0;7;3;11
+162;Abdou Diallo;snSEN;DF;fr Paris S-G;25;1996;1.8;0;0;0;4;0;0;0;5;2;0;0;0;12;3;1
+163;Amad Diallo;ciCIV;MF;eng Manchester Utd;19;2002;0.7;0;0;0;1;1;0;0;1;1;0;0;0;4;0;2
+164;Rúben Dias;ptPOR;DF;eng Manchester City;24;1997;7.4;0;0;0;6;1;0;0;8;2;0;1;0;47;6;7
+165;Ismael Diawara;mlMLI;GK;se Malmö;26;1994;2.5;0;0;0;0;1;0;0;0;0;0;0;0;4;1;1
+166;Brahim Díaz;esESP;MF;it Milan;21;1999;3.9;1;0;0;3;12;0;1;0;0;0;0;0;23;0;4
+167;Luis Díaz;coCOL;MF,FW;pt Porto;24;1997;5.8;1;0;0;11;5;2;6;3;4;0;0;0;32;1;17
+168;Luis Díaz;coCOL;FW;eng Liverpool;24;1997;4.3;0;0;0;5;5;0;6;0;0;0;0;0;22;5;2
+169;Federico Dimarco;itITA;DF;it Inter;23;1997;3.1;1;0;0;3;2;0;37;3;4;0;0;0;20;0;1
+170;Junior Dina Ebimbe;frFRA;MF;fr Paris S-G;20;2000;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+171;Tiago Djaló;ptPOR;DF;fr Lille;21;2000;5.9;1;0;0;5;8;0;3;6;5;0;0;0;41;5;3
+172;Berat Djimsiti;alALB;DF;it Atalanta;28;1993;2.9;0;0;0;3;1;0;1;7;4;0;0;0;25;8;5
+173;Dodô;brBRA;DF;ua Shakhtar;22;1998;6.0;0;0;0;5;7;0;10;5;9;0;0;0;51;3;2
+174;Gianluigi Donnarumma;itITA;GK;fr Paris S-G;22;1999;5.0;2;0;0;0;0;0;0;0;0;0;0;0;7;0;0
+175;Bas Dost;nlNED;FW;be Club Brugge;32;1989;0.8;0;0;0;2;1;2;0;0;0;0;0;0;1;7;4
+176;Julian Draxler;deGER;MF,FW;fr Paris S-G;27;1993;1.6;0;0;0;0;1;0;1;1;0;0;0;0;7;1;1
+177;Rodrigo Duarte;ptPOR;FW;pt Sporting CP;16;2005;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+178;Gustavo Dulanto;pePER;DF;md Sheriff Tiraspol;25;1995;6.0;3;0;0;4;1;1;1;6;10;0;0;0;25;9;6
+179;Denzel Dumfries;nlNED;DF;it Inter;25;1996;5.2;1;0;0;12;7;0;13;6;2;0;0;0;15;5;8
+180;Paulo Dybala;arARG;FW,MF;it Juventus;27;1993;2.8;0;0;0;2;6;0;9;0;1;0;0;0;13;1;1
+181;Edin Džeko;baBIH;FW;it Inter;35;1986;6.0;0;0;0;3;10;2;8;2;0;0;0;0;22;19;11
+182;Artem Dzyuba;ruRUS;FW;ru Zenit;32;1988;3.1;0;0;0;1;3;2;0;1;0;1;0;0;8;13;9
+183;Ederson;brBRA;GK;eng Manchester City;27;1993;11.1;1;0;0;0;1;0;0;1;0;0;0;0;17;1;0
+184;Marcus Edwards;engENG;MF;pt Sporting CP;22;1998;0.4;0;0;0;0;1;0;0;0;1;0;0;0;4;0;0
+185;CJ Egan-Riley;engENG;DF;eng Manchester City;18;2003;1.0;0;0;0;1;0;0;1;0;0;0;0;0;5;1;0
+186;Noah Eile;seSWE;DF;se Malmö;19;2002;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+187;Anthony Elanga;seSWE;FW,MF;eng Manchester Utd;19;2002;1.9;0;0;0;3;2;1;1;3;3;0;0;0;2;3;6
+188;Harvey Elliott;engENG;MF;eng Liverpool;18;2003;0.6;0;0;0;0;1;0;1;0;0;0;0;0;4;0;1
+189;Youssef En-Nesyri;maMAR;FW;es Sevilla;24;1997;0.9;3;1;1;5;3;0;0;0;0;1;0;0;0;2;4
+190;Aleksandr Erokhin;ruRUS;MF;ru Zenit;31;1989;1.2;0;0;0;2;2;0;2;0;1;0;0;0;5;3;1
+191;Ricardo Esgaio;ptPOR;DF;pt Sporting CP;28;1993;4.3;1;0;0;7;3;0;3;3;5;0;0;0;24;1;5
+192;Dario Essugo;ptPOR;MF;pt Sporting CP;16;2005;0.1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+193;Gonçalo Esteves;ptPOR;DF;pt Sporting CP;17;2004;0.8;0;0;0;1;2;0;1;1;2;0;0;0;4;1;2
+194;Pervis Estupiñán;ecECU;DF;es Villarreal;23;1998;7.2;2;0;0;6;3;0;13;10;9;0;0;1;54;3;6
+195;Evanilson;brBRA;FW;pt Porto;21;1999;3.4;0;0;0;9;15;2;2;0;0;1;0;0;6;9;9
+196;Fabinho;brBRA;MF;eng Liverpool;27;1993;9.4;1;0;0;14;11;0;2;18;18;0;0;0;79;11;14
+197;Guillaume Faivre;chSUI;GK;ch Young Boys;34;1987;3.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+198;Christian Fassnacht;chSUI;MF,FW;ch Young Boys;27;1993;3.0;1;0;0;2;0;2;6;7;3;0;0;0;12;3;7
+199;Ansu Fati;esESP;FW;es Barcelona;18;2002;1.7;0;0;0;5;2;1;0;1;1;0;0;0;4;2;2
+200;Zouhair Feddal;maMAR;DF;pt Sporting CP;32;1989;5.0;2;0;0;0;1;0;1;13;3;0;0;0;24;9;8
+201;Felipe;brBRA;DF;es Atlético Madrid;32;1989;5.2;3;2;1;7;2;1;0;4;2;0;0;0;39;5;7
+202;João Félix;ptPOR;FW,MF;es Atlético Madrid;21;1999;6.3;2;0;0;4;13;3;3;8;0;0;0;0;14;3;17
+203;Bruno Fernandes;ptPOR;MF;eng Manchester Utd;26;1994;5.8;0;0;0;5;9;2;24;2;7;0;0;0;30;1;3
+204;Fernandinho;brBRA;MF,DF;eng Manchester City;36;1985;3.9;1;0;0;1;12;0;4;9;6;0;0;0;31;4;7
+205;Fernando;brBRA;DF;md Sheriff Tiraspol;22;1998;6.0;2;0;0;6;8;1;13;11;12;0;0;0;25;11;6
+206;Fernando;brBRA;MF;es Sevilla;34;1987;6.0;1;0;0;5;7;1;1;15;3;0;0;0;53;14;5
+207;Fernando;brBRA;FW;ua Shakhtar;22;1999;3.8;1;0;0;6;3;3;2;2;8;0;0;0;7;3;5
+208;Roberto Firmino;brBRA;FW;eng Liverpool;29;1991;3.6;0;0;0;4;2;1;0;2;8;0;0;0;13;3;5
+209;Alessandro Florenzi;itITA;DF,FW;it Milan;30;1991;1.0;0;0;0;1;2;0;4;2;0;0;0;0;5;1;6
+210;Phil Foden;engENG;FW;eng Manchester City;21;2000;7.3;1;0;0;5;10;6;21;2;4;0;0;0;16;1;8
+211;José Fonte;ptPOR;DF;fr Lille;37;1983;8.0;3;0;0;6;5;0;0;8;4;0;0;0;32;14;4
+212;Emil Forsberg;seSWE;MF,FW;de RB Leipzig;29;1991;4.3;0;0;0;6;4;0;12;2;2;0;0;0;16;1;3
+213;Juan Foyth;arARG;DF;es Villarreal;23;1998;9.9;1;0;0;10;7;0;2;12;25;0;0;0;61;19;7
+214;Lassina Franck Traoré;bfBFA;FW;ua Shakhtar;20;2001;1.1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;2
+215;Fred;brBRA;MF;eng Manchester Utd;28;1993;4.8;1;0;0;4;10;0;2;7;7;0;0;0;43;3;4
+216;Remo Freuler;chSUI;MF;it Atalanta;29;1992;5.8;0;0;0;6;11;0;2;7;1;0;0;0;53;5;2
+217;Roberto Gagliardini;itITA;MF;it Inter;27;1994;0.8;1;0;0;1;1;0;3;1;2;0;0;0;3;0;1
+218;Idrissa Gana Gueye;snSEN;MF;fr Paris S-G;31;1989;4.4;1;0;0;10;7;0;3;7;8;0;0;0;22;3;4
+219;Eric García;esESP;DF;es Barcelona;20;2001;2.7;3;1;1;6;1;0;0;5;2;0;0;0;10;5;4
+220;Ulisses Garcia;chSUI;DF;ch Young Boys;25;1996;4.8;1;0;0;10;2;0;21;6;10;0;0;0;28;7;2
+221;Mario Gaspar;esESP;DF;es Villarreal;30;1990;1.0;1;0;0;2;2;0;1;0;2;0;0;0;6;1;0
+222;Gavi;esESP;MF,FW;es Barcelona;16;2004;4.4;2;0;0;16;7;3;4;3;6;0;0;0;22;3;6
+223;David de Gea;esESP;GK;eng Manchester Utd;30;1990;7.0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0
+224;Yannick Gerhardt;deGER;FW;de Wolfsburg;27;1994;2.1;0;0;0;2;4;0;3;0;5;0;0;0;15;4;4
+225;Rachid Ghezzal;dzALG;FW,MF;tr Beşiktaş;29;1992;3.8;1;0;0;4;6;1;14;5;4;0;0;0;30;0;10
+226;Gilberto;brBRA;DF,MF;pt Benfica;28;1993;7.9;1;0;0;16;14;0;12;21;16;0;0;0;61;6;9
+227;Daniel Ginczek;deGER;FW;de Wolfsburg;30;1991;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+228;Olivier Giroud;frFRA;FW;it Milan;34;1986;2.9;2;0;0;5;2;5;0;2;2;0;0;0;5;15;5
+229;Serge Gnabry;deGER;FW,MF;de Bayern Munich;26;1995;4.3;0;0;0;4;1;0;9;4;4;0;0;0;24;2;2
+230;Angel Gomes;engENG;MF;fr Lille;20;2000;1.9;0;0;0;1;4;1;1;1;5;0;0;0;7;1;3
+231;Joe Gomez;engENG;DF;eng Liverpool;24;1997;2.8;0;0;0;1;0;0;1;7;1;0;0;0;12;11;3
+232;Moi Gómez;esESP;MF,FW;es Villarreal;27;1994;2.5;0;0;0;3;0;0;4;0;2;0;0;0;12;1;4
+233;Papu Gómez;arARG;FW,MF;es Sevilla;33;1988;3.6;0;0;0;1;5;0;14;0;1;0;0;0;19;0;3
+234;Diogo Gonçalves;ptPOR;MF,FW;pt Benfica;24;1997;1.5;0;0;0;0;1;2;5;2;0;0;0;0;7;0;2
+235;Pedro Gonçalves;ptPOR;MF;pt Sporting CP;23;1998;3.6;0;0;0;3;4;0;10;3;4;1;0;0;17;0;0
+236;Nicolás González;esESP;MF;es Barcelona;19;2002;2.8;1;0;0;6;3;1;1;3;1;0;0;0;17;3;1
+237;Leon Goretzka;deGER;MF;de Bayern Munich;26;1995;5.2;0;0;0;6;5;0;3;7;8;0;0;0;36;7;5
+238;Robin Gosens;deGER;DF;it Atalanta;27;1994;1.1;0;0;0;2;0;0;0;3;0;0;0;0;6;2;0
+239;Ryan Gravenberch;nlNED;MF;nl Ajax;19;2002;7.8;1;0;0;17;11;1;10;6;8;0;0;0;43;8;5
+240;Ivo Grbić;hrCRO;GK;fr Lille;25;1996;6.0;1;0;0;0;4;0;0;0;0;0;0;0;4;1;0
+241;Jack Grealish;engENG;FW;eng Manchester City;25;1995;5.1;0;0;0;9;17;6;4;3;3;0;0;0;22;4;5
+242;Mason Greenwood;engENG;FW;eng Manchester Utd;19;2001;3.4;1;0;0;3;3;3;3;2;2;0;0;0;13;0;1
+243;Antoine Griezmann;frFRA;FW,MF;es Atlético Madrid;30;1991;5.7;0;1;0;6;4;1;5;4;8;0;0;0;25;11;17
+244;Álex Grimaldo;esESP;DF,MF;pt Benfica;25;1995;9.6;2;0;0;5;9;1;31;7;12;0;0;0;47;4;9
+245;Arnaut Groeneveld;nlNED;FW;es Villarreal;24;1997;10.0;0;0;0;6;7;8;14;1;0;0;0;0;20;3;11
+246;Marko Grujić;rsSRB;MF;pt Porto;25;1996;3.6;1;0;0;8;4;0;1;2;6;0;0;0;17;8;12
+247;Gabriel Gudmundsson;seSWE;MF,DF;fr Lille;22;1999;2.7;1;0;0;2;7;0;9;2;4;0;0;0;15;2;1
+248;Raphaël Guerreiro;ptPOR;DF;de Dortmund;27;1993;2.0;0;0;0;0;0;0;5;0;3;0;0;0;10;1;0
+249;Josuha Guilavogui;frFRA;MF,DF;de Wolfsburg;30;1990;4.7;4;1;1;11;1;0;0;15;6;0;1;0;40;13;6
+250;Daouda Guindo;mlMLI;DF;at RB Salzburg;18;2002;0.1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0
+251;Péter Gulácsi;huHUN;GK;de RB Leipzig;31;1990;5.0;0;0;0;0;2;0;0;1;0;0;0;0;7;0;0
+252;İlkay Gündoğan;deGER;MF;eng Manchester City;30;1990;7.4;1;0;0;4;7;1;13;7;4;0;0;0;39;5;1
+253;Mert Günok;trTUR;GK;tr Beşiktaş;32;1989;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+254;Miguel Gutiérrez;esESP;DF;es Real Madrid;20;2001;0.7;0;0;0;0;0;0;4;0;0;0;0;0;3;1;2
+255;Joško Gvardiol;hrCRO;DF;de RB Leipzig;19;2002;3.7;0;0;0;8;3;0;0;8;4;0;1;0;38;6;5
+256;Erling Haaland;noNOR;FW;de Dortmund;21;2000;2.3;0;0;0;2;2;0;1;0;0;0;0;0;3;4;1
+257;Munir El Haddadi;maMAR;FW,MF;es Sevilla;25;1995;2.3;0;0;0;3;6;5;2;1;0;0;0;0;10;2;3
+258;Amadou Haidara;mlMLI;MF;de RB Leipzig;23;1998;2.0;0;0;0;3;1;0;0;3;4;0;0;0;18;4;2
+259;Achraf Hakimi;maMAR;DF;fr Paris S-G;22;1998;8.0;2;0;0;3;7;0;9;5;6;1;0;0;42;1;5
+260;Sébastien Haller;ciCIV;FW;nl Ajax;27;1994;7.4;1;0;0;17;11;3;0;1;0;1;0;1;20;26;21
+261;Samir Handanović;siSVN;GK;it Inter;37;1984;8.0;0;0;0;0;0;0;0;0;1;0;0;0;5;0;0
+262;Denys Harmash;uaUKR;FW;ua Dynamo Kyiv;31;1990;3.6;2;0;0;11;15;11;1;3;3;0;0;0;13;5;12
+263;Hans Hateboer;nlNED;DF;it Atalanta;27;1994;1.0;0;0;0;0;0;1;3;1;1;0;0;0;1;2;1
+264;Kai Havertz;deGER;FW,MF;eng Chelsea;22;1999;7.5;1;0;0;12;9;2;2;3;2;0;0;0;17;12;14
+265;Eden Hazard;beBEL;FW;es Real Madrid;30;1991;0.9;0;0;0;1;3;0;3;0;1;0;0;0;4;1;0
+266;Thorgan Hazard;beBEL;FW;de Dortmund;28;1993;1.6;0;0;0;0;3;0;5;2;1;0;0;0;8;0;2
+267;Tom Heaton;engENG;GK;eng Manchester Utd;35;1986;0.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+268;Silvan Hefti;chSUI;DF;ch Young Boys;23;1997;4.3;1;0;0;10;1;0;19;5;5;0;0;0;30;1;3
+269;Dean Henderson;engENG;GK;eng Manchester Utd;24;1997;0.7;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+270;Jordan Henderson;engENG;MF;eng Liverpool;31;1990;7.4;0;0;0;10;4;0;17;13;5;0;0;0;52;5;5
+271;Jack Hendry;sctSCO;DF;be Club Brugge;26;1995;6.0;0;0;0;4;2;1;0;4;5;0;0;0;31;6;1
+272;Benjamin Henrichs;deGER;DF;de RB Leipzig;24;1997;0.6;0;0;0;1;0;0;0;3;0;0;0;0;6;0;0
+273;Mario Hermoso;esESP;DF;es Atlético Madrid;26;1995;4.7;1;0;0;9;1;0;3;10;5;0;2;0;26;12;8
+274;Lucas Hernández;frFRA;DF;de Bayern Munich;25;1996;6.3;2;0;0;11;6;0;7;10;10;0;0;0;61;6;4
+275;Theo Hernández;frFRA;DF;it Milan;23;1997;5.0;2;0;0;5;9;4;15;3;5;0;0;0;24;5;5
+276;Ander Herrera;esESP;MF;fr Paris S-G;31;1989;3.6;1;0;0;6;5;0;3;7;6;0;0;0;11;0;4
+277;Héctor Herrera;mxMEX;MF;es Atlético Madrid;31;1990;2.5;2;0;0;6;2;0;6;1;4;0;0;0;24;1;4
+278;Callum Hudson-Odoi;engENG;MF,DF;eng Chelsea;20;2000;3.2;1;0;0;4;3;1;7;1;3;0;0;0;12;0;4
+279;Mats Hummels;deGER;DF;de Dortmund;32;1988;3.9;1;1;0;6;1;0;0;7;9;0;0;0;26;2;10
+280;Atiba Hutchinson;caCAN;MF;tr Beşiktaş;38;1983;1.7;1;0;0;2;3;0;1;1;2;0;0;0;13;3;1
+281;Vicente Iborra;esESP;MF;es Villarreal;33;1988;0.1;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0
+282;Zlatan Ibrahimović;seSWE;FW;it Milan;39;1981;1.8;1;0;0;1;2;6;1;0;1;0;0;0;4;5;5
+283;Mauro Icardi;arARG;FW;fr Paris S-G;28;1993;0.5;0;0;0;0;0;4;0;0;0;0;0;0;0;1;1
+284;Jonathan Ikone;frFRA;MF;fr Lille;23;1998;3.3;4;0;0;6;2;1;1;0;1;0;0;0;12;0;1
+285;Josip Iličić;siSVN;FW,MF;it Atalanta;33;1988;2.8;0;0;0;1;11;2;7;1;0;0;0;0;14;1;0
+286;Gonçalo Inácio;ptPOR;DF;pt Sporting CP;19;2001;6.2;1;0;0;3;2;0;0;9;2;0;0;0;23;4;6
+287;Jo Inge Berget;noNOR;DF;se Malmö;30;1990;4.9;0;0;0;3;4;0;8;3;3;0;0;0;25;10;10
+288;Bonke Innocent;ngNGA;MF;se Malmö;25;1996;5.5;1;0;0;11;7;0;0;5;6;0;0;0;31;5;5
+289;Zidane Iqbal;iqIRQ;MF;eng Manchester Utd;18;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+290;Ismaily;brBRA;DF;ua Shakhtar;31;1990;3.9;0;0;0;1;4;2;4;5;3;0;0;0;21;9;2
+291;José Izquierdo;coCOL;DF;be Club Brugge;29;1992;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+292;Reece James;engENG;DF,MF;eng Chelsea;21;1999;5.6;1;0;0;5;7;0;22;7;8;0;0;0;36;7;6
+293;Gabriel Jesus;brBRA;FW;eng Manchester City;24;1997;3.9;3;0;0;9;3;4;3;2;2;0;0;0;14;2;6
+294;Curtis Jones;engENG;MF,FW;eng Liverpool;20;2001;2.1;0;0;0;3;5;1;0;0;1;0;0;0;12;0;1
+295;Frenkie de Jong;nlNED;MF;es Barcelona;24;1997;5.8;1;0;0;4;7;2;0;5;4;0;0;0;40;5;3
+296;Luuk de Jong;nlNED;FW;es Barcelona;30;1990;2.0;0;0;0;1;1;2;0;1;0;0;0;0;4;4;3
+297;Joan Jordán;esESP;MF,FW;es Sevilla;27;1994;3.6;2;1;1;10;4;0;4;3;3;0;0;0;32;2;3
+298;Jorginho;itITA;MF;eng Chelsea;29;1991;6.2;0;0;0;9;8;0;4;13;6;0;1;0;45;5;5
+299;Diogo Jota;ptPOR;FW;eng Liverpool;24;1996;6.4;2;0;0;11;6;4;3;6;5;1;0;0;29;5;15
+300;Luka Jović;rsSRB;FW;es Real Madrid;23;1997;1.3;1;0;0;1;3;0;0;0;0;0;0;0;3;2;1
+301;Keston Julien;ttTRI;FW;md Sheriff Tiraspol;22;1998;0.6;0;0;0;0;0;0;3;0;0;0;0;0;3;0;0
+302;Vinicius Júnior;brBRA;FW;es Real Madrid;21;2000;13.3;1;0;0;13;25;4;17;2;11;1;0;0;50;1;2
+303;Felix Kalu Nmecha;deGER;MF;de Wolfsburg;20;2000;0.4;0;0;0;1;1;0;1;0;0;0;0;0;3;0;1
+304;Pierre Kalulu;frFRA;DF;it Milan;21;2000;2.4;1;0;0;3;0;0;4;3;3;0;1;0;13;3;3
+305;Kevin Kampl;siSVN;MF;de RB Leipzig;30;1990;3.0;1;0;0;5;2;0;1;6;4;0;0;0;24;0;4
+306;Wilfried Kanga;ciCIV;FW;ch Young Boys;23;1998;0.9;0;0;0;1;1;1;1;0;0;0;0;0;1;6;2
+307;N'Golo Kanté;frFRA;MF;eng Chelsea;30;1991;4.7;0;0;0;12;2;0;2;5;5;0;0;0;29;3;4
+308;Kenan Karaman;trTUR;FW,MF;tr Beşiktaş;27;1994;3.0;0;0;0;4;2;3;0;1;2;0;0;0;12;6;5
+309;Oleksandr Karavayev;uaUKR;DF,MF;ua Dynamo Kyiv;29;1992;1.8;0;0;0;1;3;2;5;1;0;0;0;0;5;6;3
+310;Vyacheslav Karavayev;ruRUS;DF;ru Zenit;26;1995;3.3;1;0;0;2;0;0;5;1;4;0;0;0;13;1;4
+311;Moise Kean;itITA;FW;it Juventus;21;2000;1.9;0;0;0;5;0;1;0;1;3;0;0;0;6;4;4
+312;Tomasz Kędziora;plPOL;DF;ua Dynamo Kyiv;27;1994;4.0;0;0;0;3;2;0;5;5;5;0;0;0;16;1;4
+313;Thilo Kehrer;deGER;DF;fr Paris S-G;24;1996;0.7;1;0;0;1;0;0;0;0;0;0;0;0;6;1;1
+314;Naby Keïta;gnGUI;MF;eng Liverpool;26;1995;5.4;0;0;0;15;7;0;2;3;8;0;0;0;46;2;7
+315;Mikhail Kerzhakov;ruRUS;GK;ru Zenit;34;1987;2.0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+316;Franck Kessié;ciCIV;MF;it Milan;24;1996;3.6;2;1;1;9;6;0;4;5;2;0;0;0;34;5;2
+317;Joshua Kimmich;deGER;MF;de Bayern Munich;26;1995;7.8;1;0;0;3;17;0;49;16;11;0;0;0;49;7;6
+318;Presnel Kimpembe;frFRA;DF;fr Paris S-G;25;1995;7.0;3;0;0;8;6;0;0;5;9;0;1;0;29;1;6
+319;Simon Kjær;dkDEN;DF;it Milan;32;1989;3.0;0;0;0;2;1;0;0;3;1;0;0;0;13;7;10
+320;Maurits Kjærgaard;dkDEN;FW,MF;at RB Salzburg;18;2003;0.5;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+321;Davy Klaassen;nlNED;MF;nl Ajax;28;1993;2.6;0;0;0;5;2;0;1;2;6;0;0;0;15;0;2
+322;Lukas Klostermann;deGER;DF;de RB Leipzig;25;1996;3.9;1;0;0;3;0;0;1;8;3;0;1;0;21;4;3
+323;Ansgar Knauff;deGER;FW,MF;de Dortmund;19;2002;0.3;1;0;0;3;1;1;0;1;2;0;0;0;3;1;0
+324;Gregor Kobel;chSUI;GK;de Dortmund;23;1997;6.0;0;0;0;0;0;0;0;0;0;0;0;0;10;0;0
+325;Philipp Köhn;chSUI;GK;at RB Salzburg;23;1998;8.0;1;0;0;0;2;0;0;0;0;0;0;0;7;1;0
+326;Koke;esESP;MF;es Atlético Madrid;29;1992;7.3;1;0;0;7;11;0;4;5;9;0;0;0;45;2;8
+327;Aleksandar Kolarov;rsSRB;DF;it Inter;35;1985;0.1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0
+328;Dimitris Kolovos;grGRE;MF,FW;md Sheriff Tiraspol;28;1993;4.5;1;0;0;1;8;0;0;0;2;0;0;0;25;1;3
+329;Ibrahima Konaté;frFRA;DF;eng Liverpool;22;1999;8.0;1;0;0;11;3;0;0;13;11;0;0;0;48;23;11
+330;Geoffrey Kondogbia;cfCTA;MF,DF;es Atlético Madrid;28;1993;6.4;2;0;0;5;11;0;1;14;16;0;0;0;39;11;7
+331;Teun Koopmeiners;nlNED;MF;it Atalanta;23;1998;2.4;0;0;0;3;3;0;12;0;2;0;0;0;16;0;1
+332;Viktor Korniienko;uaUKR;DF;ua Shakhtar;22;1999;0.9;0;0;0;0;1;0;4;1;0;0;0;0;9;0;1
+333;Jules Koundé;frFRA;DF;es Sevilla;22;1998;5.0;0;0;0;3;3;0;1;9;4;0;0;0;39;23;9
+334;Mateo Kovačić;hrCRO;MF;eng Chelsea;27;1994;4.7;0;0;0;6;4;0;1;0;7;0;0;0;33;1;0
+335;Kirill Kravtsov;ruRUS;MF;ru Zenit;19;2002;0.2;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1
+336;Stanislav Kritsyuk;ruRUS;GK;ru Zenit;30;1990;4.0;0;0;0;0;1;0;0;0;0;0;0;0;4;5;0
+337;Toni Kroos;deGER;MF;es Real Madrid;31;1990;10.0;0;0;0;7;18;0;32;6;14;0;0;0;55;5;4
+338;Danil Krugovoy;ruRUS;DF,MF;ru Zenit;23;1998;0.8;0;0;0;1;2;0;10;1;1;0;0;0;6;1;0
+339;Rade Krunić;baBIH;FW,MF;it Milan;27;1993;2.8;0;0;0;3;8;0;0;3;2;0;0;0;19;4;5
+340;Serhiy Kryvtsov;uaUKR;DF;ua Shakhtar;30;1991;2.1;0;0;0;1;0;0;0;3;2;0;0;1;6;4;1
+341;Dejan Kulusevski;seSWE;FW,MF;it Juventus;21;2000;0.9;1;0;0;5;0;0;0;0;1;0;0;0;3;2;4
+342;Daniil Kuznetsov;ruRUS;MF;ru Zenit;18;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+343;Daler Kuzyaev;ruRUS;MF;ru Zenit;28;1993;2.8;0;0;0;3;4;0;2;3;4;0;0;0;12;2;1
+344;Maxence Lacroix;frFRA;DF;de Wolfsburg;21;2000;6.0;2;0;0;5;6;0;0;14;4;0;0;0;39;9;8
+345;Konrad Laimer;atAUT;MF;de RB Leipzig;24;1997;4.5;0;0;0;11;5;0;3;7;7;0;0;0;32;2;2
+346;Érik Lamela;arARG;FW,MF;es Sevilla;29;1992;1.4;1;0;0;4;6;0;4;0;2;1;0;0;8;1;4
+347;Noa Lang;nlNED;MF,FW;be Club Brugge;22;1999;5.9;3;0;0;2;8;5;28;4;5;0;0;0;25;1;3
+348;Aymeric Laporte;esESP;DF;eng Manchester City;27;1994;8.8;2;0;0;4;2;1;0;11;7;0;1;0;46;11;7
+349;Cyle Larin;caCAN;FW,MF;tr Beşiktaş;26;1995;3.9;3;0;0;7;11;1;1;1;4;0;0;0;15;11;5
+350;Eric Larsson;seSWE;DF;se Malmö;30;1991;3.1;1;0;0;5;8;0;5;2;0;0;2;0;17;1;0
+351;Sandro Lauper;chSUI;DF;ch Young Boys;24;1996;5.1;0;0;0;3;1;0;1;8;7;0;0;0;46;3;1
+352;Valentino Lazaro;atAUT;DF,MF;pt Benfica;25;1996;1.3;0;0;0;2;1;0;0;0;4;0;0;0;7;1;1
+353;Rafael Leão;ptPOR;FW;it Milan;22;1999;3.2;1;0;0;4;2;3;10;1;3;0;0;0;14;6;7
+354;Jordan Lefort;frFRA;DF;ch Young Boys;27;1993;1.9;0;0;0;6;0;0;6;5;3;0;0;0;8;3;1
+355;Thomas Lemar;frFRA;MF;es Atlético Madrid;25;1995;4.2;0;0;0;3;3;0;15;6;4;0;0;0;26;2;3
+356;Clément Lenglet;frFRA;DF;es Barcelona;26;1995;3.8;1;0;0;3;2;1;2;5;3;0;0;0;16;8;2
+357;Robert Lewandowski;plPOL;FW;de Bayern Munich;32;1988;9.7;1;0;0;11;13;8;10;1;2;2;0;0;20;6;17
+358;Oscar Lewicki;seSWE;MF;se Malmö;29;1992;1.4;0;0;0;0;0;0;2;0;0;0;0;0;11;0;2
+359;Bohdan Liedniev;uaUKR;MF;ua Dynamo Kyiv;23;1998;0.1;0;0;0;0;0;0;1;0;0;0;0;0;1;0;1
+360;Matthijs de Ligt;nlNED;DF;it Juventus;21;1999;6.9;2;0;0;3;2;0;1;9;5;0;1;0;29;19;12
+361;Isaac Lihadji;frFRA;MF,FW;fr Lille;19;2002;0.3;0;0;0;0;1;0;3;0;0;0;0;0;4;0;0
+362;Victor Lindelöf;seSWE;DF;eng Manchester Utd;27;1994;4.7;1;0;0;5;1;0;2;4;5;0;0;0;22;5;1
+363;Jesse Lingard;engENG;MF,FW;eng Manchester Utd;28;1992;1.3;0;0;0;0;1;0;0;1;2;0;0;0;9;1;2
+364;Marcos Llorente;esESP;DF,MF;es Atlético Madrid;26;1995;7.8;3;0;0;13;10;5;8;9;10;0;0;0;46;7;8
+365;Giovani Lo Celso;arARG;MF,FW;es Villarreal;25;1996;5.8;3;0;0;9;15;0;4;3;14;0;0;0;27;2;3
+366;Manuel Locatelli;itITA;MF;it Juventus;23;1998;5.9;1;0;0;7;5;0;3;9;7;0;0;0;34;6;5
+367;Renan Lodi;brBRA;DF,FW;es Atlético Madrid;23;1998;5.4;0;0;0;14;6;5;18;7;5;0;0;0;21;6;12
+368;Ruben Loftus-Cheek;engENG;MF,DF;eng Chelsea;25;1996;4.0;2;0;0;5;9;0;5;1;6;0;0;0;27;6;5
+369;Matteo Lovato;itITA;DF;it Atalanta;21;2000;0.5;1;0;0;1;0;0;0;1;0;0;0;0;6;0;1
+370;Dejan Lovren;hrCRO;DF;ru Zenit;32;1989;3.5;2;0;0;2;0;0;2;0;0;0;0;0;12;7;5
+371;José Luis Palomino;arARG;DF;it Atalanta;31;1990;5.0;1;0;0;5;0;1;0;13;9;0;0;0;38;15;6
+372;Romelu Lukaku;beBEL;FW;eng Chelsea;28;1993;3.6;0;0;0;2;2;3;2;0;0;1;0;0;4;7;4
+373;Dodi Lukebakio;beBEL;FW,MF;de Wolfsburg;23;1997;3.3;0;0;0;2;4;2;1;1;3;0;0;0;10;2;7
+374;Fabian Lustenberger;chSUI;DF;ch Young Boys;33;1988;1.0;0;0;0;0;1;0;1;0;0;0;0;0;6;0;0
+375;Quentin Maceiras;chSUI;DF,MF;ch Young Boys;25;1995;1.3;0;0;0;1;2;0;7;1;1;0;0;0;2;3;2
+376;Harry Maguire;engENG;DF;eng Manchester Utd;28;1993;5.9;0;0;0;6;7;0;2;5;5;0;0;0;29;11;7
+377;Riyad Mahrez;dzALG;FW;eng Manchester City;30;1991;10.9;1;0;0;6;20;5;49;8;12;1;0;0;52;3;5
+378;Nico Maier;chSUI;FW;ch Young Boys;21;2000;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+379;Mike Maignan;frFRA;GK;it Milan;26;1995;3.0;1;0;0;0;2;0;0;0;0;0;0;0;4;1;0
+380;Malcom;brBRA;MF,FW;ru Zenit;24;1997;4.8;0;0;0;3;14;2;20;1;1;0;0;0;23;5;8
+381;Daniel Maldini;itITA;FW,MF;it Milan;19;2001;0.3;0;0;0;0;1;0;1;0;1;0;0;0;4;0;2
+382;Donyell Malen;nlNED;FW;de Dortmund;22;1999;4.3;0;0;0;6;5;4;7;3;1;0;0;0;17;2;6
+383;Ruslan Malinovskyi;uaUKR;MF,FW;it Atalanta;28;1993;3.3;0;0;0;6;9;0;31;1;6;0;0;0;19;2;4
+384;Felix Mambimbi;chSUI;FW,MF;ch Young Boys;20;2001;0.7;0;0;0;4;0;1;0;1;0;0;0;0;3;0;3
+385;Reinildo Mandava;mzMOZ;DF;fr Lille;27;1994;5.1;1;0;0;11;12;0;7;7;17;0;0;0;36;9;6
+386;Reinildo Mandava;mzMOZ;DF;es Atlético Madrid;27;1994;4.0;1;0;0;4;4;0;3;3;6;0;0;0;22;3;6
+387;Aïssa Mandi;dzALG;DF;es Villarreal;29;1991;0.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+388;Sadio Mané;snSEN;FW;eng Liverpool;29;1992;9.1;2;0;0;16;19;9;9;0;5;0;0;0;38;10;24
+389;Faitout Maouassa;frFRA;MF;be Club Brugge;23;1998;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+390;Iván Marcano;esESP;DF;pt Porto;34;1987;1.4;0;0;0;0;1;0;0;1;1;0;0;0;4;5;1
+391;Marcelo;brBRA;DF;es Real Madrid;33;1988;1.1;0;0;0;1;0;0;3;2;1;0;0;0;7;1;3
+392;José María Giménez;uyURU;DF;es Atlético Madrid;26;1995;6.5;1;0;0;4;3;1;0;6;2;0;0;0;22;15;4
+393;Mariano;doDOM;FW;es Real Madrid;27;1993;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+394;João Mário;ptPOR;MF;pt Benfica;28;1993;5.4;2;0;0;13;13;0;10;6;2;0;0;0;25;4;5
+395;João Mário Lopes;ptPOR;DF;pt Porto;21;2000;3.9;0;0;0;1;4;0;8;4;3;0;0;0;25;4;7
+396;Marlon;brBRA;DF;ua Shakhtar;25;1995;5.0;0;0;0;6;0;0;0;2;1;0;0;0;18;9;11
+397;Marlos;uaUKR;FW,MF;ua Shakhtar;33;1988;2.3;0;0;0;0;2;0;5;0;1;0;0;0;7;0;0
+398;Marquinhos;brBRA;DF;fr Paris S-G;27;1994;8.0;0;0;0;3;2;0;0;4;7;0;0;0;46;5;9
+399;Anthony Martial;frFRA;FW;eng Manchester Utd;25;1995;0.7;0;0;0;0;3;0;0;0;0;0;0;0;2;0;1
+400;Josep Martinez;esESP;GK;de RB Leipzig;23;1998;1.0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+401;Lautaro Martínez;arARG;FW;it Inter;23;1997;6.4;1;0;0;7;9;5;0;6;3;0;0;0;18;4;11
+402;Lisandro Martínez;arARG;DF;nl Ajax;23;1998;8.0;1;0;0;7;8;0;0;12;10;0;0;0;70;13;8
+403;Toni Martínez;esESP;FW;pt Porto;24;1997;1.6;0;0;0;2;3;0;3;0;1;0;0;0;5;7;6
+404;Christopher Martins;luLUX;MF;ch Young Boys;24;1997;4.6;1;0;0;7;5;0;0;10;5;0;0;0;38;7;2
+405;Clinton Mata;aoANG;DF;be Club Brugge;28;1992;5.9;1;0;0;7;10;0;11;11;7;0;0;0;26;5;1
+406;Juan Mata;esESP;MF;eng Manchester Utd;33;1988;1.1;0;0;0;0;4;0;2;0;1;0;0;0;10;0;0
+407;Nemanja Matić;rsSRB;MF,DF;eng Manchester Utd;32;1988;2.2;2;0;0;2;4;0;1;4;2;0;0;0;15;2;0
+408;Joël Matip;cmCMR;DF;eng Liverpool;29;1991;7.0;1;0;0;6;1;0;0;6;6;0;0;0;35;23;6
+409;Mykola Matviyenko;uaUKR;DF;ua Shakhtar;25;1996;4.0;0;0;0;2;3;0;2;7;1;0;0;0;20;7;5
+410;Eric Maxim Choupo-Moting;cmCMR;FW;de Bayern Munich;32;1989;0.6;0;0;0;2;1;1;0;0;0;0;0;0;2;2;0
+411;Maycon;brBRA;MF;ua Shakhtar;24;1997;5.3;0;0;0;5;1;0;11;9;3;0;0;0;30;2;0
+412;Noussair Mazraoui;maMAR;DF;nl Ajax;23;1997;7.3;1;0;0;8;8;0;10;4;20;0;2;0;38;3;8
+413;Kevin Mbabu;chSUI;DF;de Wolfsburg;26;1995;3.6;2;0;0;7;3;0;14;5;3;0;0;0;23;10;7
+414;Noah Mbamba;beBEL;MF;be Club Brugge;16;2005;0.6;0;0;0;0;1;0;0;3;1;0;0;0;2;0;0
+415;Kylian Mbappé;frFRA;FW;fr Paris S-G;22;1998;7.5;1;0;0;3;11;8;10;1;1;2;0;0;21;2;6
+416;Chancel Mbemba;cdCOD;DF;pt Porto;26;1994;5.0;2;1;0;3;4;0;2;2;2;0;0;1;22;6;4
+417;Luke Mbete-Tatu;engENG;DF;eng Manchester City;17;2003;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+418;James Mcatee;engENG;MF;eng Manchester City;18;2002;0.5;0;0;0;1;2;0;1;0;1;0;0;0;2;0;0
+419;Weston McKennie;usUSA;MF;it Juventus;22;1998;4.3;0;0;0;3;2;0;2;7;6;0;0;0;23;7;3
+420;Scott McTominay;sctSCO;MF;eng Manchester Utd;24;1996;4.4;1;0;0;7;4;0;0;9;0;0;0;0;27;7;6
+421;Brandon Mechele;beBEL;DF;be Club Brugge;28;1993;1.5;0;0;0;0;0;0;0;4;2;0;0;0;7;0;0
+422;Soualiho Meïté;frFRA;MF;pt Benfica;27;1994;1.7;0;0;0;1;8;0;0;0;1;0;0;0;12;1;2
+423;Arthur Melo;brBRA;MF;it Juventus;24;1996;3.0;1;0;0;4;4;1;2;4;4;0;0;0;27;1;3
+424;Memphis;nlNED;FW;es Barcelona;27;1994;5.8;0;0;0;4;6;4;41;1;2;0;0;0;11;1;4
+425;Nuno Mendes;ptPOR;DF;fr Paris S-G;19;2002;6.4;1;0;0;5;10;2;11;4;7;0;0;0;27;2;1
+426;Edouard Mendy;snSEN;GK;eng Chelsea;29;1992;9.3;0;0;0;0;0;0;0;0;0;0;0;0;11;2;1
+427;Ferland Mendy;frFRA;DF;es Real Madrid;26;1995;9.6;3;0;0;7;7;0;13;7;7;0;0;0;50;5;6
+428;Teden Mengi;engENG;DF;eng Manchester Utd;19;2002;0.3;0;0;0;0;1;0;0;0;0;0;0;0;3;1;0
+429;Umut Meraş;trTUR;DF;tr Beşiktaş;25;1995;2.8;0;0;0;1;2;0;3;7;2;0;0;0;14;1;3
+430;Elia Meschak;cdCOD;FW;ch Young Boys;24;1996;5.4;1;0;0;6;7;3;15;4;2;;;0;;;
+431;Lionel Messi;arARG;FW;fr Paris S-G;34;1987;7.0;1;0;0;3;11;1;11;0;0;1;0;0;23;1;3
+432;Junior Messias;brBRA;FW,MF;it Milan;30;1991;1.3;0;0;0;2;4;1;4;2;3;0;0;0;4;2;1
+433;Thomas Meunier;beBEL;DF;de Dortmund;29;1991;5.4;1;0;0;6;1;1;15;11;8;0;0;0;50;13;6
+434;Simon Mignolet;beBEL;GK;be Club Brugge;33;1988;6.0;1;0;0;0;0;0;0;0;0;0;0;0;15;1;0
+435;Éder Militão;brBRA;DF;es Real Madrid;23;1998;11.9;4;0;0;17;16;0;2;26;11;0;0;0;58;31;7
+436;James Milner;engENG;MF,DF;eng Liverpool;35;1986;2.4;3;0;0;12;4;0;10;2;2;0;0;0;10;3;3
+437;Takumi Minamino;jpJPN;FW,MF;eng Liverpool;26;1995;2.4;0;0;0;3;3;2;1;0;3;0;0;0;12;3;5
+438;Óscar Mingueza;esESP;DF;es Barcelona;22;1999;2.5;0;0;0;7;1;0;12;5;7;0;0;0;12;2;4
+439;Rafa Mir;esESP;FW,DF;es Sevilla;24;1997;3.0;1;0;0;3;1;0;2;0;1;0;0;0;13;11;7
+440;Aleksei Miranchuk;ruRUS;FW;it Atalanta;25;1995;0.4;0;0;0;1;1;0;0;0;0;0;0;0;1;0;1
+441;Fabio Miretti;itITA;MF;it Juventus;17;2003;0.0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+442;Luka Modrić;hrCRO;MF;es Real Madrid;35;1985;11.9;1;0;0;3;8;0;12;16;9;0;0;0;55;9;8
+443;Kudus Mohammed;ghGHA;MF;nl Ajax;20;2000;0.3;0;0;0;0;1;0;0;0;0;0;0;0;4;0;0
+444;Niklas Moisander;fiFIN;DF;se Malmö;35;1985;2.1;1;0;0;1;1;0;0;4;2;0;0;0;13;2;4
+445;Francisco Montero;esESP;DF;tr Beşiktaş;22;1999;3.4;2;0;0;4;3;0;0;8;4;0;0;0;20;1;3
+446;Gonzalo Montiel;arARG;DF;es Sevilla;24;1997;2.1;1;0;0;1;2;0;13;2;4;0;0;0;16;0;4
+447;Wesley Moraes;brBRA;FW;be Club Brugge;24;1996;0.3;1;0;0;0;1;0;0;0;0;0;0;0;1;1;2
+448;Álvaro Morata;esESP;FW;it Juventus;28;1992;5.7;0;0;0;5;13;6;4;0;4;1;0;0;17;8;6
+449;Morato;brBRA;DF;pt Benfica;20;2001;2.0;0;0;0;1;0;0;0;2;0;0;0;0;9;4;2
+450;Alberto Moreno;esESP;MF,DF;es Villarreal;29;1992;3.5;2;0;0;5;3;0;1;5;1;0;0;0;9;1;6
+451;Gerard Moreno;esESP;FW;es Villarreal;29;1992;5.8;1;0;0;3;7;3;5;3;5;0;0;0;20;17;32
+452;Ilaix Moriba;gnGUI;MF;de RB Leipzig;18;2003;0.7;1;0;0;2;2;0;0;1;1;0;0;0;4;1;4
+453;Tyler Morton;engENG;MF;eng Liverpool;18;2002;2.0;0;0;0;1;1;0;0;5;1;0;0;0;11;3;1
+454;Andrei Mostovoy;ruRUS;MF,FW;ru Zenit;23;1997;1.7;0;0;0;2;2;1;5;2;1;0;0;0;5;2;3
+455;Youssoufa Moukoko;deGER;FW;de Dortmund;16;2004;0.2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+456;Mason Mount;engENG;MF;eng Chelsea;22;1999;6.0;0;0;0;10;6;0;28;0;8;0;0;0;23;5;3
+457;Mykhailo Mudryk;uaUKR;MF,FW;ua Shakhtar;20;2001;2.0;1;0;0;3;4;1;11;1;0;0;0;0;6;0;1
+458;Nordi Mukiele;frFRA;DF;de RB Leipzig;23;1997;5.4;0;0;0;9;8;0;12;8;5;0;0;1;37;10;5
+459;Thomas Müller;deGER;MF;de Bayern Munich;31;1989;8.6;0;0;0;11;2;7;25;2;2;0;0;0;22;10;9
+460;Luis Muriel;coCOL;FW,MF;it Atalanta;30;1991;1.5;1;0;0;2;3;0;5;1;1;0;0;0;11;4;2
+461;Jamal Musiala;deGER;MF,FW;de Bayern Munich;18;2003;5.0;0;0;0;5;5;1;1;8;6;0;0;0;28;4;2
+462;Juan Musso;arARG;GK;it Atalanta;27;1994;6.0;0;0;0;0;1;0;0;0;0;0;0;0;5;0;0
+463;Vitaliy Mykolenko;uaUKR;DF;ua Dynamo Kyiv;22;1999;5.0;0;0;0;3;5;1;9;7;2;0;0;0;20;1;6
+464;Joakim Mæhle;dkDEN;DF;it Atalanta;24;1997;4.8;0;0;0;3;7;1;8;6;7;0;0;0;25;5;1
+465;Georges-Kévin N'Koudou;cmCMR;FW;tr Beşiktaş;26;1995;1.0;0;0;0;0;1;1;2;1;1;0;0;0;7;0;0
+466;Fabrice N'Sakala;cdCOD;DF;tr Beşiktaş;31;1990;3.0;0;0;0;0;2;0;11;3;3;0;0;0;22;0;1
+467;Stanley N'Soki;frFRA;DF;be Club Brugge;22;1999;5.4;1;0;0;7;2;0;0;24;2;0;1;0;45;5;3
+468;Nacho;esESP;DF;es Real Madrid;31;1990;6.4;2;0;0;7;7;0;5;11;7;0;0;0;25;2;4
+469;Adi Nalic;baBIH;MF,FW;se Malmö;23;1997;1.0;0;0;0;0;4;0;5;2;4;0;0;0;9;1;4
+470;Sebastian Nanasi;seSWE;FW,MF;se Malmö;19;2002;1.0;0;0;0;0;0;0;0;0;1;0;0;0;3;1;1
+471;Jesús Navas;esESP;DF;es Sevilla;35;1985;3.7;1;0;0;3;4;0;21;4;1;0;1;0;27;2;2
+472;Keylor Navas;crCRC;GK;fr Paris S-G;34;1986;3.0;0;0;0;0;0;0;0;0;0;0;0;0;4;2;0
+473;Flávio Nazinho;ptPOR;DF;pt Sporting CP;18;2003;0.2;0;0;0;0;0;0;0;2;0;0;0;0;3;0;0
+474;David Neres;brBRA;FW;nl Ajax;24;1997;2.3;0;0;0;3;0;1;5;1;1;0;0;0;15;0;2
+475;Luís Neto;ptPOR;DF;pt Sporting CP;33;1988;4.1;1;0;0;0;3;0;0;18;2;0;0;0;16;4;2
+476;Manuel Neuer;deGER;GK;de Bayern Munich;35;1986;9.0;0;0;0;0;0;0;0;0;0;0;0;0;20;1;0
+477;Neymar;brBRA;FW;fr Paris S-G;29;1992;5.2;1;0;0;4;20;1;5;0;3;0;0;0;17;1;1
+478;Moumi Ngamaleu;cmCMR;FW,MF;ch Young Boys;27;1994;5.9;2;0;0;10;13;0;18;10;8;0;0;0;40;4;4
+479;Tanguy Nianzou;frFRA;DF;de Bayern Munich;19;2002;2.4;1;0;0;6;2;0;0;4;2;0;0;0;19;7;4
+480;Lasse Nielsen;dkDEN;DF;se Malmö;33;1988;5.0;2;0;0;2;1;0;0;11;3;0;2;0;23;3;5
+481;Saúl Ñíguez;esESP;MF,DF;eng Chelsea;26;1994;1.8;0;0;0;3;1;0;9;2;4;0;0;0;10;6;3
+482;Boban Nikolov;mkMKD;MF;md Sheriff Tiraspol;27;1994;1.1;0;0;0;4;3;0;0;1;2;0;0;0;7;0;0
+483;Rasmus Nissen;dkDEN;DF;at RB Salzburg;24;1997;8.0;1;0;0;14;4;2;12;10;24;0;0;0;40;24;14
+484;Christopher Nkunku;frFRA;FW,MF;de RB Leipzig;23;1997;5.9;0;0;0;10;8;2;12;4;6;1;0;0;25;7;10
+485;Lukas Nmecha;deGER;FW,MF;de Wolfsburg;22;1998;3.6;3;0;0;8;9;1;0;1;1;0;0;0;7;8;15
+486;Hugo Novoa;esESP;FW;de RB Leipzig;18;2003;0.3;0;0;0;0;1;0;1;0;0;0;0;0;0;0;3
+487;Matheus Nunes;ptPOR;MF;pt Sporting CP;22;1998;5.6;3;0;0;4;9;0;1;7;9;0;0;0;38;2;7
+488;Darwin Núñez;uyURU;FW;pt Benfica;22;1999;6.8;1;0;0;6;7;10;14;0;0;0;0;0;29;17;22
+489;Jan Oblak;siSVN;GK;es Atlético Madrid;28;1993;10.0;0;0;0;0;1;0;0;0;0;0;0;0;8;5;1
+490;Lucas Ocampos;arARG;FW;es Sevilla;27;1994;5.1;2;0;0;4;18;1;15;3;3;0;0;0;27;4;6
+491;Noah Okafor;chSUI;FW;at RB Salzburg;21;2000;3.8;1;0;0;5;2;3;3;1;2;0;0;0;20;2;3
+492;Sérgio Oliveira;ptPOR;MF;pt Porto;29;1992;3.3;1;0;0;5;1;0;16;4;6;0;0;0;21;1;2
+493;Dani Olmo;esESP;MF;de RB Leipzig;23;1998;1.0;0;0;0;3;4;0;0;1;0;0;0;0;4;0;2
+494;Martin Olsson;seSWE;DF;se Malmö;33;1988;3.2;0;0;0;3;3;1;9;3;1;0;0;0;16;4;1
+495;Amadou Onana;beBEL;MF,DF;fr Lille;19;2001;2.9;0;0;0;1;3;0;0;0;6;0;0;0;16;9;6
+496;André Onana;cmCMR;GK;nl Ajax;25;1996;2.0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;1
+497;Jérôme Onguéné;cmCMR;DF;at RB Salzburg;23;1997;4.8;1;0;0;5;5;0;0;14;4;0;0;0;28;13;9
+498;Willi Orban;huHUN;DF;de RB Leipzig;28;1992;3.5;1;0;0;3;3;1;0;6;6;0;0;0;20;3;3
+499;Divock Origi;beBEL;FW;eng Liverpool;26;1995;2.1;0;0;0;4;6;0;3;0;4;0;0;0;13;4;1
+500;Nicolás Otamendi;arARG;DF;pt Benfica;33;1988;9.0;2;0;0;17;11;0;0;19;10;0;0;0;41;21;14
+501;Otávio;ptPOR;MF;pt Porto;26;1995;5.0;1;0;0;12;8;0;14;1;9;0;0;0;26;4;8
+502;Paulo Otávio;brBRA;DF,MF;de Wolfsburg;26;1994;1.9;0;0;0;2;6;0;7;4;3;0;0;0;16;2;1
+503;Alex Oxlade-Chamberlain;engENG;MF;eng Liverpool;27;1993;3.3;0;0;0;2;2;0;11;4;10;0;0;0;27;0;1
+504;Magomed Ozdoyev;ruRUS;MF;ru Zenit;28;1992;0.1;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+505;Oğuzhan Özyakup;trTUR;MF;tr Beşiktaş;28;1992;0.6;0;0;0;0;2;0;3;0;1;0;0;0;5;0;1
+506;João Palhinha;ptPOR;MF;pt Sporting CP;26;1995;5.9;2;0;0;23;17;0;3;7;13;0;0;0;43;10;5
+507;Cole Palmer;engENG;MF,FW;eng Manchester City;19;2002;0.5;0;0;0;0;0;0;0;0;0;0;0;0;7;0;0
+508;Leandro Paredes;arARG;MF;fr Paris S-G;27;1994;3.5;3;0;0;7;5;0;0;5;2;0;0;0;24;0;1
+509;Daniel Parejo;esESP;MF;es Villarreal;32;1989;11.7;2;0;0;5;17;0;40;9;9;0;0;0;80;5;3
+510;Mario Pašalić;hrCRO;MF;it Atalanta;26;1995;2.4;1;0;0;2;1;0;1;2;1;0;0;0;11;8;6
+511;Felix Passlack;deGER;DF;de Dortmund;23;1998;0.7;0;0;0;0;1;0;0;1;1;0;0;0;3;0;0
+512;Remko Pasveer;nlNED;GK;nl Ajax;37;1983;6.0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0
+513;Alan Patrick;brBRA;MF;ua Shakhtar;30;1991;3.0;0;0;0;5;6;0;5;2;1;0;0;0;16;0;2
+514;Paulinho;ptPOR;FW,MF;pt Sporting CP;28;1992;6.4;2;0;0;5;14;5;3;5;2;1;0;0;17;11;7
+515;Benjamin Pavard;frFRA;DF;de Bayern Munich;25;1996;8.5;0;0;0;9;4;2;12;18;8;0;0;0;43;16;5
+516;Alfonso Pedraza;esESP;DF,MF;es Villarreal;25;1996;4.8;1;0;0;5;3;0;20;4;3;0;0;0;26;3;4
+517;Pedri;esESP;MF;es Barcelona;18;2002;1.7;0;0;0;2;1;0;1;1;3;0;0;0;8;0;0
+518;Pedrinho;brBRA;MF,FW;ua Shakhtar;23;1998;3.8;0;0;0;5;3;0;6;0;2;0;0;0;11;5;2
+519;Jordan Pefok;usUSA;FW;ch Young Boys;25;1996;3.8;0;0;0;7;3;4;0;1;3;0;0;0;10;10;10
+520;Luca Pellegrini;itITA;DF;it Juventus;22;1999;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+521;Carlos de Pena;uyURU;FW,MF;ua Dynamo Kyiv;29;1992;4.1;0;0;0;0;2;1;12;11;4;0;0;0;22;6;7
+522;Rubén Peña;esESP;DF;es Villarreal;30;1991;0.2;1;0;0;1;0;0;0;0;1;0;0;0;2;0;1
+523;Sergio Peña;pePER;MF;se Malmö;25;1995;3.1;1;0;0;3;3;0;4;8;8;0;0;0;21;0;2
+524;Pepê;brBRA;FW,MF;pt Porto;24;1997;0.4;0;0;0;0;1;0;0;0;0;0;0;0;2;0;2
+525;Pepe;ptPOR;DF;pt Porto;38;1983;3.9;1;0;0;3;6;0;2;6;3;0;0;0;36;6;3
+526;Danilo Pereira;ptPOR;MF,DF;fr Paris S-G;29;1991;4.0;2;0;0;6;3;0;0;4;2;0;1;0;18;5;3
+527;Mattia Perin;itITA;GK;it Juventus;28;1992;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+528;Ivan Perišić;hrCRO;DF;it Inter;32;1989;5.9;0;0;0;6;1;2;40;7;6;0;0;0;30;6;3
+529;Pavao Pervan;atAUT;GK;de Wolfsburg;33;1987;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+530;Matteo Pessina;itITA;MF;it Atalanta;24;1997;2.3;0;0;0;2;3;0;3;1;3;0;0;0;20;2;6
+531;Giuseppe Pezzella;itITA;DF;it Atalanta;23;1997;0.6;0;0;0;1;2;0;1;0;1;0;0;0;5;0;0
+532;Maximilian Philipp;deGER;MF,FW;de Wolfsburg;27;1994;1.0;0;0;0;0;2;0;0;1;0;0;0;0;1;0;2
+533;Nathaniel Phillips;engENG;DF;eng Liverpool;24;1997;1.0;0;0;0;2;0;0;0;1;0;0;0;0;5;4;3
+534;Kamil Piątkowski;plPOL;DF;at RB Salzburg;21;2000;0.9;0;0;0;1;1;0;0;2;0;0;0;0;3;0;3
+535;Yeremi Pino;esESP;MF,DF;es Villarreal;18;2002;4.7;3;0;0;6;7;0;4;8;2;0;0;0;16;1;9
+536;Gerard Piqué;esESP;DF;es Barcelona;34;1987;4.4;2;0;0;8;3;0;0;10;5;0;0;0;33;22;2
+537;Pizzi;ptPOR;MF,FW;pt Benfica;31;1989;1.8;0;0;0;0;3;3;6;0;0;0;0;0;8;0;1
+538;Miralem Pjanić;baBIH;MF;tr Beşiktaş;31;1990;2.9;1;0;0;2;6;0;11;2;0;0;0;0;19;2;2
+539;Paul Pogba;frFRA;MF,FW;eng Manchester Utd;28;1993;3.8;0;0;0;7;7;1;0;1;3;0;0;0;19;8;2
+540;Marin Pongračić;hrCRO;DF;de Dortmund;23;1997;1.9;0;0;0;1;0;0;0;3;0;0;0;0;8;3;2
+541;Pedro Porro;esESP;DF,MF;pt Sporting CP;21;1999;5.8;2;0;0;6;12;0;25;11;5;0;0;0;35;1;2
+542;Yussuf Poulsen;dkDEN;FW;de RB Leipzig;27;1994;1.7;1;0;0;4;1;1;0;1;0;0;0;0;5;3;3
+543;Riqui Puig;esESP;MF;es Barcelona;21;1999;0.2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+544;Christian Pulisic;usUSA;FW,MF;eng Chelsea;22;1998;4.1;0;0;0;4;4;1;3;1;3;0;0;0;7;2;9
+545;Andriy Pyatov;uaUKR;GK;ua Shakhtar;37;1984;2.9;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0
+546;Dani Raba;esESP;FW;es Villarreal;25;1995;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+547;Adrien Rabiot;frFRA;MF;it Juventus;26;1995;6.0;2;0;0;6;4;0;5;7;11;0;0;0;44;8;8
+548;Stjepan Radeljić;baBIH;DF,MF;md Sheriff Tiraspol;23;1997;0.9;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+549;Nemanja Radonjić;rsSRB;MF;pt Benfica;25;1996;0.4;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+550;Erdal Rakip;mkMKD;MF;se Malmö;25;1996;3.0;1;0;0;12;6;0;1;0;2;0;0;0;13;2;4
+551;Ivan Rakitić;hrCRO;MF;es Sevilla;33;1988;3.1;1;0;0;6;3;0;14;5;1;0;0;0;19;5;3
+552;Yaroslav Rakitskiy;uaUKR;DF;ru Zenit;31;1989;5.5;1;0;0;2;3;0;16;9;2;0;0;0;43;6;3
+553;Eric Ramírez;veVEN;FW;ua Dynamo Kyiv;22;1998;0.2;0;0;0;1;0;1;1;0;0;0;0;0;0;0;1
+554;Gonçalo Ramos;ptPOR;MF,FW;pt Benfica;20;2001;4.1;2;0;0;8;5;0;0;4;2;0;0;0;21;6;9
+555;Aaron Ramsey;wlsWAL;MF,FW;it Juventus;30;1990;0.2;1;0;0;1;0;0;1;0;0;0;0;0;1;0;0
+556;Andrea Ranocchia;itITA;DF;it Inter;33;1988;1.1;0;0;0;2;1;0;0;1;0;0;0;0;3;2;3
+557;Marcus Rashford;engENG;FW,MF;eng Manchester Utd;23;1997;2.8;1;0;0;3;4;3;3;0;6;0;0;0;4;6;3
+558;Ante Rebić;hrCRO;FW;it Milan;27;1993;1.3;1;0;0;2;0;1;1;0;1;0;0;0;3;2;3
+559;Reinier;brBRA;MF,FW;de Dortmund;19;2002;1.4;0;0;0;4;0;1;1;0;1;0;0;0;12;1;3
+560;Matheus Reis;brBRA;DF;pt Sporting CP;26;1995;6.7;0;0;0;6;8;0;6;10;6;0;0;0;31;3;8
+561;Karim Rekik;nlNED;DF;es Sevilla;26;1994;1.4;1;0;0;2;3;1;2;1;0;0;0;0;6;4;4
+562;Devyne Rensch;nlNED;DF;nl Ajax;18;2003;0.8;0;0;0;2;0;0;1;1;2;0;0;0;6;0;1
+563;Marco Reus;deGER;FW,MF;de Dortmund;32;1989;5.5;1;0;0;4;3;7;13;2;6;0;0;1;23;1;4
+564;Federico Ricca;uyURU;DF;be Club Brugge;26;1994;1.8;0;0;0;0;1;0;4;2;1;0;0;0;9;2;4
+565;Omar Richards;engENG;DF,FW;de Bayern Munich;23;1998;0.6;1;0;0;3;0;0;1;1;4;0;0;0;5;1;0
+566;Fabian Rieder;chSUI;MF,FW;ch Young Boys;19;2002;3.0;0;0;0;6;1;0;10;6;6;0;0;0;23;0;5
+567;Søren Rieks;dkDEN;DF,MF;se Malmö;34;1987;2.4;1;0;0;1;1;1;0;1;1;0;0;0;11;0;3
+568;Mats Rits;beBEL;MF;be Club Brugge;28;1993;4.6;0;0;0;2;4;0;3;6;4;0;0;0;26;2;2
+569;Sergi Roberto;esESP;DF,FW;es Barcelona;29;1992;1.9;0;0;0;0;1;0;6;1;0;0;0;0;8;3;4
+570;Andrew Robertson;sctSCO;DF;eng Liverpool;27;1994;9.2;1;0;0;5;3;1;58;12;5;0;0;0;62;11;9
+571;Marc Roca;esESP;MF;de Bayern Munich;24;1996;0.9;0;0;0;4;0;0;0;1;0;0;0;0;4;1;1
+572;Rodri;esESP;MF;eng Manchester City;25;1996;9.3;2;0;0;19;4;0;1;14;17;0;0;0;86;19;4
+573;Óscar Rodríguez Arnaiz;esESP;FW;es Sevilla;23;1998;0.3;0;0;0;0;1;0;3;0;0;0;0;0;3;1;0
+574;Rodrygo;brBRA;FW,MF;es Real Madrid;20;2001;5.6;1;0;0;5;10;1;11;11;6;0;0;0;30;2;13
+575;Alessio Romagnoli;itITA;DF;it Milan;26;1995;4.4;0;0;0;4;0;0;1;9;5;0;0;0;17;12;2
+576;Iván Romero;esESP;MF;es Sevilla;20;2001;0.2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1
+577;Cristiano Ronaldo;ptPOR;FW;eng Manchester Utd;36;1985;6.8;1;0;0;4;11;2;3;0;1;0;0;0;17;8;17
+578;Marten de Roon;nlNED;MF,DF;it Atalanta;30;1991;5.4;2;0;0;10;1;0;1;15;9;0;0;0;31;7;9
+579;Valentin Rosier;frFRA;DF;tr Beşiktaş;24;1996;4.5;0;0;0;4;3;0;14;9;6;0;0;0;26;3;2
+580;Jérôme Roussillon;frFRA;DF;de Wolfsburg;28;1993;4.0;2;0;0;4;2;0;6;3;3;0;0;0;27;5;2
+581;Antonio Rüdiger;deGER;DF;eng Chelsea;28;1993;9.3;2;0;0;11;3;0;1;6;9;1;0;0;48;15;12
+582;Daniele Rugani;itITA;DF;it Juventus;27;1994;2.0;0;0;0;3;1;0;0;1;3;0;1;0;11;4;0
+583;Gerónimo Rulli;arARG;GK;es Villarreal;29;1992;12.0;2;0;0;0;3;0;0;0;0;0;0;0;12;2;0
+584;Serdar Saatçı;trTUR;DF;tr Beşiktaş;18;2003;1.0;0;0;0;0;0;0;0;2;0;0;0;0;4;4;0
+585;Marcel Sabitzer;atAUT;MF;de Bayern Munich;27;1994;1.5;1;0;0;3;0;1;2;2;0;0;0;0;5;1;2
+586;Alexis Saelemaekers;beBEL;FW;it Milan;22;1999;4.9;1;0;0;7;7;0;6;5;5;0;0;0;33;5;4
+587;Mohamed Salah;egEGY;FW;eng Liverpool;29;1992;11.2;0;0;0;4;12;5;12;2;3;0;0;0;27;4;11
+588;Renato Sanches;ptPOR;MF,FW;fr Lille;23;1997;4.5;0;0;0;9;8;1;10;3;4;0;0;0;38;4;4
+589;Alexis Sánchez;clCHI;FW;it Inter;32;1988;1.8;2;1;1;1;2;3;0;2;3;0;0;0;5;1;3
+590;Jadon Sancho;engENG;FW;eng Manchester Utd;21;2000;4.4;0;0;0;0;2;0;4;3;2;0;0;0;27;1;1
+591;Cisse Sandra;beBEL;FW;be Club Brugge;17;2003;0.6;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0
+592;Alex Sandro;brBRA;DF;it Juventus;30;1991;6.1;0;0;0;8;9;0;8;6;9;0;0;0;35;7;6
+593;Leroy Sané;deGER;FW,MF;de Bayern Munich;25;1996;8.8;0;0;0;2;5;3;16;4;8;0;0;0;58;1;2
+594;Douglas Santos;brBRA;DF,MF;ru Zenit;27;1994;4.9;0;0;0;4;6;1;17;10;10;0;0;0;30;4;4
+595;Nuno Santos;ptPOR;MF,FW;pt Sporting CP;26;1995;2.4;0;0;0;1;2;3;13;1;0;0;0;0;5;0;1
+596;Zaidu Sanusi;ngNGA;DF;pt Porto;24;1997;4.3;1;0;0;4;6;0;7;4;9;0;0;0;34;4;7
+597;Pablo Sarabia;esESP;MF,FW;pt Sporting CP;29;1992;5.6;0;0;0;3;12;2;18;4;2;0;0;0;16;2;6
+598;Bouna Sarr;snSEN;DF,FW;de Bayern Munich;29;1992;1.4;1;0;0;3;3;0;4;2;0;0;0;0;3;1;0
+599;Malang Sarr;frFRA;DF;eng Chelsea;22;1999;1.1;0;0;0;0;1;0;0;1;2;0;0;0;9;4;2
+600;Charlie Savage;wlsWAL;MF;eng Manchester Utd;18;2003;0.0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;1
+601;Stefan Savić;meMNE;DF;es Atlético Madrid;30;1991;5.0;1;0;0;1;1;0;0;10;5;0;0;0;24;14;4
+602;Nico Schulz;deGER;DF;de Dortmund;28;1993;2.2;0;0;0;2;0;0;3;2;4;0;0;0;13;0;1
+603;Perr Schuurs;nlNED;DF;nl Ajax;21;1999;1.6;1;0;0;2;0;0;0;3;2;0;0;0;12;3;1
+604;Haris Seferović;chSUI;FW;pt Benfica;29;1992;0.1;0;0;0;0;0;0;1;0;0;0;0;0;0;2;2
+605;Nicolas Seiwald;atAUT;MF;at RB Salzburg;20;2001;7.2;2;0;0;19;3;1;24;4;13;0;0;0;51;4;11
+606;Stefano Sensi;itITA;MF;it Inter;25;1995;0.1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+607;Javier Serrano;esESP;FW;es Atlético Madrid;18;2003;0.2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+608;Benjamin Šeško;siSVN;FW;at RB Salzburg;18;2003;2.6;0;0;0;4;0;2;2;2;1;0;0;0;17;6;8
+609;Artem Shabanov;uaUKR;DF;ua Dynamo Kyiv;29;1992;1.0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0
+610;Mykola Shaparenko;uaUKR;MF;ua Dynamo Kyiv;22;1998;5.4;1;0;0;7;8;0;8;9;9;0;0;0;50;4;3
+611;Luke Shaw;engENG;DF;eng Manchester Utd;26;1995;4.4;2;0;0;7;5;1;16;9;3;0;0;0;18;6;4
+612;Volodymyr Shepelyev;uaUKR;MF;ua Dynamo Kyiv;24;1997;0.6;0;0;0;3;0;1;1;1;0;0;0;0;4;0;1
+613;Oleksiy Shevchenko;uaUKR;GK;ua Shakhtar;29;1992;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+614;Ilya Shkurin;byBLR;FW;ua Dynamo Kyiv;21;1999;1.1;0;0;0;0;0;2;2;1;0;0;0;0;3;5;9
+615;Shola Shoretire;engENG;MF;eng Manchester Utd;17;2004;0.3;1;0;0;1;3;0;0;0;1;0;0;0;1;0;0
+616;Vincent Sierro;chSUI;MF;ch Young Boys;25;1995;2.7;2;0;0;4;0;0;6;2;2;0;0;0;18;0;3
+617;André Silva;ptPOR;FW;de RB Leipzig;25;1995;4.5;0;0;0;8;8;9;2;0;1;1;0;0;17;10;14
+618;Bernardo Silva;ptPOR;MF,FW;eng Manchester City;26;1994;9.7;0;0;0;10;6;3;15;7;8;0;0;0;39;0;10
+619;Bruno Felipe Souza da Silva;brBRA;FW,MF;md Sheriff Tiraspol;27;1994;3.5;0;0;0;7;5;2;4;1;4;0;0;0;24;2;4
+620;Cristiano da Silva Leite;brBRA;DF;md Sheriff Tiraspol;27;1993;6.0;1;0;0;4;3;1;20;5;5;0;0;0;21;5;6
+621;Rafa Silva;ptPOR;FW,MF;pt Benfica;28;1993;7.8;2;0;0;8;14;3;8;5;4;0;0;0;29;0;8
+622;Thiago Silva;brBRA;DF;eng Chelsea;36;1984;8.4;1;0;0;6;5;0;2;12;5;0;0;0;56;18;3
+623;Mohamed Simakan;frFRA;DF;de RB Leipzig;21;2000;3.3;2;0;0;6;3;0;1;4;2;0;1;0;20;5;3
+624;Roko Simic;hrCRO;FW;at RB Salzburg;17;2003;0.1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+625;Milan Škriniar;skSVK;DF;it Inter;26;1995;8.0;1;0;0;5;7;0;4;9;9;0;0;0;30;9;10
+626;Islam Slimani;dzALG;FW;pt Sporting CP;33;1988;1.2;1;0;0;2;0;0;0;0;0;0;0;0;1;2;3
+627;Everton Soares;brBRA;FW,MF;pt Benfica;25;1996;6.0;0;0;0;6;8;0;9;3;6;0;0;1;23;6;9
+628;Eduard Sobol;uaUKR;DF;be Club Brugge;26;1995;3.7;0;0;0;3;2;0;4;6;4;0;0;0;22;3;1
+629;Oumar Solet;frFRA;DF;at RB Salzburg;21;2000;3.7;0;0;0;4;0;1;0;4;1;0;0;0;33;4;8
+630;Manor Solomon;ilISR;MF,FW;ua Shakhtar;22;1999;3.6;0;0;0;2;2;2;5;1;3;0;0;0;17;1;0
+631;Josef de Souza;brBRA;MF;tr Beşiktaş;32;1989;4.9;3;1;1;7;3;0;1;15;11;0;0;0;47;1;5
+632;Kamal Sowah;ghGHA;MF,DF;be Club Brugge;21;2000;3.3;0;0;0;5;2;1;13;3;5;0;1;0;24;2;0
+633;Marvin Spielmann;chSUI;MF;ch Young Boys;25;1996;0.1;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0
+634;Josip Stanišić;hrCRO;DF;de Bayern Munich;21;2000;0.3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+635;Renato Steffen;chSUI;FW;de Wolfsburg;29;1991;2.9;2;0;0;5;4;0;3;1;5;0;0;0;22;1;2
+636;Zack Steffen;usUSA;GK;eng Manchester City;26;1995;1.0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+637;Taras Stepanenko;uaUKR;MF;ua Shakhtar;31;1989;2.5;0;0;0;7;0;0;1;2;2;0;0;0;5;3;1
+638;Raheem Sterling;engENG;FW;eng Manchester City;26;1994;6.5;1;0;0;14;10;6;8;2;2;0;0;0;20;3;2
+639;John Stones;engENG;DF;eng Manchester City;27;1994;7.1;1;0;0;3;3;0;1;3;3;0;0;1;36;13;5
+640;Luis Suárez;uyURU;FW;es Atlético Madrid;34;1987;3.8;2;0;0;3;4;0;2;1;1;0;0;0;2;4;7
+641;Luka Sučić;hrCRO;MF;at RB Salzburg;18;2002;5.7;0;0;0;4;2;1;14;4;7;0;0;0;37;3;5
+642;Heorhii Sudakov;uaUKR;MF;ua Shakhtar;18;2002;0.6;0;0;0;1;1;0;2;0;1;0;0;0;3;1;0
+643;Niklas Süle;deGER;DF;de Bayern Munich;25;1995;5.7;0;0;0;4;2;0;3;5;4;0;0;0;39;7;7
+644;Miralem Sulejmani;rsSRB;DF;ch Young Boys;32;1988;0.1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0
+645;Vladyslav Supriaha;uaUKR;FW;ua Dynamo Kyiv;21;2000;0.9;0;0;0;2;2;1;0;0;0;0;0;0;3;0;5
+646;Suso;esESP;FW;es Sevilla;27;1993;2.5;1;0;0;5;6;0;15;2;0;0;0;0;12;0;0
+647;Aleksei Sutormin;ruRUS;DF,MF;ru Zenit;27;1994;3.3;0;0;0;1;1;0;7;2;0;0;0;0;13;0;4
+648;Serhiy Sydorchuk;uaUKR;MF;ua Dynamo Kyiv;30;1991;5.9;2;0;0;3;4;0;2;12;10;0;1;0;44;2;3
+649;Oleksandr Syrota;uaUKR;DF;ua Dynamo Kyiv;21;2000;5.0;0;0;0;4;0;0;0;6;5;0;0;0;25;2;1
+650;Wojciech Szczęsny;plPOL;GK;it Juventus;31;1990;7.0;0;0;0;0;0;0;0;0;0;0;0;0;6;1;0
+651;Dominik Szoboszlai;huHUN;FW,MF;de RB Leipzig;20;2000;2.3;0;0;0;1;3;0;9;0;1;0;0;0;10;0;1
+652;Adel Taarabt;maMAR;MF;pt Benfica;32;1989;3.8;2;0;0;5;4;0;2;3;2;0;0;0;32;1;1
+653;Bruno Tabata;;MF,FW;pt Sporting CP;24;1997;2.3;1;0;0;5;2;0;5;0;1;0;0;0;11;0;3
+654;Dušan Tadić;rsSRB;FW;nl Ajax;32;1988;7.0;0;0;0;11;9;5;47;5;6;0;0;0;27;3;8
+655;Nicolás Tagliafico;arARG;DF;nl Ajax;28;1992;1.5;0;0;0;1;5;0;6;1;5;0;0;0;7;3;3
+656;Mehdi Taremi;irIRN;FW;pt Porto;29;1992;5.4;1;0;0;9;6;2;1;3;4;0;0;0;18;13;24
+657;Ciprian Tătărușanu;roROU;GK;it Milan;35;1986;3.0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0
+658;Kenneth Taylor;nlNED;MF;nl Ajax;19;2002;0.5;0;0;0;3;0;0;0;1;1;0;0;0;2;0;3
+659;Alex Teixeira;brBRA;MF;tr Beşiktaş;31;1990;2.0;1;0;0;2;4;2;0;2;4;0;0;0;7;1;5
+660;Alex Telles;brBRA;DF;eng Manchester Utd;28;1992;3.2;2;0;0;2;6;0;32;5;2;0;0;0;9;7;6
+661;Marc-André ter Stegen;deGER;GK;es Barcelona;29;1992;6.0;0;0;0;0;0;0;0;0;0;0;0;0;9;0;0
+662;Tetê;brBRA;FW,MF;ua Shakhtar;21;2000;4.1;0;0;0;6;10;1;4;2;1;0;0;0;10;0;3
+663;Sébastien Thill;luLUX;MF;md Sheriff Tiraspol;27;1993;6.0;1;0;0;2;2;0;20;11;4;0;0;0;28;3;5
+664;Steffen Tigges;deGER;FW;de Dortmund;23;1998;1.1;0;0;0;4;1;1;0;0;0;0;0;0;3;1;2
+665;Samson Tijani;ngNGA;MF;at RB Salzburg;19;2002;0.3;0;0;0;0;0;0;0;1;0;0;0;0;3;1;0
+666;Malik Tillman;usUSA;FW;de Bayern Munich;19;2002;0.2;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+667;Jurriën Timber;nlNED;DF;nl Ajax;20;2001;6.4;3;0;0;10;6;0;0;11;7;0;0;0;40;5;6
+668;Corentin Tolisso;frFRA;MF;de Bayern Munich;26;1994;2.6;0;0;0;5;3;0;2;4;0;0;0;0;15;5;6
+669;Rafael Tolói;itITA;DF;it Atalanta;30;1990;4.0;0;0;0;3;1;1;10;4;11;0;0;0;34;6;3
+670;Tiago Tomás;ptPOR;MF,FW;pt Sporting CP;19;2002;1.8;1;0;0;3;4;1;3;1;2;0;0;0;9;2;5
+671;Fikayo Tomori;engENG;DF;it Milan;23;1997;4.6;2;0;0;7;4;0;0;5;2;0;0;1;29;4;4
+672;Sandro Tonali;itITA;MF;it Milan;21;2000;3.7;0;0;0;3;5;0;9;3;8;0;0;0;31;1;1
+673;Mehmet Topal;trTUR;MF,DF;tr Beşiktaş;35;1986;2.9;0;0;0;1;1;0;0;2;4;0;0;0;17;6;3
+674;Gökhan Töre;trTUR;MF;tr Beşiktaş;29;1992;0.9;0;0;0;0;1;2;3;0;3;0;0;0;7;1;0
+675;Ferrán Torres;esESP;FW;eng Manchester City;21;2000;0.8;0;0;0;1;0;2;0;1;0;0;0;0;1;0;1
+676;Óliver Torres;esESP;MF;es Sevilla;26;1994;1.9;0;0;0;0;4;0;4;0;1;0;0;0;10;2;3
+677;Pau Torres;esESP;DF;es Villarreal;24;1997;12.0;1;0;0;3;2;0;0;10;9;0;0;0;47;14;8
+678;Adama Traoré;mlMLI;FW,MF;md Sheriff Tiraspol;26;1995;5.9;0;0;0;8;7;1;3;6;6;0;0;0;20;14;16
+679;Manu Trigueros;esESP;MF,FW;es Villarreal;29;1991;3.7;0;0;0;3;6;0;0;0;6;0;0;0;14;3;5
+680;Kieran Trippier;engENG;DF,FW;es Atlético Madrid;30;1990;2.4;0;0;0;1;4;0;5;0;1;0;0;0;12;6;9
+681;Anatolii Trubin;uaUKR;GK;ua Shakhtar;19;2001;3.0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1
+682;Kostas Tsimikas;grGRE;DF;eng Liverpool;25;1996;3.8;0;0;0;4;8;0;41;6;5;0;0;0;36;6;6
+683;Viktor Tsyhankov;uaUKR;FW,MF;ua Dynamo Kyiv;23;1997;5.4;1;0;0;3;5;1;10;3;3;0;0;0;34;5;5
+684;Oleksandr Tymchyk;uaUKR;DF;ua Dynamo Kyiv;24;1997;1.8;1;0;0;2;3;0;3;0;2;0;0;0;14;1;3
+685;Salih Uçan;trTUR;MF;tr Beşiktaş;27;1994;1.3;0;0;0;2;0;0;3;3;5;0;0;0;9;0;2
+686;Manuel Ugarte Ribeiro;uyURU;MF;pt Sporting CP;20;2001;2.3;1;0;0;7;8;0;0;4;2;0;0;0;13;0;1
+687;Andreas Ulmer;atAUT;DF;at RB Salzburg;35;1985;7.9;2;0;0;13;2;0;19;12;10;0;0;0;43;3;8
+688;Sven Ulreich;deGER;GK;de Bayern Munich;32;1988;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+689;Dayot Upamecano;frFRA;DF;de Bayern Munich;22;1998;7.3;3;0;0;10;5;1;2;14;13;0;0;0;59;14;10
+690;Mateus Uribe;coCOL;MF;pt Porto;30;1991;3.2;3;0;0;6;1;0;1;9;7;0;0;0;25;1;5
+691;Necip Uysal;trTUR;DF;tr Beşiktaş;30;1991;2.1;0;0;0;2;1;1;3;4;3;0;0;0;8;4;0
+692;Jesús Vallejo;esESP;DF;es Real Madrid;24;1997;0.1;0;0;0;0;0;0;0;1;0;0;0;0;0;2;1
+693;Federico Valverde;uyURU;MF,FW;es Real Madrid;23;1998;8.9;2;0;0;4;5;3;10;9;12;0;0;0;41;8;14
+694;Ignace Van Der Brempt;beBEL;MF,FW;be Club Brugge;19;2002;1.8;0;0;0;5;4;1;7;1;7;0;1;0;10;3;1
+695;Virgil van Dijk;nlNED;DF;eng Liverpool;30;1991;9.0;1;0;0;4;2;2;1;13;2;0;0;0;55;34;7
+696;Hans Vanaken;beBEL;MF,FW;be Club Brugge;28;1992;6.0;0;0;0;3;5;0;1;8;4;0;0;0;41;16;9
+697;Raphaël Varane;frFRA;DF;eng Manchester Utd;28;1993;3.9;1;0;0;3;2;0;0;5;1;0;0;0;29;11;2
+698;Berkay Vardar;azAZE;DF;tr Beşiktaş;18;2003;0.2;0;0;0;0;1;0;0;1;1;0;0;0;0;2;0
+699;Lucas Vázquez;esESP;DF,FW;es Real Madrid;30;1991;3.9;1;0;0;4;8;0;13;0;9;0;0;0;29;1;1
+700;Matías Vecino;uyURU;MF;it Inter;29;1991;1.4;0;0;0;0;0;0;1;1;1;0;0;0;6;3;4
+701;Benjamin Verbič;siSVN;MF,FW;ua Dynamo Kyiv;27;1993;1.0;1;0;0;3;4;0;0;0;0;0;0;0;3;2;3
+702;Lucas Veríssimo;brBRA;DF;pt Benfica;26;1995;3.0;1;0;0;2;1;0;0;8;2;0;1;0;14;9;3
+703;Marco Verratti;itITA;MF;fr Paris S-G;28;1992;4.8;2;0;0;5;10;0;0;6;8;0;0;0;33;1;2
+704;Jan Vertonghen;beBEL;DF;pt Benfica;34;1987;10.0;0;0;0;5;4;0;1;12;7;0;0;0;42;17;8
+705;Domagoj Vida;hrCRO;DF;tr Beşiktaş;32;1989;2.0;1;0;0;4;4;1;0;4;1;0;1;0;14;1;1
+706;Arturo Vidal;clCHI;MF;it Inter;34;1987;4.6;1;0;0;10;6;0;3;4;13;0;0;0;32;7;7
+707;Fabio Vieira;ptPOR;MF,DF;pt Porto;21;2000;1.0;0;0;0;1;2;0;7;0;0;0;0;0;3;0;1
+708;Rúben Vinagre;ptPOR;MF,DF;pt Sporting CP;22;1999;0.7;0;0;0;0;1;0;4;0;0;0;0;0;1;1;1
+709;João Virgínia;ptPOR;GK;pt Sporting CP;21;1999;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+710;Vitão;brBRA;DF;ua Shakhtar;21;2000;1.0;1;0;0;1;0;0;0;1;1;0;0;0;2;3;3
+711;Vitinha;ptPOR;MF;pt Porto;21;2000;2.5;2;0;0;3;0;0;10;5;3;0;0;0;20;3;3
+712;Vitinho;brBRA;FW,MF;ua Dynamo Kyiv;22;1999;1.1;0;0;0;1;4;1;2;0;0;0;0;0;6;4;3
+713;Odisseas Vlachodimos;grGRE;GK;pt Benfica;27;1994;10.0;1;0;0;0;1;0;0;0;1;0;0;0;8;3;0
+714;Dušan Vlahović;rsSRB;FW;it Juventus;21;2000;2.0;0;0;0;0;2;3;1;0;0;0;0;0;3;0;3
+715;Ruud Vormer;nlNED;MF;be Club Brugge;33;1988;1.8;0;0;0;3;0;1;9;1;2;0;0;0;9;0;2
+716;Aster Vranckx;beBEL;MF,FW;de Wolfsburg;18;2002;3.7;0;0;0;8;7;0;6;1;8;0;0;0;23;3;4
+717;Stefan de Vrij;nlNED;DF;it Inter;29;1992;5.4;0;0;0;5;2;0;0;11;4;0;0;0;31;11;4
+718;Šime Vrsaljko;hrCRO;DF;es Atlético Madrid;29;1992;3.4;1;0;0;12;2;0;6;8;8;0;0;0;15;12;10
+719;Luca Waldschmidt;deGER;MF,FW;de Wolfsburg;25;1996;1.3;1;0;0;2;0;0;0;2;1;0;0;0;5;2;2
+720;Kyle Walker;engENG;DF;eng Manchester City;31;1990;6.4;0;1;0;3;1;0;10;9;7;0;0;0;31;6;1
+721;Aaron Wan-Bissaka;engENG;DF;eng Manchester Utd;23;1997;4.7;0;1;0;4;2;0;9;11;7;0;0;0;34;1;3
+722;Timothy Weah;usUSA;MF,FW;fr Lille;21;2000;2.8;0;0;0;2;2;0;3;1;4;0;0;0;14;3;5
+723;Wout Weghorst;nlNED;FW;de Wolfsburg;28;1992;4.4;2;0;0;11;6;0;0;0;1;0;0;0;13;17;9
+724;Julian Weigl;deGER;MF;pt Benfica;25;1995;9.0;2;0;0;10;5;0;3;12;8;0;0;0;43;8;7
+725;Welinton;brBRA;DF;tr Beşiktaş;32;1989;3.5;1;1;0;6;1;0;2;6;9;0;1;0;33;1;4
+726;Wendel;brBRA;MF;ru Zenit;23;1997;5.3;1;0;0;4;8;1;2;6;6;1;0;0;36;3;2
+727;Wendell;brBRA;DF;pt Porto;28;1993;1.5;1;1;0;7;1;0;0;2;5;0;0;0;10;5;1
+728;Timo Werner;deGER;FW,MF;eng Chelsea;25;1996;2.7;0;0;0;0;4;1;3;0;1;0;0;0;13;1;5
+729;Georginio Wijnaldum;nlNED;MF;fr Paris S-G;30;1990;2.9;0;0;0;4;5;0;0;1;0;0;0;0;9;1;1
+730;Neco Williams;wlsWAL;DF,FW;eng Liverpool;20;2001;2.0;0;0;0;4;4;1;6;1;5;0;0;0;11;0;3
+731;Axel Witsel;beBEL;MF;de Dortmund;32;1989;5.2;1;0;0;5;4;0;0;7;4;0;0;0;43;6;4
+732;Maximilian Wöber;atAUT;DF;at RB Salzburg;23;1998;6.3;0;0;0;7;3;0;2;14;7;0;3;0;36;10;14
+733;Marius Wolf;deGER;DF,FW;de Dortmund;26;1995;1.9;0;0;0;3;0;0;6;1;1;0;0;0;9;1;3
+734;Max Woltman;engENG;FW;eng Liverpool;17;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+735;Xeka;ptPOR;MF;fr Lille;26;1994;4.8;3;0;0;6;5;0;14;5;0;0;0;0;26;14;3
+736;Momo Yansané;gnGUI;FW;md Sheriff Tiraspol;24;1997;1.7;0;0;0;1;2;1;0;0;1;0;0;0;9;4;4
+737;Roman Yaremchuk;uaUKR;FW;pt Benfica;25;1995;5.7;2;0;0;2;13;1;1;0;1;0;0;0;13;11;19
+738;Jasur Yaxshiboyev;uzUZB;FW;md Sheriff Tiraspol;24;1997;2.2;0;0;0;5;0;1;0;0;1;0;0;0;4;3;4
+739;Yusuf Yazıcı;trTUR;MF,FW;fr Lille;24;1997;0.6;1;0;0;2;2;0;7;0;1;0;0;0;7;0;1
+740;Burak Yılmaz;trTUR;FW;fr Lille;36;1985;5.9;2;0;0;8;11;14;8;0;0;0;1;0;4;7;18
+741;Rıdvan Yılmaz;trTUR;DF,MF;tr Beşiktaş;20;2001;1.5;0;0;0;1;2;0;2;4;3;0;1;0;17;0;0
+742;Illia Zabarnyi;uaUKR;DF;ua Dynamo Kyiv;18;2002;6.0;1;0;0;5;8;0;1;10;7;0;0;0;15;6;4
+743;Dan-Axel Zagadou;frFRA;DF;de Dortmund;22;1999;1.1;1;0;0;2;0;0;1;1;2;0;1;0;9;4;0
+744;Denis Zakaria;chSUI;MF;it Juventus;24;1996;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+745;Duván Zapata;coCOL;FW;it Atalanta;30;1991;5.2;1;0;0;7;6;7;5;0;3;0;0;0;17;7;6
+746;Davide Zappacosta;itITA;DF;it Atalanta;29;1992;4.5;1;0;0;6;11;0;12;2;3;0;0;0;11;0;1
+747;Cedric Zesiger;chSUI;DF;ch Young Boys;23;1998;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+748;Edon Zhegrova;xkKVX;FW;fr Lille;22;1999;0.1;0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+749;Oleksandr Zinchenko;uaUKR;DF,MF;eng Manchester City;24;1996;5.6;2;0;0;5;3;0;15;11;5;0;0;0;30;12;8
+750;Hakim Ziyech;maMAR;MF,FW;eng Chelsea;28;1993;4.9;2;0;0;13;8;0;39;4;4;0;0;0;23;4;5

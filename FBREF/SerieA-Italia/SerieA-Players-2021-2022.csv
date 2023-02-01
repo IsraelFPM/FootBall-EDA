@@ -1,0 +1,633 @@
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost
+1;Tammy Abraham;engENG;FW;Roma;23;1997;34.3;9;0;0;38;49;17;16;5;13;1;1;0;68;78;80
+2;Francesco Acerbi;itITA;DF;Lazio;33;1988;28.2;2;1;0;18;16;4;3;34;12;1;0;0;162;69;43
+3;Michel Aebischer;chSUI;MF;Bologna;24;1997;4.9;1;0;0;13;4;0;7;6;5;0;0;0;27;5;4
+4;Felix Afena-Gyan;ghGHA;FW,MF;Roma;18;2003;7.4;5;1;1;15;24;4;8;3;3;0;0;0;31;11;15
+5;Kevin Agudelo;coCOL;MF,FW;Spezia;22;1998;13.7;2;1;0;36;24;0;22;8;26;0;0;0;67;15;14
+6;Ola Aina;ngNGA;DF;Torino;24;1996;16.0;4;0;0;18;28;1;34;28;19;0;0;0;101;17;25
+7;Marley Aké;frFRA;FW,MF;Juventus;20;2001;0.9;1;0;0;6;2;0;1;1;0;0;0;0;3;1;0
+8;Jean-Daniel Akpa-Akpro;ciCIV;MF;Lazio;28;1992;3.5;1;0;0;13;8;0;0;2;10;0;1;0;13;4;4
+9;Luis Alberto;esESP;MF;Lazio;28;1992;26.1;5;0;0;13;26;1;143;13;17;0;0;0;136;6;12
+10;Giorgio Altare;itITA;DF;Cagliari;22;1998;16.3;5;0;0;35;10;1;27;30;28;0;1;0;126;46;34
+11;Wisdom Amey;itITA;DF;Bologna;15;2005;0.8;0;0;0;1;2;0;0;3;2;0;0;0;4;3;1
+12;Kelvin Amian;frFRA;DF;Spezia;23;1998;29.4;9;2;1;36;14;1;24;32;42;0;0;0;105;41;29
+13;Nadiem Amiri;deGER;MF,FW;Genoa;24;1996;7.6;0;0;0;7;19;1;20;0;4;0;0;0;40;3;7
+14;Ethan Ampadu;wlsWAL;MF,DF;Venezia;20;2000;25.4;13;2;1;46;27;0;20;51;43;0;0;0;157;66;33
+15;Sofyan Amrabat;maMAR;MF;Fiorentina;24;1996;10.5;6;0;0;25;14;0;6;5;13;0;0;0;67;6;13
+16;Felipe Anderson;brBRA;FW;Lazio;28;1993;32.1;2;0;0;43;37;7;86;20;45;0;0;0;150;11;20
+17;Ebenezer Annan;ghGHA;DF;Bologna;18;2002;0.3;0;0;0;0;0;0;1;1;1;0;0;0;2;0;0
+18;Cristian Ansaldi;arARG;DF;Torino;34;1986;7.7;2;0;0;13;4;2;57;6;9;0;0;0;36;3;3
+19;Janis Antiste;frFRA;FW;Spezia;18;2002;8.8;0;0;0;15;6;5;12;4;11;0;0;0;36;16;19
+20;Mattia Aramu;itITA;MF,FW;Venezia;26;1995;23.3;6;0;0;29;81;7;144;8;15;1;1;0;91;11;27
+21;Marko Arnautović;atAUT;FW;Bologna;32;1989;29.9;6;0;0;45;21;14;12;7;9;0;0;0;77;25;41
+22;Tolgay Arslan;deGER;MF;Udinese;30;1990;18.4;9;0;0;28;36;0;33;13;20;1;0;0;140;6;8
+23;Arthur;brBRA;FW;Fiorentina;23;1998;8.3;1;0;0;16;10;1;2;1;5;0;0;0;15;12;26
+24;Kristoffer Askildsen;noNOR;MF;Sampdoria;20;2001;8.4;5;0;0;17;14;0;2;15;6;0;0;1;43;21;10
+25;Kristjan Asllani;alALB;MF;Empoli;19;2002;15.0;2;0;0;13;23;0;29;19;9;0;0;0;122;4;6
+26;Emil Audero;itITA;GK;Sampdoria;24;1997;28.4;2;0;0;0;6;0;0;2;1;0;0;0;31;7;0
+27;Tommaso Augello;itITA;DF;Sampdoria;26;1994;26.6;0;0;0;12;21;1;74;29;20;0;0;0;172;33;19
+28;Ramzi Aya;itITA;DF;Salernitana;30;1990;1.5;1;0;0;1;0;0;1;0;1;0;0;0;8;0;1
+29;Kaan Ayhan;trTUR;DF;Sassuolo;26;1994;15.0;2;1;0;13;5;1;2;13;12;0;1;0;68;24;34
+30;Milan Badelj;hrCRO;MF;Genoa;32;1989;31.6;4;0;0;39;19;0;10;85;37;1;0;0;258;34;28
+31;Nicola Bagnolini;itITA;GK;Bologna;17;2004;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+32;Issa Bah;luLUX;FW;Venezia;19;2002;0.1;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0
+33;Nedim Bajrami;alALB;MF,FW;Empoli;22;1999;22.8;3;0;0;16;14;7;156;3;14;0;0;0;91;0;14
+34;Tiemoué Bakayoko;frFRA;MF;Milan;26;1994;5.6;3;0;0;12;10;0;1;9;13;0;1;0;33;16;8
+35;Tommaso Baldanzi;itITA;FW;Empoli;18;2003;0.2;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0
+36;Keita Baldé;snSEN;FW;Cagliari;26;1995;13.7;2;0;0;27;30;9;8;4;4;1;1;0;33;20;46
+37;Fodé Ballo-Touré;snSEN;DF;Milan;24;1997;5.0;2;0;0;12;10;1;18;3;14;0;1;0;35;5;9
+38;Filippo Bandinelli;itITA;MF;Empoli;26;1995;21.7;10;0;0;53;18;5;68;10;20;0;1;0;117;12;31
+39;Mattia Bani;itITA;DF;Genoa;27;1993;13.5;1;0;0;14;19;0;1;20;13;0;0;0;70;42;27
+40;Antonín Barák;czCZE;MF,FW;Hellas Verona;26;1994;26.0;4;0;0;27;17;3;13;6;8;1;0;0;156;41;68
+41;Francesco Bardi;itITA;GK;Bologna;29;1992;2.0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0
+42;Nicolò Barella;itITA;MF;Inter;24;1997;32.4;9;0;0;30;52;4;66;21;42;1;0;0;190;22;24
+43;Musa Barrow;gmGAM;FW,MF;Bologna;22;1998;23.7;0;0;0;10;25;6;112;6;4;0;0;0;93;15;48
+44;Daniele Baselli;itITA;MF,FW;Torino;29;1992;1.7;0;0;0;3;4;1;5;1;3;0;0;0;11;2;6
+45;Daniele Baselli;itITA;MF;Cagliari;29;1992;3.2;1;0;0;2;3;0;17;2;5;0;0;0;24;2;3
+46;Toma Bašić;hrCRO;MF;Lazio;24;1996;10.9;3;0;0;13;6;0;15;4;8;0;0;0;41;8;10
+47;Alessandro Bastoni;itITA;DF;Inter;22;1999;25.7;4;0;0;30;28;0;29;35;25;0;1;0;152;43;26
+48;Simone Bastoni;itITA;MF,DF;Spezia;24;1996;25.4;5;1;0;30;35;1;113;30;34;0;0;0;185;25;13
+49;Rodrigo Becão;brBRA;DF;Udinese;25;1996;34.8;10;0;0;57;45;4;17;42;46;0;1;0;193;63;32
+50;Valon Behrami;chSUI;MF,FW;Genoa;36;1985;3.5;3;0;0;8;5;0;2;1;1;0;0;0;13;0;7
+51;Vid Belec;siSVN;GK;Salernitana;31;1990;21.5;1;0;0;1;1;0;0;0;0;0;1;0;14;1;0
+52;Raoul Bellanova;itITA;DF,FW;Cagliari;21;2000;27.7;3;0;0;10;35;2;96;21;15;0;1;0;123;15;26
+53;Andrea Belotti;itITA;FW;Torino;27;1993;15.2;1;0;0;26;51;16;13;2;3;1;0;0;41;55;77
+54;Marco Benassi;itITA;DF,MF;Fiorentina;26;1994;1.8;1;0;0;4;0;0;4;3;0;0;0;0;9;3;5
+55;Marco Benassi;itITA;MF;Empoli;26;1994;4.2;1;0;0;5;5;0;13;3;3;0;0;0;14;7;14
+56;Filip Benković;hrCRO;DF,FW;Udinese;24;1997;0.1;0;0;0;1;0;0;0;0;0;0;0;0;0;2;1
+57;Ismaël Bennacer;dzALG;MF;Milan;23;1997;16.9;7;0;0;25;44;0;24;25;30;0;0;0;153;15;18
+58;Rodrigo Bentancur;uyURU;MF;Juventus;24;1997;12.8;1;0;0;25;8;0;4;26;18;0;0;0;86;20;20
+59;Alessandro Berardi;itITA;GK;Hellas Verona;30;1991;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+60;Domenico Berardi;itITA;FW;Sassuolo;26;1994;31.3;9;0;0;53;76;11;102;31;19;2;0;0;151;18;18
+61;Bartosz Bereszyński;plPOL;DF;Sampdoria;29;1992;32.7;12;0;0;34;37;0;60;42;38;0;0;0;191;45;20
+62;Etrit Berisha;alALB;GK;Torino;32;1989;10.0;1;0;0;1;3;0;0;0;0;0;1;0;18;0;0
+63;Federico Bernardeschi;itITA;MF,FW;Juventus;27;1994;16.4;5;0;0;16;27;4;51;5;10;0;0;0;82;7;17
+64;Nicolò Bertola;itITA;MF,DF;Spezia;18;2003;0.4;0;0;0;0;0;0;0;3;2;0;0;0;4;1;1
+65;Daniel Bessa;itITA;MF;Hellas Verona;28;1993;8.5;5;1;1;21;12;2;17;5;2;0;0;0;84;8;7
+66;Beto;gwGNB;FW;Udinese;23;1998;24.1;1;0;0;52;24;13;2;5;6;0;0;0;54;73;123
+67;Luis Binks;engENG;DF;Bologna;19;2001;7.2;3;0;0;7;6;0;1;17;4;0;0;0;35;19;13
+68;Cristiano Biraghi;itITA;DF;Fiorentina;28;1992;35.0;5;1;1;28;38;7;278;19;24;0;0;1;173;4;16
+69;Davide Biraschi;itITA;DF;Genoa;27;1994;10.3;4;0;0;12;11;1;14;16;16;0;0;0;53;21;16
+70;Bjarki Bjarkason;isISL;MF;Venezia;21;2000;0.0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+71;Jeremie Boga;ciCIV;FW,MF;Atalanta;24;1997;8.5;0;0;0;1;17;3;24;1;3;0;0;0;37;3;6
+72;Jeremie Boga;ciCIV;FW,MF;Sassuolo;24;1997;7.4;0;0;0;1;9;2;7;2;4;1;0;0;25;2;5
+73;Luka Bogdan;hrCRO;DF;Salernitana;25;1996;4.4;0;0;0;2;1;0;1;6;3;0;0;0;18;6;8
+74;Emil Bohinen;noNOR;MF;Salernitana;22;1999;7.8;5;0;0;16;13;1;20;12;9;0;0;0;61;6;13
+75;Giacomo Bonaventura;itITA;MF;Fiorentina;31;1989;25.2;8;1;1;31;49;2;36;14;17;2;0;0;141;16;16
+76;Federico Bonazzoli;itITA;FW,MF;Salernitana;24;1997;20.7;6;0;0;31;66;6;23;6;12;0;0;0;76;11;24
+77;Kevin Bonifazi;itITA;DF;Bologna;25;1996;13.4;4;1;1;15;10;0;3;16;16;0;1;1;97;34;18
+78;Leonardo Bonucci;itITA;DF;Juventus;34;1987;22.3;1;0;0;17;8;1;3;26;5;0;1;0;95;44;35
+79;Mehdi Bourabia;maMAR;MF;Spezia;29;1991;3.1;0;0;0;6;6;0;3;3;1;0;0;0;20;1;2
+80;Edoardo Bove;itITA;MF,DF;Roma;19;2002;0.8;0;0;0;1;3;0;2;1;1;0;0;0;4;0;3
+81;Josip Brekalo;hrCRO;MF;Torino;23;1998;25.4;1;0;0;20;21;5;135;4;5;0;0;0;128;17;31
+82;Gleison Bremer;brBRA;DF;Torino;24;1997;32.1;7;0;0;66;20;5;1;105;24;0;0;0;284;131;147
+83;Marcelo Brozović;hrCRO;MF;Inter;28;1992;32.6;7;0;0;43;32;0;23;37;45;0;0;0;252;13;24
+84;Aleksander Buksa;plPOL;FW;Genoa;18;2003;0.7;0;0;0;2;0;0;0;0;0;0;0;0;4;3;3
+85;Alessandro Buongiorno;itITA;DF;Torino;22;1999;13.1;5;0;0;27;16;1;6;31;9;0;1;0;60;53;27
+86;Gianluca Busio;usUSA;MF;Venezia;19;2002;21.7;8;0;0;31;17;0;38;21;28;0;0;0;99;31;33
+87;Jovane Cabral;cvCPV;FW;Lazio;23;1998;2.1;0;0;0;5;3;0;2;1;1;0;0;0;6;1;4
+88;Liberato Cacace;nzNZL;DF;Empoli;20;2000;5.2;1;0;0;9;6;0;11;8;6;0;0;0;29;2;6
+89;Martín Cáceres;uyURU;DF;Cagliari;34;1987;9.2;3;1;0;7;9;0;12;14;7;0;0;0;55;5;5
+90;Felipe Caicedo;ecECU;FW;Genoa;32;1988;3.2;1;0;0;6;2;4;0;0;3;1;0;0;10;15;17
+91;Felipe Caicedo;ecECU;FW,DF;Inter;32;1988;0.3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+92;Davide Calabria;itITA;DF;Milan;24;1996;23.5;2;0;0;15;28;1;53;23;37;0;0;0;140;10;27
+93;Riccardo Calafiori;itITA;DF;Genoa;19;2002;0.9;1;0;0;3;0;0;0;2;0;0;0;0;2;1;0
+94;Riccardo Calafiori;itITA;DF;Roma;19;2002;1.9;2;0;0;4;0;0;3;3;4;0;0;0;8;1;2
+95;Mattia Caldara;itITA;DF;Venezia;27;1994;30.0;9;0;0;28;22;3;2;62;28;1;1;0;170;49;51
+96;Hakan Çalhanoğlu;trTUR;MF;Inter;27;1994;27.6;11;0;0;36;26;0;196;25;23;1;0;0;187;10;21
+97;José Callejón;esESP;FW;Fiorentina;34;1987;14.4;0;0;0;3;17;3;62;3;6;0;1;0;72;8;18
+98;Andrea Cambiaso;itITA;DF;Genoa;21;2000;19.9;5;1;1;22;16;1;66;23;20;0;0;0;144;7;17
+99;Matteo Cancellieri;itITA;MF,DF;Hellas Verona;19;2002;2.5;1;0;0;9;4;1;8;1;4;0;0;0;13;4;13
+100;Antonio Candreva;itITA;MF,FW;Sampdoria;34;1987;34.7;6;1;0;19;48;14;343;33;16;0;0;0;193;2;7
+101;Leonardo Capezzi;itITA;MF;Salernitana;26;1995;1.9;0;0;0;3;1;0;0;0;1;0;0;0;8;1;4
+102;Gianluca Caprari;itITA;MF,FW;Hellas Verona;28;1993;30.4;4;0;0;42;74;14;108;4;25;1;0;0;164;8;27
+103;Francesco Caputo;itITA;FW;Sampdoria;33;1987;31.0;0;0;0;23;38;36;12;2;2;3;0;0;61;24;33
+104;Francesco Caputo;itITA;FW;Sassuolo;33;1987;1.7;1;0;0;0;3;0;0;0;0;0;0;0;2;2;1
+105;Andrea Carboni;itITA;DF;Cagliari;20;2001;24.6;6;0;0;18;9;0;25;27;24;0;0;1;110;41;38
+106;Nicolò Casale;itITA;DF;Hellas Verona;23;1998;28.7;10;0;0;43;24;0;15;49;30;0;0;0;197;69;61
+107;Francesco Cassata;itITA;MF;Genoa;24;1997;0.1;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0
+108;Samu Castillejo;esESP;FW,MF;Milan;26;1995;1.4;1;0;0;2;2;0;8;2;2;1;0;0;5;2;2
+109;Gaetano Castrovilli;itITA;MF;Fiorentina;24;1997;15.5;4;0;0;21;36;1;40;11;17;0;0;0;85;8;12
+110;Danilo Cataldi;itITA;MF;Lazio;26;1994;19.0;8;0;0;18;19;0;66;17;17;0;1;0;165;6;7
+111;Pietro Ceccaroni;itITA;DF;Venezia;25;1995;34.7;7;1;0;26;26;0;12;30;31;0;3;0;194;38;31
+112;Federico Ceccherini;itITA;DF;Hellas Verona;29;1992;26.2;12;1;1;57;25;3;5;50;16;0;0;0;175;62;49
+113;Emil Ceide;noNOR;FW,MF;Sassuolo;19;2001;0.6;0;0;0;0;0;0;0;0;1;0;0;0;2;2;1
+114;Luca Ceppitelli;itITA;DF;Cagliari;31;1989;16.1;3;0;0;18;12;1;7;25;12;0;0;0;87;40;22
+115;Damir Ceter;coCOL;FW;Cagliari;23;1997;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+116;Julian Chabot;deGER;DF;Sampdoria;23;1998;5.4;5;0;0;10;11;0;1;9;10;0;0;0;32;20;11
+117;Giorgio Chiellini;itITA;DF;Juventus;36;1984;15.0;2;0;0;15;22;2;1;22;13;0;0;0;78;37;21
+118;Federico Chiesa;itITA;MF,FW;Juventus;23;1997;9.6;0;0;0;9;16;1;32;4;19;1;0;0;47;0;8
+119;Vlad Chiricheș;roROU;DF;Sassuolo;31;1989;25.6;4;0;0;28;13;1;0;41;15;0;3;0;165;34;53
+120;Riccardo Ciervo;itITA;MF,DF;Sampdoria;19;2002;2.5;0;0;0;3;1;0;9;2;3;0;0;0;17;0;3
+121;Moustapha Cissé;gnGUI;FW;Atalanta;17;2003;0.4;0;0;0;2;1;2;0;0;0;0;0;0;1;4;2
+122;Giorgio Cittadini;itITA;DF;Atalanta;19;2002;0.0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0
+123;Ebrima Colley;gmGAM;FW,MF;Spezia;21;2000;4.4;1;0;0;10;12;2;18;3;1;0;0;0;15;2;5
+124;Omar Colley;gmGAM;DF;Sampdoria;28;1992;30.5;6;1;0;25;31;1;1;80;36;0;1;0;182;56;38
+125;Andrea Consigli;itITA;GK;Sassuolo;34;1987;36.9;2;0;0;2;7;0;0;0;0;0;2;0;41;7;1
+126;Andrea Conti;itITA;DF,MF;Sampdoria;27;1994;2.6;1;0;0;5;4;0;0;7;2;0;0;0;5;0;3
+127;Andrea Conti;itITA;DF;Milan;27;1994;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+128;Diego Coppola;itITA;DF;Hellas Verona;17;2003;2.8;0;0;0;2;1;0;0;4;4;0;0;0;18;11;4
+129;Joaquín Correa;arARG;FW;Inter;26;1994;11.4;2;0;0;15;16;1;1;3;5;0;0;0;32;8;11
+130;Lassana Coulibaly;mlMLI;MF;Salernitana;25;1996;25.9;3;0;0;34;49;0;13;22;32;0;0;0;171;22;23
+131;Mamadou Coulibaly;snSEN;MF;Salernitana;22;1999;9.0;1;0;0;16;9;0;8;11;12;1;0;0;74;9;8
+132;Alessio Cragno;itITA;GK;Cagliari;27;1994;35.0;3;0;0;1;8;0;0;1;3;0;1;0;39;3;3
+133;Domenico Criscito;itITA;DF;Genoa;34;1986;18.0;4;0;0;21;27;0;50;39;21;0;0;0;126;18;17
+134;Bryan Cristante;itITA;MF;Roma;26;1995;29.8;9;0;0;40;14;1;14;40;39;0;1;1;190;87;61
+135;Domen Črnigoj;siSVN;MF;Venezia;25;1995;20.9;3;0;0;26;12;1;30;24;13;0;1;0;106;25;43
+136;Giovanni Crociata;itITA;FW;Empoli;23;1997;0.2;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+137;Juan Cuadrado;coCOL;DF,MF;Juventus;33;1988;27.6;9;0;0;19;52;1;134;29;23;0;0;0;162;20;14
+138;Mickaël Cuisance;frFRA;MF;Venezia;21;1999;10.2;2;0;0;12;9;1;18;12;9;0;1;0;57;9;9
+139;Patrick Cutrone;itITA;FW;Empoli;23;1998;15.6;1;0;0;13;16;20;21;5;2;1;0;0;40;9;30
+140;Danilo D'Ambrosio;itITA;DF;Inter;32;1988;11.1;2;0;0;13;5;1;7;8;15;0;0;0;63;18;16
+141;Mikkel Damsgaard;dkDEN;MF,FW;Sampdoria;21;2000;6.4;1;0;0;10;8;0;5;7;13;0;0;0;41;7;5
+142;Danilo;brBRA;DF,MF;Juventus;30;1991;21.0;6;0;0;19;11;0;13;32;26;0;0;0;121;37;24
+143;Ebrima Darboe;gmGAM;MF;Roma;20;2001;0.7;0;0;0;1;0;0;0;1;1;0;0;0;2;0;0
+144;Matteo Darmian;itITA;DF;Inter;31;1989;16.7;4;0;0;23;18;0;37;19;16;1;0;0;54;18;5
+145;Paweł Dawidowicz;plPOL;DF;Hellas Verona;26;1995;13.3;3;0;0;26;14;0;6;21;18;0;1;0;70;22;25
+146;Sebastien De Maio;frFRA;DF;Udinese;34;1987;2.0;0;0;0;3;0;0;0;1;1;0;0;0;16;2;3
+147;Tommaso De Nipoti;itITA;FW;Atalanta;18;2003;0.1;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0
+148;Mattia De Sciglio;itITA;DF;Juventus;28;1992;13.0;2;1;0;15;7;0;52;10;12;0;1;0;75;16;8
+149;Lorenzo De Silvestri;itITA;DF;Bologna;33;1988;25.5;7;0;0;28;28;3;57;26;14;1;0;0;97;75;46
+150;Grégoire Defrel;mqMTQ;FW;Sassuolo;30;1991;15.1;3;0;0;16;18;3;1;4;9;0;0;0;43;9;36
+151;Alessandro Deiola;itITA;MF;Cagliari;25;1995;23.7;5;0;0;45;21;1;12;26;22;0;0;0;149;40;42
+152;Filippo Delli Carri;itITA;DF;Salernitana;22;1999;3.7;1;0;0;2;2;0;3;4;4;0;0;0;18;4;3
+153;Merih Demiral;trTUR;DF;Atalanta;23;1998;21.3;8;0;0;29;16;3;0;58;17;0;1;0;122;85;37
+154;Diego Demme;deGER;MF;Napoli;29;1991;7.7;4;0;0;28;8;0;7;9;12;0;0;0;52;4;5
+155;Fabio Depaoli;itITA;DF;Hellas Verona;24;1997;7.8;3;0;0;20;10;4;32;8;7;0;0;0;39;9;12
+156;Fabio Depaoli;itITA;MF,DF;Sampdoria;24;1997;1.2;1;0;0;8;1;0;3;1;1;0;0;0;4;1;3
+157;Mattia Destro;itITA;FW;Genoa;30;1991;19.4;4;0;0;40;31;19;2;2;4;0;0;0;30;62;110
+158;Gerard Deulofeu;esESP;FW,MF;Udinese;27;1994;29.1;9;0;0;25;31;33;166;9;6;2;0;0;93;2;17
+159;Jacopo Dezi;itITA;MF;Venezia;29;1992;0.2;0;0;0;0;0;0;3;1;0;0;0;0;1;1;0
+160;Samuel Di Carmine;itITA;FW;Hellas Verona;32;1988;0.4;1;0;0;1;2;0;0;0;0;0;0;0;1;1;2
+161;Federico Di Francesco;itITA;FW,MF;Empoli;27;1994;15.2;2;0;0;29;27;13;38;9;5;1;0;0;50;2;17
+162;Giovanni Di Lorenzo;itITA;DF;Napoli;27;1993;31.9;3;0;0;37;46;8;49;38;36;1;0;0;168;44;28
+163;Francesco Di Mariano;itITA;FW;Venezia;25;1996;0.7;0;0;0;1;1;0;1;0;1;0;0;0;2;0;1
+164;Francesco Di Tacchio;itITA;MF;Salernitana;31;1990;13.9;3;0;0;24;24;0;7;22;7;0;0;1;85;15;17
+165;Amadou Diawara;gnGUI;MF;Roma;24;1997;1.9;0;0;0;5;0;0;0;0;2;0;0;0;12;1;0
+166;Brahim Díaz;esESP;MF;Milan;21;1999;20.6;4;0;0;22;33;4;11;8;17;0;0;0;108;4;40
+167;Mitchell Dijks;nlNED;DF,FW;Bologna;28;1993;7.7;2;0;0;10;10;0;28;3;6;0;0;0;44;9;4
+168;Federico Dimarco;itITA;DF;Inter;23;1997;15.9;1;0;0;15;14;2;151;19;15;0;0;0;103;8;8
+169;Filippo Distefano;itITA;FW;Fiorentina;17;2003;0.0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+170;Koffi Djidji;ciCIV;DF;Torino;28;1992;19.3;6;1;1;25;7;1;17;34;29;0;3;0;113;45;41
+171;Berat Djimsiti;alALB;DF;Atalanta;28;1993;25.1;6;0;0;21;14;1;11;31;24;0;1;1;144;57;27
+172;Nicolás Domínguez;arARG;MF;Bologna;23;1998;22.4;8;0;0;26;39;0;14;32;45;0;0;0;158;32;29
+173;Bartłomiej Drągowski;plPOL;GK;Fiorentina;23;1997;6.2;0;1;0;1;0;0;0;1;0;0;0;0;9;0;0
+174;Radu Drăgușin;roROU;DF;Sampdoria;19;2002;6.9;1;0;0;6;5;1;4;10;3;0;0;0;49;14;7
+175;Radu Drăgușin;roROU;DF;Salernitana;19;2002;5.4;1;0;0;3;4;0;0;13;4;0;0;0;28;7;7
+176;Denzel Dumfries;nlNED;DF;Inter;25;1996;22.5;3;0;0;32;37;4;36;9;12;2;1;0;89;43;32
+177;Alfred Duncan;ghGHA;MF;Fiorentina;28;1993;21.5;3;0;0;22;13;0;44;10;19;0;0;0;92;9;17
+178;Paulo Dybala;arARG;FW,MF;Juventus;27;1993;22.9;3;0;0;16;48;6;66;9;13;0;0;0;103;10;19
+179;Edin Džeko;baBIH;FW;Inter;35;1986;27.4;2;0;0;27;39;5;35;4;8;2;0;0;81;84;74
+180;Tyronne Ebuehi;ngNGA;DF;Venezia;25;1995;12.6;1;1;0;22;4;1;28;16;12;0;0;0;61;15;18
+181;Éderson;brBRA;MF;Salernitana;22;1999;12.7;5;0;0;18;34;1;5;19;18;0;0;0;62;11;17
+182;Albin Ekdal;seSWE;MF;Sampdoria;32;1989;18.2;11;1;1;31;39;0;2;29;28;0;0;0;144;24;17
+183;Caleb Ekuban;ghGHA;FW,MF;Genoa;27;1994;19.1;2;0;0;22;32;2;13;9;12;0;0;0;78;36;51
+184;Elif Elmas;mkMKD;FW,MF;Napoli;21;1999;18.0;3;0;0;27;30;2;10;8;15;1;0;0;64;7;22
+185;Martin Erlic;hrCRO;DF;Spezia;23;1998;28.6;5;0;0;28;20;0;2;28;16;2;2;0;134;55;40
+186;Gonzalo Escalante;arARG;MF;Lazio;28;1993;0.1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0
+187;Diego Falcinelli;itITA;FW;Bologna;30;1991;0.7;0;0;0;2;4;0;0;1;2;0;0;0;5;5;6
+188;Wladimiro Falcone;itITA;GK;Sampdoria;26;1995;9.5;2;0;0;0;1;0;0;1;0;0;0;0;8;3;0
+189;Paolo Faragò;itITA;MF;Cagliari;28;1993;0.2;0;0;0;0;0;0;0;0;1;0;0;0;4;1;1
+190;Davide Faraoni;itITA;DF;Hellas Verona;29;1991;28.6;8;1;1;27;34;5;82;23;40;0;1;0;193;45;50
+191;Mohamed Fares;dzALG;DF,FW;Genoa;25;1996;6.5;2;0;0;10;6;0;24;8;2;0;0;0;43;9;14
+192;Diego Farias;brBRA;MF,FW;Cagliari;31;1990;0.7;0;0;0;0;0;0;2;0;1;0;0;0;5;1;2
+193;Andrea Favilli;itITA;FW;Genoa;24;1997;0.4;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0
+194;Federico Fazio;arARG;DF;Salernitana;34;1987;15.9;3;1;1;16;15;1;6;27;11;0;2;0;84;54;22
+195;Luiz Felipe;itITA;DF;Lazio;24;1997;27.7;9;1;0;28;16;0;2;33;23;1;0;0;133;43;42
+196;Alex Ferrari;itITA;DF;Sampdoria;27;1994;18.3;4;0;0;29;24;0;7;39;22;0;1;0;109;23;21
+197;Salvador Ferrer;esESP;DF,MF;Spezia;23;1998;16.6;3;0;0;13;10;0;44;18;18;0;0;0;82;34;23
+198;Riccardo Fiamozzi;itITA;DF;Empoli;28;1993;6.9;1;0;0;3;7;0;11;7;5;0;1;0;42;4;6
+199;Luca Fiordilino;itITA;MF;Venezia;25;1996;7.3;2;0;0;5;10;2;9;11;13;0;0;0;50;9;3
+200;Vincenzo Fiorillo;itITA;GK;Salernitana;31;1990;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+201;Alessandro Florenzi;itITA;DF,FW;Milan;30;1991;12.8;2;0;0;10;8;3;56;27;14;0;0;0;79;9;9
+202;Fernando Forestieri;itITA;FW,MF;Udinese;31;1990;0.6;1;0;0;3;4;0;4;0;0;0;0;0;0;0;2
+203;Francesco Forte;itITA;FW;Venezia;28;1993;4.7;3;0;0;11;7;2;2;0;2;0;0;0;14;18;16
+204;Gianluca Frabotta;itITA;DF,MF;Hellas Verona;22;1999;0.2;0;0;0;2;0;0;3;1;0;0;0;0;2;1;2
+205;Davide Frattesi;itITA;MF;Sassuolo;21;1999;31.7;6;0;0;46;57;0;14;29;16;2;1;1;143;26;40
+206;Morten Frendrup;dkDEN;DF,MF;Genoa;20;2001;7.7;1;0;0;10;4;0;8;17;24;0;0;0;70;12;10
+207;Remo Freuler;chSUI;MF;Atalanta;29;1992;26.3;10;0;0;43;28;0;25;35;39;0;1;1;186;20;24
+208;Matteo Gabbia;itITA;DF;Milan;21;1999;6.0;3;0;0;7;2;0;0;8;3;0;0;0;25;13;8
+209;Manolo Gabbiadini;itITA;FW,MF;Sampdoria;29;1991;12.7;3;0;0;12;16;6;24;3;4;0;0;0;37;16;32
+210;Gianluca Gaetano;itITA;MF;Napoli;21;2000;0.2;0;0;0;1;1;0;0;2;1;0;0;0;3;2;2
+211;Luca Gagliano;itITA;FW,DF;Cagliari;21;2000;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;4
+212;Roberto Gagliardini;itITA;MF;Inter;27;1994;7.2;2;0;0;24;16;0;5;9;6;0;0;0;40;14;14
+213;Riccardo Gagliolo;seSWE;DF;Salernitana;31;1990;12.6;2;0;0;8;12;0;15;28;12;0;0;0;68;14;11
+214;Nicolas Galazzi;itITA;MF;Venezia;20;2000;0.2;0;0;0;2;0;0;3;0;1;0;0;0;0;0;1
+215;Pablo Galdames Millán;clCHI;MF;Genoa;24;1996;11.4;2;0;0;20;11;3;31;8;12;0;0;0;78;6;15
+216;Luca Gemello;itITA;GK;Torino;21;2000;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+217;Paolo Ghiglione;itITA;DF;Genoa;24;1997;6.7;3;0;0;11;3;0;37;10;12;0;0;0;33;7;8
+218;Faouzi Ghoulam;dzALG;DF;Napoli;30;1991;3.7;1;0;0;4;2;0;26;3;1;0;0;0;12;5;6
+219;Sebastian Giovinco;itITA;MF;Sampdoria;34;1987;0.4;0;0;0;2;0;0;1;0;0;0;0;0;1;0;0
+220;Olivier Giroud;frFRA;FW;Milan;34;1986;21.0;4;0;0;31;22;11;4;3;11;0;0;0;42;92;51
+221;Diego Godín;uyURU;DF;Cagliari;35;1986;9.1;3;0;0;13;3;0;0;13;7;0;1;0;53;18;12
+222;Edoardo Goldaniga;itITA;DF;Cagliari;27;1993;10.4;3;0;0;22;13;1;13;22;5;0;0;0;57;28;19
+223;Edoardo Goldaniga;itITA;DF,MF;Sassuolo;27;1993;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+224;Cedric Gondo;ciCIV;FW;Salernitana;24;1996;7.8;1;0;0;18;32;3;9;3;2;1;0;0;34;23;30
+225;Nicolás González;arARG;FW;Fiorentina;23;1998;26.2;4;1;1;30;97;5;64;21;16;3;0;0;95;66;59
+226;Robin Gosens;deGER;DF;Atalanta;27;1994;5.1;2;0;0;3;5;1;5;9;3;1;0;0;22;12;4
+227;Robin Gosens;deGER;DF;Inter;27;1994;1.9;1;0;0;1;2;2;7;3;1;0;0;0;13;4;1
+228;Alberto Grassi;itITA;MF;Cagliari;26;1995;24.2;6;1;1;28;60;1;5;63;26;0;0;0;176;54;28
+229;Koray Günter;deGER;DF;Hellas Verona;26;1994;26.8;10;0;0;42;16;1;0;69;18;0;2;1;197;90;54
+230;Albert Guðmundsson;isISL;FW,MF;Genoa;24;1997;6.7;3;0;0;14;10;3;41;5;3;0;0;0;32;3;6
+231;Emmanuel Gyasi;ghGHA;FW,MF;Spezia;27;1994;33.7;10;0;0;48;51;21;23;16;30;0;1;1;153;33;67
+232;Norbert Gyömbér;skSVK;DF;Salernitana;29;1992;28.5;9;0;0;48;15;0;19;44;32;0;1;0;124;40;22
+233;Nicolas Haas;chSUI;MF;Empoli;25;1996;11.1;3;0;0;18;11;1;15;9;22;0;0;0;74;5;15
+234;Samir Handanović;siSVN;GK;Inter;37;1984;37.0;1;0;0;0;4;0;0;0;0;0;0;0;36;4;0
+235;Ridgeciano Haps;srSUR;DF;Venezia;28;1993;22.8;6;0;0;22;43;2;34;29;20;1;1;0;124;24;20
+236;Abdou Harroui;nlNED;MF;Sassuolo;23;1998;5.0;2;0;0;13;2;0;7;4;4;0;0;0;38;6;9
+237;Hans Hateboer;nlNED;DF,MF;Atalanta;27;1994;15.4;2;0;0;18;7;3;38;7;14;0;0;0;66;22;23
+238;Silvan Hefti;chSUI;DF;Genoa;23;1997;14.3;1;0;0;13;7;0;33;20;30;0;1;0;117;6;15
+239;Liam Henderson;sctSCO;MF;Empoli;25;1996;22.4;4;0;0;59;22;3;87;9;13;2;1;0;99;14;15
+240;Dalbert Henrique;brBRA;DF,MF;Cagliari;27;1993;23.1;9;0;0;38;28;4;73;24;23;0;2;0;132;25;37
+241;Matheus Henrique;brBRA;MF;Sassuolo;23;1997;12.0;3;0;0;18;13;0;12;7;3;0;0;0;57;4;7
+242;Thomas Henry;frFRA;FW;Venezia;26;1994;23.5;6;1;1;50;69;14;5;2;4;0;0;2;38;90;78
+243;Theo Hernández;frFRA;DF;Milan;23;1997;30.1;7;2;1;34;74;8;126;23;35;0;0;0;219;25;14
+244;Hernani;brBRA;MF,FW;Genoa;27;1994;7.6;0;0;0;12;10;2;15;13;10;0;1;0;43;13;22
+245;Daan Heymans;beBEL;MF,FW;Venezia;22;1999;2.8;4;0;0;8;2;0;3;4;1;0;0;0;10;8;2
+246;Aaron Hickey;sctSCO;DF;Bologna;19;2002;31.3;7;0;0;39;71;4;52;29;29;0;0;0;134;17;30
+247;Martin Hongla;cmCMR;MF;Hellas Verona;23;1998;7.2;3;0;0;15;5;1;4;4;8;0;0;0;68;15;17
+248;Sydney van Hooijdonk;nlNED;FW,MF;Bologna;21;2000;0.4;0;0;0;0;0;0;0;0;0;0;0;0;1;3;2
+249;Petko Hristov;bgBUL;DF;Spezia;22;1999;13.9;3;0;0;8;18;0;1;19;10;0;0;0;83;37;22
+250;Elseid Hysaj;alALB;DF;Lazio;27;1994;22.5;3;0;0;16;18;2;26;24;30;0;1;0;124;17;24
+251;Roger Ibanez;brBRA;DF;Roma;22;1998;32.1;9;0;0;47;48;1;3;62;32;0;2;0;201;61;36
+252;Zlatan Ibrahimović;seSWE;FW;Milan;39;1981;11.3;2;0;0;16;9;19;6;3;0;1;0;1;18;44;25
+253;Igor;brBRA;DF;Fiorentina;23;1998;24.9;3;0;0;28;5;0;2;31;31;0;1;0;169;46;41
+254;Jonathan Ikone;frFRA;FW;Fiorentina;23;1998;7.2;1;0;0;6;6;1;9;1;3;0;0;0;42;3;8
+255;Ivan Ilić;rsSRB;MF;Hellas Verona;20;2001;28.1;5;1;0;45;32;1;40;22;18;0;0;1;186;51;36
+256;Josip Iličić;siSVN;MF,FW;Atalanta;33;1988;9.3;1;0;0;13;38;1;41;3;7;0;0;0;32;1;11
+257;Ciro Immobile;itITA;FW;Lazio;31;1990;30.1;4;0;0;36;39;13;13;3;5;1;1;0;55;22;46
+258;Lorenzo Insigne;itITA;FW;Napoli;30;1991;25.4;2;0;0;20;22;5;90;20;14;0;0;0;142;5;9
+259;Ardian Ismajli;alALB;DF;Empoli;24;1996;14.1;7;0;0;17;14;0;3;24;9;0;0;2;78;38;21
+260;Armando Izzo;itITA;DF;Torino;29;1992;5.8;4;0;0;17;12;0;3;17;9;0;1;0;32;15;14
+261;Mato Jajalo;baBIH;MF;Udinese;33;1988;7.0;2;0;0;12;7;0;4;11;14;0;0;0;49;6;11
+262;Paweł Jaroszyński;plPOL;DF;Salernitana;26;1994;5.7;2;0;0;7;5;0;21;10;5;0;0;0;40;7;9
+263;Juan Jesus;brBRA;DF;Napoli;30;1991;14.2;1;0;0;14;2;2;2;9;17;0;0;1;103;29;28
+264;Dennis Johnsen;noNOR;FW,MF;Venezia;23;1998;16.1;2;0;0;9;12;13;42;5;10;0;0;0;62;5;20
+265;Kaio Jorge;brBRA;MF,FW;Juventus;19;2002;1.3;0;0;0;4;5;2;1;0;1;0;0;0;10;0;4
+266;Flavio Junior Bianchi;itITA;FW,MF;Genoa;21;2000;3.5;0;0;0;5;4;0;1;0;2;0;0;0;9;3;5
+267;Hamed Junior Traorè;ciCIV;FW,MF;Sassuolo;21;2000;19.7;3;0;0;30;32;4;60;12;18;0;0;0;123;4;10
+268;Nikola Kalinić;hrCRO;FW;Hellas Verona;33;1988;4.5;5;1;1;15;9;2;1;0;0;1;0;0;8;3;7
+269;Yayah Kallon;slSLE;FW,MF;Genoa;20;2001;7.1;3;0;0;19;13;3;18;1;11;1;0;0;35;4;17
+270;Pierre Kalulu;frFRA;DF;Milan;21;2000;21.6;4;0;0;16;6;2;22;26;36;0;0;0;150;22;41
+271;Dimitrije Kamenović;rsSRB;DF;Lazio;21;2000;0.5;0;0;0;1;1;0;0;2;1;0;0;0;2;2;1
+272;Rick Karsdorp;nlNED;DF,FW;Roma;26;1995;32.0;9;1;1;27;13;0;103;34;38;0;1;0;179;5;12
+273;Denso Kasius;nlNED;DF,FW;Bologna;18;2002;2.0;0;0;0;1;4;0;7;3;6;0;0;0;15;3;3
+274;Grigoris Kastanos;cyCYP;MF,FW;Salernitana;23;1998;15.0;4;1;0;28;35;2;52;22;19;1;0;0;85;18;11
+275;Moise Kean;itITA;FW;Juventus;21;2000;12.2;5;0;0;20;16;12;6;3;4;1;0;0;44;22;15
+276;Wajdi Kechrida;tnTUN;DF,MF;Salernitana;25;1995;10.6;0;0;0;8;1;1;32;8;6;0;0;0;49;2;12
+277;Dimitrios Keramitsis;grGRE;MF;Roma;17;2004;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+278;Franck Kessié;ciCIV;MF;Milan;24;1996;25.6;2;0;0;36;31;1;12;23;23;1;1;0;176;30;29
+279;Jakub Kiwior;plPOL;MF;Spezia;21;2000;21.8;6;0;0;27;5;2;7;40;27;0;1;0;102;29;32
+280;Sofian Kiyine;maMAR;MF,FW;Venezia;23;1997;13.8;8;1;0;49;11;0;49;10;14;0;0;0;94;12;16
+281;Simon Kjær;dkDEN;DF;Milan;32;1989;8.9;2;0;0;20;5;0;1;9;12;0;0;1;46;13;14
+282;Aleksandr Kokorin;ruRUS;FW,MF;Fiorentina;30;1991;0.6;1;0;0;2;2;0;0;0;1;0;0;0;1;5;5
+283;Aleksandar Kolarov;rsSRB;DF;Inter;35;1985;0.5;0;0;0;0;1;0;0;1;1;0;0;0;5;1;2
+284;Teun Koopmeiners;nlNED;MF;Atalanta;23;1998;23.6;4;0;0;37;21;6;97;15;24;0;0;1;158;27;20
+285;Kalidou Koulibaly;snSEN;DF;Napoli;30;1991;26.7;5;1;0;28;12;0;2;29;23;0;1;0;167;48;37
+286;Christos Kourfalidis;grGRE;MF,FW;Cagliari;18;2002;0.2;0;0;0;0;0;0;0;0;0;0;0;0;6;1;1
+287;Viktor Kovalenko;uaUKR;MF;Spezia;25;1996;14.7;4;0;0;15;20;0;24;13;10;1;1;0;80;13;20
+288;Julian Kristoffersen;noNOR;FW;Salernitana;24;1997;0.1;0;0;0;1;0;1;0;0;0;0;0;0;0;2;1
+289;Rade Krunić;baBIH;MF,FW;Milan;27;1993;15.7;2;0;0;21;29;1;11;16;18;0;0;0;86;24;27
+290;Dejan Kulusevski;seSWE;FW,MF;Juventus;21;2000;8.6;1;0;0;29;10;3;8;5;12;0;0;0;48;9;12
+291;Marash Kumbulla;alALB;DF;Roma;21;2000;11.4;6;0;0;22;11;0;2;16;13;0;0;0;65;22;14
+292;Giorgos Kyriakopoulos;grGRE;DF,FW;Sassuolo;25;1996;21.9;6;1;0;29;37;3;99;11;14;0;0;0;125;17;19
+293;Andrea La Mantia;itITA;FW,MF;Empoli;30;1991;5.4;0;0;0;6;6;3;1;1;0;1;0;0;11;27;17
+294;Sam Lammers;nlNED;FW,MF;Atalanta;24;1997;0.4;0;0;0;2;3;0;0;0;0;0;0;0;0;4;4
+295;Kevin Lasagna;itITA;MF,FW;Hellas Verona;28;1992;13.2;1;0;0;19;10;12;10;3;7;1;0;0;45;31;49
+296;Darko Lazović;rsSRB;DF;Hellas Verona;30;1990;30.7;2;0;0;13;8;11;94;19;23;0;0;0;200;14;18
+297;Manuel Lazzari;itITA;DF;Lazio;27;1993;18.5;3;0;0;18;44;4;56;12;14;0;0;0;85;4;20
+298;Patrick Leal;usUSA;FW;Venezia;18;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+299;Rafael Leão;ptPOR;FW;Milan;22;1999;28.9;4;0;0;25;45;8;63;12;7;2;0;0;99;28;37
+300;Lucas Leiva;brBRA;MF;Lazio;34;1987;18.9;9;0;0;37;17;0;4;28;30;0;0;0;122;24;16
+301;Luca Lezzerini;itITA;GK;Venezia;26;1995;5.5;2;0;0;0;1;0;0;0;0;0;0;0;6;0;0
+302;Ben Lhassine Kone;ciCIV;MF;Torino;21;2000;0.9;0;0;0;1;0;0;0;1;3;0;1;0;6;1;0
+303;Matthijs de Ligt;nlNED;DF;Juventus;21;1999;29.7;4;1;1;32;15;2;4;26;19;0;1;0;129;89;52
+304;Anderson Lima;brBRA;MF;Lazio;21;1999;0.7;1;0;0;2;4;0;1;2;0;0;0;0;3;0;0
+305;Karol Linetty;plPOL;MF,FW;Torino;26;1995;10.0;2;0;0;30;10;0;8;3;8;0;0;0;42;9;17
+306;Stanislav Lobotka;skSVK;MF;Napoli;26;1994;18.7;2;0;0;19;35;0;3;12;24;0;0;0;144;8;10
+307;Manuel Locatelli;itITA;MF;Juventus;23;1998;24.0;6;0;0;42;25;2;8;22;25;0;0;0;167;31;22
+308;Maxime Lopez;frFRA;MF;Sassuolo;23;1997;32.6;14;0;0;37;31;0;17;42;36;0;0;0;217;7;6
+309;Matteo Lovato;itITA;DF;Atalanta;21;2000;3.4;1;0;0;5;1;0;3;7;4;0;0;0;12;10;5
+310;Matteo Lovato;itITA;DF;Cagliari;21;2000;13.8;4;0;0;16;14;0;0;28;15;0;1;0;106;21;23
+311;Hirving Lozano;mxMEX;FW;Napoli;26;1995;17.9;3;0;0;27;33;14;49;9;20;1;0;0;61;10;13
+312;José Luis Palomino;arARG;DF;Atalanta;31;1990;29.7;9;0;0;39;17;1;9;100;40;0;0;0;272;105;48
+313;Saša Lukić;rsSRB;MF;Torino;24;1996;33.1;10;0;0;85;46;1;25;24;34;0;0;0;203;42;54
+314;Sebastiano Luperto;itITA;DF;Empoli;24;1996;21.8;8;1;1;30;5;1;6;45;17;0;1;0;92;44;44
+315;Charalambos Lykogiannis;grGRE;DF,FW;Cagliari;27;1993;20.2;2;0;0;29;14;0;95;31;12;0;1;0;90;33;29
+316;Niki Mäenpää;fiFIN;GK;Venezia;36;1985;16.5;1;0;0;1;1;0;0;0;0;0;1;0;22;7;0
+317;Giulio Maggiore;itITA;MF;Spezia;23;1998;31.3;9;0;0;64;67;1;13;29;32;0;1;0;206;33;42
+318;Francesco Magnanelli;itITA;MF;Sassuolo;36;1984;3.0;1;0;0;10;7;0;0;1;4;0;0;0;42;3;3
+319;Giangiacomo Magnani;itITA;DF;Hellas Verona;25;1995;5.9;3;1;0;11;9;0;2;10;7;0;0;0;26;19;14
+320;Giangiacomo Magnani;itITA;DF;Sampdoria;25;1995;2.7;0;0;0;3;1;0;0;7;2;0;0;0;6;7;3
+321;Mike Maignan;frFRA;GK;Milan;26;1995;32.0;1;0;0;0;8;0;0;1;1;0;0;0;51;6;2
+322;Ainsley Maitland-Niles;engENG;DF;Roma;23;1997;5.4;0;0;0;6;1;1;25;6;6;0;0;0;42;8;1
+323;Jean-Victor Makengo;frFRA;MF;Udinese;23;1998;26.1;7;1;1;27;38;1;8;19;21;0;0;0;150;10;24
+324;Nikola Maksimović;rsSRB;DF;Genoa;29;1991;12.4;2;0;0;10;8;0;3;12;6;0;1;0;73;33;21
+325;Kévin Malcuit;maMAR;DF,MF;Napoli;30;1991;3.2;3;0;0;8;5;0;12;8;2;0;0;0;15;4;5
+326;Daniel Maldini;itITA;MF;Milan;19;2001;1.6;1;0;0;4;1;1;1;1;3;0;0;0;5;3;5
+327;Youssef Maleh;itITA;MF;Fiorentina;22;1998;11.3;5;0;0;43;19;0;18;6;16;0;0;0;48;11;9
+328;Ruslan Malinovskyi;uaUKR;MF,FW;Atalanta;28;1993;17.7;10;0;0;40;41;3;102;5;10;0;0;0;95;18;19
+329;Rey Manaj;alALB;FW;Spezia;24;1997;19.6;9;0;0;54;62;11;6;4;12;1;0;0;57;69;96
+330;Gianluca Mancini;itITA;DF;Roma;25;1996;32.0;16;1;1;59;15;1;15;39;25;0;1;0;129;70;31
+331;Leonardo Mancuso;itITA;FW;Empoli;29;1992;4.7;0;0;0;1;2;5;5;1;1;0;0;0;11;1;11
+332;Rolando Mandragora;itITA;MF;Torino;24;1997;14.7;7;1;1;25;22;1;47;10;10;0;0;0;87;16;20
+333;Kostas Manolas;grGRE;DF;Napoli;30;1991;3.5;1;0;0;5;0;0;0;4;2;0;0;0;11;5;5
+334;Riccardo Marchizza;itITA;DF;Empoli;23;1998;15.0;4;0;0;19;3;2;42;10;15;0;0;1;72;7;9
+335;Gian Marco Ferrari;itITA;DF;Sassuolo;29;1992;34.7;6;1;1;25;37;1;1;43;11;0;0;0;167;79;43
+336;Davide Marfella;itITA;GK;Napoli;21;1999;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+337;Pablo Marí;esESP;DF;Udinese;27;1993;14.9;2;1;0;20;4;0;3;21;8;0;1;0;84;43;22
+338;Răzvan Marin;roROU;MF;Cagliari;25;1996;31.3;6;1;1;36;31;1;127;10;21;0;0;0;168;20;25
+339;Lautaro Martínez;arARG;FW;Inter;23;1997;25.4;6;0;0;40;46;12;15;18;10;0;0;0;67;29;33
+340;Lucas Martínez Quarta;arARG;DF;Fiorentina;25;1996;15.9;8;0;0;30;11;0;1;19;25;0;1;0;121;47;32
+341;Adam Marušić;meMNE;DF;Lazio;28;1992;30.2;6;1;1;26;13;0;29;41;18;0;0;0;155;33;22
+342;Andrea Masiello;itITA;DF;Genoa;35;1986;5.7;3;0;0;6;4;0;1;11;3;0;0;0;47;7;7
+343;Aleš Matějů;czCZE;DF;Venezia;25;1996;8.1;3;0;0;13;8;1;21;9;12;0;0;0;33;11;3
+344;Borja Mayoral;esESP;FW,DF;Roma;24;1997;1.1;0;0;0;0;2;0;3;0;0;0;0;0;4;0;0
+345;Pasquale Mazzocchi;itITA;DF;Venezia;26;1995;13.8;3;0;0;22;6;0;46;21;8;0;0;0;74;11;10
+346;Pasquale Mazzocchi;itITA;DF;Salernitana;26;1995;14.1;2;0;0;18;7;1;79;11;19;0;0;0;62;11;9
+347;Ibrahima Mbaye;snSEN;DF;Bologna;26;1994;1.2;0;0;0;3;1;1;1;1;1;0;1;0;3;3;4
+348;Weston McKennie;usUSA;MF;Juventus;22;1998;15.2;1;0;0;19;4;0;12;23;11;0;0;0;84;29;24
+349;Gary Medel;clCHI;DF;Bologna;33;1987;31.4;10;1;1;34;31;1;2;44;23;0;2;0;228;15;33
+350;Filippo Melegoni;itITA;MF,FW;Genoa;22;1999;10.9;1;0;0;15;20;2;34;11;12;0;0;0;72;5;20
+351;Arthur Melo;brBRA;MF;Juventus;24;1996;10.7;3;0;0;20;31;0;1;7;12;0;0;0;92;4;6
+352;Alex Meret;itITA;GK;Napoli;24;1997;6.9;0;0;0;0;5;0;0;0;0;0;0;0;3;0;0
+353;Yıldırım Mert Çetin;trTUR;MF;Hellas Verona;24;1997;0.5;0;0;0;0;1;0;1;0;0;0;0;0;6;2;2
+354;Dries Mertens;beBEL;FW,MF;Napoli;34;1987;15.4;2;0;0;26;22;5;22;9;7;2;0;0;51;3;8
+355;Junior Messias;brBRA;FW,MF;Milan;30;1991;15.9;2;0;0;21;24;3;52;17;18;0;1;0;88;28;33
+356;Kingsley Michael;ngNGA;MF;Bologna;21;1999;0.8;0;0;0;0;1;0;0;1;1;0;0;0;5;0;3
+357;Valentin Mihaila;roROU;MF,FW;Atalanta;21;2000;0.8;0;0;0;2;0;0;3;0;1;0;0;0;4;1;4
+358;Mikael;brBRA;FW,MF;Salernitana;22;1999;1.0;0;0;0;3;2;0;0;0;1;0;0;0;4;6;7
+359;Hilmir Mikaelsson;isISL;FW;Venezia;17;2004;0.2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+360;Nikola Milenković;rsSRB;DF;Fiorentina;23;1997;32.5;10;1;1;48;21;0;2;39;32;0;1;0;172;98;32
+361;Sergej Milinković-Savić;rsSRB;MF;Lazio;26;1995;34.4;6;1;1;56;45;4;45;34;44;0;0;0;200;100;69
+362;Vanja Milinković-Savić;rsSRB;GK;Torino;24;1997;27.0;3;0;0;2;2;0;0;0;0;0;2;0;32;3;1
+363;Aleksei Miranchuk;ruRUS;MF,FW;Atalanta;25;1995;8.6;0;0;0;14;19;3;17;1;7;0;0;0;36;9;14
+364;Fabio Miretti;itITA;MF;Juventus;17;2003;3.6;0;0;0;4;4;0;6;2;2;0;0;0;18;3;5
+365;Henrikh Mkhitaryan;amARM;MF,FW;Roma;32;1989;27.7;4;1;1;41;51;5;46;22;29;1;0;0;195;13;15
+366;Marco Modolo;itITA;DF;Venezia;32;1989;4.4;2;0;0;6;3;0;0;4;3;0;0;0;19;9;7
+367;Nahuel Molina;arARG;DF;Udinese;23;1998;29.3;7;1;1;31;16;1;117;22;24;0;0;0;158;10;19
+368;Cristian Molinaro;itITA;DF;Venezia;38;1983;6.1;0;0;0;7;8;1;16;6;9;0;0;0;22;4;2
+369;Lorenzo Montipò;itITA;GK;Hellas Verona;25;1996;34.0;1;0;0;0;5;0;0;1;0;0;0;0;30;11;2
+370;Álvaro Morata;esESP;FW;Juventus;28;1992;25.6;5;0;0;48;77;20;20;5;9;2;1;0;88;36;33
+371;Raúl Moro;esESP;FW;Lazio;18;2002;2.2;0;0;0;0;0;0;2;0;3;0;0;0;6;0;0
+372;Andrei Motoc;roROU;DF;Salernitana;19;2002;1.0;0;0;0;0;2;0;0;2;1;0;0;0;4;0;1
+373;Lys Mousset;frFRA;MF,FW;Salernitana;25;1996;1.8;2;0;0;4;2;1;0;0;0;0;1;0;5;0;5
+374;Samuel Mráz;skSVK;FW;Spezia;24;1997;0.6;0;0;0;2;0;1;0;0;0;0;0;0;4;2;3
+375;Mert Müldür;trTUR;DF;Sassuolo;22;1999;22.7;5;0;0;24;15;0;40;24;35;0;0;0;117;9;20
+376;Luis Muriel;coCOL;FW,MF;Atalanta;30;1991;17.1;1;0;0;14;27;7;75;4;4;0;0;0;65;30;32
+377;Vedat Muriqi;xkKVX;FW;Lazio;27;1994;2.4;1;0;0;5;9;1;0;0;0;1;0;0;6;11;14
+378;Nicola Murru;itITA;DF;Sampdoria;26;1994;10.9;5;0;0;22;6;2;23;7;17;0;1;0;56;11;7
+379;Juan Musso;arARG;GK;Atalanta;27;1994;32.6;1;1;0;3;1;0;0;0;1;0;1;0;26;6;0
+380;Joakim Mæhle;dkDEN;DF,MF;Atalanta;24;1997;16.3;2;0;0;10;25;1;27;14;11;0;1;0;126;11;14
+381;Nahitan Nández;uyURU;MF,DF;Cagliari;25;1995;16.9;4;0;0;27;33;12;65;9;21;0;0;0;86;44;49
+382;Nani;ptPOR;MF,FW;Venezia;34;1986;3.2;1;0;0;2;8;0;14;2;1;0;0;0;20;5;3
+383;Matija Nastasić;rsSRB;DF;Fiorentina;28;1993;2.4;1;0;0;2;0;0;0;5;1;0;0;0;13;3;1
+384;Ilija Nestorovski;mkMKD;FW;Udinese;31;1990;2.1;1;0;0;3;7;2;2;0;0;0;0;0;4;3;8
+385;Aurélien Nguiamba;frFRA;MF;Spezia;22;1999;0.6;1;0;0;1;0;0;0;0;2;0;0;0;6;0;3
+386;Dimitris Nikolaou;grGRE;DF;Spezia;22;1998;36.0;7;0;0;31;20;0;7;49;26;0;1;1;247;39;50
+387;Jean-Pierre Nsame;cmCMR;FW;Venezia;28;1993;2.7;0;0;0;6;3;3;1;0;1;1;0;0;6;16;15
+388;Bram Nuytinck;nlNED;DF;Udinese;31;1990;22.6;2;0;0;16;4;0;6;22;24;0;0;0;101;33;29
+389;Simeon Nwankwo;ngNGA;FW;Salernitana;29;1992;9.4;0;0;0;12;14;9;2;3;5;0;0;0;15;19;37
+390;M'Bala Nzola;aoANG;FW;Spezia;24;1996;11.9;2;0;0;30;7;14;4;0;2;0;1;0;24;28;48
+391;Adam Obert;skSVK;DF,MF;Cagliari;18;2002;3.0;0;0;0;6;0;0;2;4;5;0;0;0;13;3;7
+392;Joel Obi;ngNGA;MF,DF;Salernitana;30;1991;12.7;4;0;0;32;21;0;25;10;14;0;0;0;56;16;16
+393;Brian Oddei;itITA;FW;Sassuolo;18;2002;0.1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+394;Álvaro Odriozola;esESP;DF;Fiorentina;25;1995;19.3;4;1;0;15;12;1;52;8;15;1;1;0;88;1;18
+395;Stefano Okaka;itITA;FW;Udinese;31;1989;0.2;1;0;0;1;0;1;0;0;0;0;0;0;1;0;1
+396;David Okereke;ngNGA;FW,MF;Venezia;23;1997;22.8;5;1;0;30;32;9;27;10;10;1;0;0;73;33;59
+397;Christian Oliva;uyURU;MF;Cagliari;25;1996;0.5;0;0;0;0;0;0;0;0;2;0;0;0;6;0;1
+398;Sérgio Oliveira;ptPOR;MF;Roma;29;1992;9.9;5;0;0;12;25;0;32;10;14;0;0;0;64;8;6
+399;Riccardo Orsolini;itITA;FW,MF;Bologna;24;1997;19.8;2;0;0;20;44;13;90;5;14;0;0;0;73;26;35
+400;Victor Osimhen;ngNGA;FW;Napoli;22;1998;22.0;5;1;0;37;38;19;9;3;5;4;0;0;37;49;55
+401;David Ospina;coCOL;GK;Napoli;32;1988;31.0;1;0;0;0;10;0;0;1;0;0;0;0;48;9;2
+402;Adam Ounas;dzALG;MF,FW;Napoli;24;1996;3.6;1;0;0;9;10;0;16;2;1;0;0;0;23;1;3
+403;Daniele Padelli;itITA;GK;Udinese;35;1985;3.0;0;0;0;0;0;0;0;0;0;0;0;0;7;1;0
+404;Simone Pafundi;itITA;FW;Udinese;15;2006;0.3;0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+405;Martin Palumbo;noNOR;FW;Juventus;19;2002;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+406;Goran Pandev;mkMKD;FW,MF;Genoa;38;1983;9.4;1;0;0;5;37;6;3;2;0;0;0;0;41;6;19
+407;Ivor Pandur;hrCRO;GK;Hellas Verona;21;2000;3.0;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0
+408;Fabiano Parisi;itITA;DF;Empoli;20;2000;16.4;5;0;0;22;29;0;43;22;19;0;1;0;138;7;11
+409;Mario Pašalić;hrCRO;MF,FW;Atalanta;26;1995;22.2;3;0;0;30;14;6;4;20;12;0;0;0;107;50;47
+410;Patric;esESP;DF;Lazio;28;1993;18.3;7;1;1;24;7;0;1;12;15;0;0;1;97;17;32
+411;Rui Patrício;ptPOR;GK;Roma;33;1988;38.0;2;0;0;0;1;0;0;0;0;0;0;0;39;3;0
+412;Leonardo Pavoletti;itITA;FW;Cagliari;32;1988;16.9;9;0;0;45;29;4;3;2;6;1;0;0;50;126;121
+413;Pedro;esESP;FW;Lazio;34;1987;22.6;5;0;0;31;39;6;31;6;23;1;0;0;117;3;12
+414;João Pedro;itITA;FW;Cagliari;29;1992;36.9;9;0;0;68;85;31;14;8;12;1;0;0;112;63;113
+415;Gianluca Pegolo;itITA;GK;Sassuolo;40;1981;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+416;Pietro Pellegri;itITA;FW;Torino;20;2001;2.4;1;0;0;10;6;4;0;0;1;0;0;0;4;9;17
+417;Pietro Pellegri;itITA;FW;Milan;20;2001;1.5;0;0;0;7;2;2;0;0;2;0;0;0;4;3;1
+418;Lorenzo Pellegrini;itITA;MF;Roma;25;1996;25.4;8;1;1;46;49;9;172;27;14;0;0;0;126;17;26
+419;Luca Pellegrini;itITA;DF;Juventus;22;1999;12.3;6;0;0;23;21;0;54;5;10;0;0;0;73;9;8
+420;Federico Peluso;itITA;DF;Sassuolo;37;1984;0.1;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0
+421;Gastón Pereiro;uyURU;FW,MF;Cagliari;26;1995;10.8;1;0;0;16;4;2;40;1;5;0;0;0;36;23;30
+422;Dor Peretz;ilISR;MF;Venezia;26;1995;6.5;2;0;0;10;8;0;2;8;18;0;0;0;25;8;9
+423;Roberto Pereyra;arARG;MF,FW;Udinese;30;1991;19.9;10;1;1;33;34;1;23;12;12;0;0;0;116;1;12
+424;Carles Pérez;esESP;MF,FW;Roma;23;1998;6.2;2;0;0;13;7;0;19;2;3;0;0;0;20;0;10
+425;Nehuén Pérez;arARG;DF;Udinese;21;2000;18.8;6;0;0;30;9;0;2;21;21;0;1;0;104;28;36
+426;Mattia Perin;itITA;GK;Juventus;28;1992;4.5;0;0;0;0;1;0;0;0;0;0;0;0;6;0;0
+427;Ivan Perišić;hrCRO;DF;Inter;32;1989;31.3;4;0;0;29;6;13;150;47;22;0;0;0;167;55;32
+428;Diego Perotti;arARG;MF,FW;Salernitana;33;1988;3.2;1;0;0;5;10;0;22;2;5;0;0;0;17;4;6
+429;Mario Perrone;itITA;DF;Salernitana;18;2003;0.2;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+430;Matteo Pessina;itITA;MF,FW;Atalanta;24;1997;16.0;0;0;0;16;35;4;10;13;14;0;0;0;134;28;29
+431;Andrea Petagna;itITA;FW;Napoli;26;1995;6.5;1;0;0;15;14;2;3;0;3;0;0;0;15;17;20
+432;Giuseppe Pezzella;itITA;DF,MF;Atalanta;23;1997;11.9;3;0;0;19;30;2;37;9;13;0;0;0;82;14;14
+433;Krzysztof Piątek;plPOL;FW;Fiorentina;26;1995;8.1;0;0;0;7;16;3;5;2;4;0;0;0;16;18;27
+434;Roberto Piccoli;itITA;FW;Genoa;20;2001;2.4;0;0;0;3;0;1;1;1;1;0;0;0;8;12;17
+435;Roberto Piccoli;itITA;FW;Atalanta;20;2001;2.2;0;0;0;0;3;3;0;0;0;0;0;0;7;5;16
+436;Andrea Pinamonti;itITA;FW;Empoli;22;1999;31.9;4;0;0;32;56;19;28;7;6;1;0;0;62;75;128
+437;Carlo Pinsoglio;itITA;GK;Juventus;31;1990;0.5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+438;Riccardo Pinzi;itITA;FW;Udinese;17;2003;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+439;Marko Pjaca;hrCRO;MF;Torino;26;1995;12.8;0;0;0;11;14;2;17;4;4;0;0;0;60;20;28
+440;Tommaso Pobega;itITA;MF;Torino;22;1999;24.9;11;0;0;75;39;2;16;25;30;1;0;0;147;77;79
+441;Suf Podgoreanu;ilISR;FW;Spezia;19;2002;1.3;0;0;0;2;2;0;7;1;0;0;0;0;4;2;0
+442;Matteo Politano;itITA;FW;Napoli;27;1993;18.3;3;0;0;14;28;4;108;13;12;0;0;0;73;7;13
+443;Manolo Portanova;itITA;FW,MF;Genoa;21;2000;14.7;4;0;0;45;26;5;40;17;28;0;0;0;75;23;33
+444;Dennis Praet;beBEL;MF;Torino;27;1994;17.1;3;0;0;21;17;3;45;3;10;0;0;0;71;8;19
+445;Mateusz Praszelik;plPOL;MF;Hellas Verona;20;2000;0.3;0;0;0;2;1;0;0;0;0;0;0;0;2;0;0
+446;Ivan Provedel;itITA;GK;Spezia;27;1994;30.7;2;0;0;2;4;0;0;2;0;0;2;1;50;6;0
+447;Erick Pulgar;clCHI;MF;Fiorentina;27;1994;3.8;2;0;0;5;3;0;5;5;6;0;0;0;31;4;7
+448;Ignacio Pussetto;arARG;FW,MF;Udinese;25;1995;13.4;4;0;0;30;27;9;21;4;9;1;0;0;39;31;51
+449;Niklas Pyyhtiä;fiFIN;MF;Bologna;17;2003;0.2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1
+450;Fabio Quagliarella;itITA;FW;Sampdoria;38;1983;18.5;2;0;0;20;28;15;21;3;2;0;0;0;51;18;36
+451;Adrien Rabiot;frFRA;MF;Juventus;26;1995;25.4;5;0;0;45;28;4;25;20;43;0;1;0;150;49;30
+452;Ivan Radovanović;rsSRB;DF,MF;Salernitana;32;1988;11.7;4;0;0;9;10;0;4;7;7;0;0;0;60;17;13
+453;Ionuț Radu;roROU;GK;Inter;24;1997;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+454;Ștefan Radu;roROU;DF;Lazio;34;1986;6.2;2;0;0;4;5;0;7;5;6;0;0;0;38;7;9
+455;Boris Radunović;rsSRB;GK;Cagliari;25;1996;3.0;0;1;0;0;1;0;0;0;0;0;0;0;4;0;0
+456;Antonio Raimondo;itITA;FW;Bologna;17;2004;0.8;0;0;0;3;0;3;0;0;0;0;0;0;2;0;3
+457;Aaron Ramsey;wlsWAL;MF;Juventus;30;1990;1.1;0;0;0;2;1;0;0;1;0;0;0;0;4;0;0
+458;Luca Ranieri;itITA;DF;Salernitana;22;1999;23.4;9;0;0;16;10;2;66;22;21;0;0;0;103;18;16
+459;Andrea Ranocchia;itITA;DF;Inter;33;1988;3.8;1;0;0;4;2;1;0;4;4;0;0;0;14;16;7
+460;Giacomo Raspadori;itITA;MF,FW;Sassuolo;21;2000;30.4;9;1;1;29;33;4;63;9;18;1;0;0;126;9;18
+461;Nicola Ravaglia;itITA;GK;Sampdoria;32;1988;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+462;Ante Rebić;hrCRO;FW;Milan;27;1993;9.9;2;0;0;18;9;8;28;3;8;0;0;0;25;13;22
+463;Arkadiusz Reca;plPOL;DF;Spezia;26;1995;19.7;3;0;0;23;13;0;37;32;19;0;1;0;98;18;28
+464;Pepe Reina;esESP;GK;Lazio;38;1982;15.0;3;0;0;1;1;0;0;0;0;0;1;0;7;5;0
+465;Panagiotis Retsos;grGRE;DF;Hellas Verona;22;1998;0.6;0;0;0;1;1;0;1;2;0;0;0;0;3;0;0
+466;Bryan Reynolds;usUSA;DF;Roma;20;2001;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+467;Franck Ribéry;frFRA;MF,FW;Salernitana;38;1983;15.8;3;1;0;31;39;2;43;3;10;0;0;0;82;4;13
+468;Samuele Ricci;itITA;MF;Torino;19;2001;8.0;1;0;0;14;13;2;0;14;4;0;0;0;40;1;5
+469;Samuele Ricci;itITA;MF;Empoli;19;2001;17.0;1;1;0;17;42;0;6;31;19;0;0;0;121;3;4
+470;Tomás Rincón;veVEN;MF;Torino;33;1988;1.8;2;0;0;5;2;0;1;2;2;0;0;0;11;3;5
+471;Tomás Rincón;veVEN;MF;Sampdoria;33;1988;13.0;3;0;0;22;31;0;5;18;13;0;0;0;75;14;11
+472;Ricardo Rodríguez;chSUI;DF;Torino;28;1992;27.5;3;0;0;26;11;0;65;41;21;0;1;0;163;53;34
+473;Marko Rog;hrCRO;MF;Cagliari;26;1995;3.5;0;0;0;11;14;0;3;1;3;0;0;0;19;4;5
+474;Rogério;brBRA;DF;Sassuolo;23;1998;19.2;5;0;0;15;34;1;82;18;13;0;0;0;95;10;15
+475;Alessio Romagnoli;itITA;DF;Milan;26;1995;15.7;4;1;0;17;13;3;1;19;14;0;1;0;79;46;19
+476;Simone Romagnoli;itITA;DF;Empoli;31;1990;16.6;3;0;0;17;5;0;1;9;12;0;1;1;103;54;33
+477;Luka Romero;arARG;FW;Lazio;16;2004;0.9;0;0;0;2;3;0;1;1;1;0;0;0;4;0;1
+478;Sergio Romero;arARG;GK;Venezia;34;1987;16.0;2;0;0;1;1;0;0;1;2;0;1;0;13;6;1
+479;Cristiano Ronaldo;ptPOR;FW;Juventus;36;1985;0.3;1;0;0;0;1;1;0;0;0;0;0;0;2;0;0
+480;Marten de Roon;nlNED;MF,DF;Atalanta;30;1991;28.3;7;1;1;50;15;0;7;45;42;0;0;0;212;52;34
+481;Francesco Rossi;itITA;GK;Atalanta;30;1991;0.4;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+482;Nicolò Rovella;itITA;MF;Genoa;19;2001;16.3;5;0;0;26;24;3;110;20;26;0;0;0;118;5;15
+483;Amir Rrahmani;xkKVX;DF;Napoli;27;1994;32.5;5;0;0;23;23;0;0;19;11;0;0;0;174;78;50
+484;Ruan;brBRA;DF;Sassuolo;22;1999;2.4;1;0;0;4;8;0;1;2;4;0;1;0;22;7;8
+485;Daniele Rugani;itITA;DF;Juventus;27;1994;9.8;2;0;0;11;1;0;0;11;5;0;0;0;43;16;14
+486;Matteo Ruggeri;itITA;DF;Salernitana;19;2002;7.5;1;0;0;1;2;1;29;2;4;0;0;0;40;9;7
+487;Mário Rui;ptPOR;DF;Napoli;30;1991;33.2;7;0;0;31;60;4;80;40;43;0;0;0;173;14;31
+488;Fabián Ruiz Peña;esESP;MF;Napoli;25;1996;26.5;2;0;0;21;18;1;17;22;33;0;0;0;203;8;12
+489;Alessandro Russo;itITA;MF;Salernitana;17;2003;0.3;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+490;Stefano Sabelli;itITA;DF;Genoa;28;1993;3.9;3;0;0;6;8;0;9;3;3;0;1;0;19;3;4
+491;Abdelhamid Sabiri;maMAR;MF,FW;Sampdoria;24;1996;9.9;3;0;0;21;34;1;15;7;18;0;0;0;39;26;26
+492;Alexis Saelemaekers;beBEL;FW;Milan;22;1999;20.7;2;0;0;29;37;1;63;15;22;0;0;0;120;9;14
+493;Jacopo Sala;itITA;MF;Spezia;29;1991;9.8;3;0;0;11;12;1;6;14;11;0;1;0;71;4;4
+494;Eddie Salcedo;itITA;MF,FW;Spezia;19;2001;4.8;1;0;0;8;6;2;13;0;1;0;0;0;14;11;10
+495;Lazar Samardzic;deGER;MF,FW;Udinese;19;2002;5.4;0;0;0;11;3;0;32;2;9;0;0;0;33;6;5
+496;Luigi Samele;itITA;FW;Sassuolo;19;2002;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+497;Antonio Sanabria;pyPAR;FW;Torino;25;1996;20.0;3;0;0;26;34;21;3;2;2;2;0;0;52;78;124
+498;Alexis Sánchez;clCHI;FW;Inter;32;1988;9.8;0;0;0;10;21;8;35;2;8;0;0;0;36;10;16
+499;Alex Sandro;brBRA;DF;Juventus;30;1991;19.8;3;0;0;31;34;1;35;27;16;1;0;1;113;31;20
+500;Nicola Sansone;itITA;FW,MF;Bologna;29;1991;10.0;6;0;0;16;21;6;52;4;7;2;0;0;52;7;18
+501;Federico Santander;pyPAR;FW,DF;Bologna;30;1991;0.7;1;0;0;2;5;0;1;0;1;0;0;0;3;8;7
+502;Samir Santos;brBRA;DF;Udinese;26;1994;15.8;5;0;0;33;16;0;12;42;16;0;0;0;77;40;17
+503;Riccardo Saponara;itITA;FW;Fiorentina;29;1991;14.3;1;0;0;6;24;4;28;1;2;1;0;0;59;5;9
+504;Giacomo Satalino;itITA;GK;Sassuolo;22;1999;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+505;Martin Satriano;uyURU;FW,MF;Inter;20;2001;0.4;0;0;0;1;0;0;0;0;0;0;0;0;2;1;3
+506;Giorgio Scalvini;itITA;DF,MF;Atalanta;17;2003;8.5;1;0;0;15;7;0;3;22;11;0;0;0;56;20;17
+507;Gianluca Scamacca;itITA;FW;Sassuolo;22;1999;23.8;7;0;0;49;20;10;11;5;14;0;0;0;46;51;39
+508;Andrea Schiavone;itITA;MF;Salernitana;28;1993;6.3;1;0;0;10;5;0;29;8;8;0;0;0;29;3;3
+509;David Schnegg;atAUT;DF;Venezia;22;1998;1.6;1;0;0;3;0;1;3;3;0;0;0;0;16;2;3
+510;Jerdy Schouten;nlNED;MF;Bologna;24;1997;15.5;4;1;1;17;7;0;1;33;17;0;0;0;102;28;18
+511;Demba Seck;snSEN;MF,FW;Torino;20;2001;1.6;0;0;0;2;2;2;2;0;1;0;0;0;5;1;3
+512;Adrian Šemper;hrCRO;GK;Genoa;23;1998;1.0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0
+513;Stefano Sensi;itITA;MF,FW;Sampdoria;25;1995;8.4;1;0;0;18;24;0;6;6;9;0;0;0;48;8;4
+514;Stefano Sensi;itITA;MF,FW;Inter;25;1995;1.9;0;0;0;4;5;1;2;0;3;0;0;0;14;2;2
+515;Luigi Sepe;itITA;GK;Salernitana;30;1991;15.5;2;0;0;0;3;0;0;1;0;0;0;0;20;3;0
+516;Laurens Serpe;itITA;DF;Genoa;20;2001;0.5;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+517;Stephan El Shaarawy;itITA;FW,DF;Roma;28;1992;11.7;1;0;0;8;12;3;18;11;8;0;0;0;63;14;15
+518;Aimar Sher;seSWE;MF;Spezia;18;2002;0.5;0;0;0;0;0;0;0;3;1;0;0;0;3;1;1
+519;Eldor Shomurodov;uzUZB;FW,MF;Roma;26;1995;8.7;2;0;0;16;6;4;11;2;4;0;0;0;28;22;33
+520;Alassane Sidibe;ciCIV;MF;Atalanta;19;2002;0.1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+521;Arnór Sigurðsson;isISL;FW,MF;Venezia;22;1999;2.0;0;0;0;2;1;0;3;1;1;0;0;0;12;0;7
+522;Adrien Silva;ptPOR;MF;Sampdoria;32;1989;12.0;3;1;0;13;17;0;6;23;12;0;0;0;97;11;11
+523;Marco Silvestri;itITA;GK;Udinese;30;1991;35.0;1;0;0;1;6;0;0;1;0;0;1;0;27;7;0
+524;Giovanni Simeone;arARG;FW;Hellas Verona;26;1995;29.5;8;0;0;56;58;34;26;6;15;1;0;0;81;60;108
+525;Giovanni Simeone;arARG;FW;Cagliari;26;1995;0.1;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0
+526;Wilfried Singo;ciCIV;DF;Torino;20;2000;29.0;5;1;0;43;59;8;80;23;35;0;0;0;170;42;33
+527;Salvatore Sirigu;itITA;GK;Genoa;34;1987;37.0;0;0;0;0;3;0;0;0;1;0;0;1;28;5;0
+528;Leo Skiri Østigård;noNOR;DF;Genoa;21;1999;13.0;4;2;1;15;6;3;0;8;9;0;0;0;85;63;19
+529;Łukasz Skorupski;plPOL;GK;Bologna;30;1991;36.0;4;0;0;2;5;0;0;0;0;0;2;0;40;15;1
+530;Andreas Skov Olsen;dkDEN;FW,DF;Bologna;21;1999;8.3;0;0;0;4;15;0;37;3;10;0;0;0;48;4;10
+531;Milan Škriniar;skSVK;DF;Inter;26;1995;35.0;3;0;0;43;23;2;3;25;27;0;1;0;160;51;52
+532;Chris Smalling;engENG;DF;Roma;31;1989;23.2;0;0;0;9;17;0;2;26;23;0;0;1;106;49;13
+533;Brandon Soppy;frFRA;DF,MF;Udinese;19;2002;8.6;4;0;0;23;33;0;13;5;9;0;0;0;47;6;13
+534;Roberto Soriano;itITA;MF;Bologna;30;1991;29.1;6;2;1;49;47;3;34;22;30;0;1;0;139;24;46
+535;Riccardo Sottil;itITA;FW;Fiorentina;22;1999;13.8;4;1;1;15;40;7;47;1;4;0;0;0;32;7;13
+536;Matìas Soulé;arARG;FW;Juventus;18;2003;0.1;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+537;Adama Soumaoro;frFRA;DF;Bologna;29;1992;25.2;6;2;0;24;16;1;2;34;5;0;1;1;108;45;16
+538;Leonardo Spinazzola;itITA;DF;Roma;28;1993;1.4;1;0;0;1;0;0;4;0;0;0;0;0;8;0;1
+539;Marco Sportiello;itITA;GK;Atalanta;29;1992;5.0;1;0;0;0;1;0;0;0;0;0;0;0;4;1;0
+540;Luca Stanga;itITA;DF;Milan;19;2002;0.0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+541;Riccardo Stivanello;itITA;DF;Bologna;17;2004;0.5;0;0;0;0;1;0;0;0;1;0;0;0;4;1;1
+542;Petar Stojanović;siSVN;DF;Empoli;25;1995;30.4;11;1;1;45;22;2;68;27;63;0;2;0;203;14;19
+543;Thomas Strakosha;alALB;GK;Lazio;26;1995;23.0;2;0;0;2;0;0;0;0;0;0;1;0;27;6;0
+544;Stefan Strandberg;noNOR;DF;Salernitana;31;1990;10.4;2;1;1;8;2;1;4;9;8;0;1;1;57;30;14
+545;Dávid Strelec;skSVK;FW,MF;Spezia;20;2001;5.6;0;0;0;4;6;2;5;2;4;0;0;0;31;11;14
+546;Kevin Strootman;nlNED;MF;Cagliari;31;1990;7.1;4;0;0;10;10;0;2;10;4;0;1;0;42;5;6
+547;Jens Stryger Larsen;dkDEN;DF;Udinese;30;1991;7.6;0;0;0;3;3;1;20;4;2;0;0;1;22;4;6
+548;Leo Štulac;siSVN;MF;Empoli;26;1994;9.3;1;0;0;7;16;0;25;8;6;0;0;0;49;5;6
+549;Stefano Sturaro;itITA;MF;Genoa;28;1993;19.6;12;0;0;53;37;4;37;15;26;0;0;0;96;50;50
+550;Isaac Success;ngNGA;FW,MF;Udinese;25;1996;10.1;1;1;0;24;39;5;6;2;2;0;1;0;26;16;36
+551;Vladyslav Supriaha;uaUKR;FW;Sampdoria;21;2000;0.2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+552;Bosko Sutalo;hrCRO;DF;Hellas Verona;21;2000;10.2;0;0;0;12;9;1;10;17;13;0;0;0;81;20;26
+553;Mattias Svanberg;seSWE;MF;Bologna;22;1999;28.5;7;0;0;37;63;0;50;28;15;0;0;0;132;22;33
+554;Michael Svoboda;atAUT;DF;Venezia;22;1998;13.7;2;1;0;9;4;0;1;10;17;0;2;0;98;26;27
+555;Wojciech Szczęsny;plPOL;GK;Juventus;31;1990;33.0;2;0;0;2;4;0;0;0;1;0;2;0;29;9;0
+556;Adrien Tameze;cmCMR;MF,DF;Hellas Verona;27;1994;28.6;4;0;0;33;34;2;31;52;29;0;0;0;233;61;55
+557;Ciprian Tătărușanu;roROU;GK;Milan;35;1986;6.0;0;0;0;0;0;0;0;0;0;0;0;0;8;0;0
+558;Filippo Terracciano;itITA;DF;Hellas Verona;18;2003;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+559;Pietro Terracciano;itITA;GK;Fiorentina;31;1990;31.8;0;0;0;0;5;0;0;2;0;0;0;0;44;13;2
+560;Aleksa Terzić;rsSRB;DF;Fiorentina;21;1999;3.0;1;0;0;4;2;0;20;4;5;0;0;0;25;9;3
+561;Tanner Tessmann;usUSA;MF;Venezia;19;2001;7.6;1;1;0;10;8;0;4;5;5;0;0;0;51;8;17
+562;Arthur Theate;beBEL;DF;Bologna;21;2000;26.9;6;0;0;26;10;1;18;43;19;0;1;0;181;39;39
+563;Morten Thorsby;noNOR;MF;Sampdoria;25;1996;32.7;10;0;0;81;37;0;0;25;26;0;0;0;151;166;135
+564;Jeremy Toljan;deGER;DF;Sassuolo;26;1994;15.5;2;0;0;8;7;0;22;12;10;0;1;0;75;9;13
+565;Rafael Tolói;itITA;DF;Atalanta;30;1990;16.0;6;0;0;27;10;0;10;26;15;0;1;0;122;38;11
+566;Takehiro Tomiyasu;jpJPN;DF;Bologna;22;1998;0.1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;1
+567;Fikayo Tomori;engENG;DF;Milan;23;1997;30.2;4;0;0;19;11;0;3;45;44;0;0;0;183;51;48
+568;Sandro Tonali;itITA;MF;Milan;21;2000;28.9;9;0;0;45;50;3;108;34;37;0;0;0;189;10;14
+569;Lorenzo Tonelli;itITA;DF;Empoli;31;1990;9.7;4;0;0;9;24;1;1;19;9;0;0;1;54;28;19
+570;Ernesto Torregrossa;veVEN;FW;Sampdoria;29;1992;1.3;1;0;0;7;7;5;0;0;1;0;0;0;3;3;3
+571;Lucas Torreira;uyURU;MF;Fiorentina;25;1996;24.4;10;1;1;38;44;2;6;26;29;1;0;0;153;18;26
+572;Abdoulaye Touré;frFRA;MF;Genoa;27;1994;4.8;1;0;0;3;9;0;3;4;4;0;0;0;27;5;4
+573;Simone Trimboli;itITA;MF;Sampdoria;19;2002;0.7;1;0;0;2;0;0;0;2;1;0;1;0;5;1;1
+574;Axel Tuanzebe;engENG;DF;Napoli;23;1997;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+575;Iyenoma Udogie;itITA;DF;Udinese;18;2002;27.5;4;0;0;36;34;4;17;27;40;0;0;0;156;27;28
+576;Maximilian Ullmann;atAUT;DF;Venezia;25;1996;2.7;0;0;0;2;1;0;4;2;0;0;0;0;10;1;5
+577;Kacper Urbanski;plPOL;MF;Bologna;16;2004;0.5;0;0;0;2;0;0;1;0;2;0;0;0;5;0;2
+578;Antonio Vacca;itITA;MF;Venezia;31;1990;11.8;5;0;0;21;9;0;0;20;20;0;0;0;111;4;11
+579;Zinho Vanheusden;beBEL;DF;Genoa;22;1999;11.0;3;0;0;10;10;0;5;23;6;0;1;1;47;23;17
+580;Johan Vásquez;mxMEX;DF;Genoa;22;1998;25.3;7;0;0;31;26;1;17;42;46;0;0;0;166;59;61
+581;Denis Vavro;skSVK;DF;Lazio;25;1996;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+582;Matías Vecino;uyURU;MF;Inter;29;1991;4.2;2;0;0;9;3;0;5;4;5;0;0;0;20;17;12
+583;Miguel Veloso;ptPOR;MF;Hellas Verona;35;1986;14.9;7;1;1;18;6;0;74;11;15;0;0;0;125;26;22
+584;Lorenzo Venuti;itITA;DF;Fiorentina;26;1995;17.5;4;0;0;15;32;0;29;5;10;0;0;1;76;9;8
+585;Daniele Verde;itITA;FW,MF;Spezia;25;1996;21.7;2;0;0;3;15;12;141;18;4;0;0;0;102;1;0
+586;Simone Verdi;itITA;MF,FW;Torino;29;1992;0.5;0;0;0;1;1;1;3;0;1;0;0;0;4;0;1
+587;Simone Verdi;itITA;FW,MF;Salernitana;29;1992;9.2;3;0;0;11;20;1;69;3;8;0;0;0;45;5;11
+588;Jordan Veretout;frFRA;MF;Roma;28;1993;25.8;6;0;0;18;22;1;102;27;25;0;0;0;147;16;12
+589;Edoardo Vergani;itITA;FW,MF;Salernitana;20;2001;1.1;0;0;0;3;1;1;0;0;2;0;0;0;2;1;1
+590;Valerio Verre;itITA;MF,FW;Sampdoria;27;1994;4.7;0;0;0;8;10;0;16;0;5;0;0;0;35;6;7
+591;Valerio Verre;itITA;MF;Empoli;27;1994;3.4;2;1;0;8;3;0;2;1;2;0;0;0;29;0;7
+592;Freddie Veseli;alALB;DF;Salernitana;28;1992;6.6;3;1;1;7;1;0;4;4;2;0;2;0;27;7;4
+593;Guglielmo Vicario;itITA;GK;Empoli;24;1996;38.0;1;0;0;1;7;0;0;1;1;0;1;0;50;12;1
+594;Arturo Vidal;clCHI;MF;Inter;34;1987;8.2;3;0;0;17;10;1;4;7;10;0;0;0;68;10;14
+595;Ronaldo Vieira;gwGNB;MF;Sampdoria;23;1998;5.5;3;0;0;11;4;0;1;5;6;;;0;;;
+596;Luca Vignali;itITA;DF,MF;Spezia;25;1996;0.9;0;0;0;0;0;1;2;1;1;0;0;0;6;1;2
+597;Emanuel Vignato;itITA;MF,DF;Bologna;20;2000;6.6;2;0;0;5;3;0;12;2;7;0;0;0;40;6;4
+598;Matías Viña;uyURU;DF,FW;Roma;23;1997;17.4;2;0;0;9;20;2;35;25;30;0;0;0;100;17;20
+599;Nicolas Viola;itITA;MF;Bologna;31;1989;1.1;0;0;0;2;2;0;5;0;2;0;0;0;15;3;0
+600;Mattia Viti;itITA;DF;Empoli;19;2002;16.6;3;1;1;15;13;1;0;29;16;0;0;1;83;29;33
+601;Dušan Vlahović;rsSRB;FW;Fiorentina;21;2000;20.6;2;0;0;19;49;19;16;1;0;0;0;0;37;40;33
+602;Dušan Vlahović;rsSRB;FW;Juventus;21;2000;12.0;2;0;0;8;20;12;8;0;0;0;0;0;26;19;21
+603;Mërgim Vojvoda;xkKVX;DF;Torino;26;1995;22.0;3;0;0;21;9;1;71;20;23;0;0;0;126;24;30
+604;Cristian Volpato;itITA;FW,MF;Roma;17;2003;0.4;0;0;0;1;1;0;2;0;1;0;0;0;3;0;2
+605;Stefan de Vrij;nlNED;DF;Inter;29;1992;26.8;3;0;0;19;6;0;2;32;29;0;1;1;158;68;47
+606;Walace;brBRA;MF;Udinese;26;1995;33.0;6;1;0;47;37;1;9;54;49;0;1;0;285;20;23
+607;Sebastian Walukiewicz;plPOL;DF;Cagliari;21;2000;3.4;1;0;0;4;3;0;1;7;5;0;0;0;14;2;1
+608;Magnus Warming;dkDEN;MF,FW;Torino;21;2000;0.6;0;0;0;1;0;1;5;0;1;0;0;0;3;1;2
+609;Kelvin Yeboah;itITA;FW,MF;Genoa;21;2000;9.4;2;0;0;28;30;7;10;1;7;1;0;0;34;31;43
+610;Gerard Yepes;esESP;MF,DF;Sampdoria;18;2002;0.2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1
+611;Maya Yoshida;jpJPN;DF;Sampdoria;32;1988;20.3;2;0;0;20;9;0;4;28;10;0;0;1;119;39;23
+612;Mattia Zaccagni;itITA;MF;Hellas Verona;26;1995;2.0;0;0;0;1;7;0;10;4;1;1;0;0;8;4;2
+613;Mattia Zaccagni;itITA;FW;Lazio;26;1995;20.8;6;0;0;29;74;2;41;20;16;1;0;0;86;12;19
+614;Denis Zakaria;chSUI;MF;Juventus;24;1996;6.6;1;0;0;11;4;0;5;11;7;0;0;0;27;2;8
+615;Nicola Zalewski;plPOL;DF;Roma;19;2002;8.8;1;0;0;9;20;1;31;16;19;0;0;0;66;2;10
+616;Andre-Frank Zambo Anguissa;cmCMR;MF;Napoli;25;1995;21.4;5;0;0;38;28;0;9;24;26;0;0;0;139;29;21
+617;Nicolò Zaniolo;itITA;FW,MF;Roma;22;1999;21.9;12;2;1;52;63;10;67;7;15;3;0;0;80;19;23
+618;Alessandro Zanoli;itITA;DF;Napoli;20;2000;5.1;2;0;0;9;2;0;4;4;7;0;0;0;23;4;3
+619;Mattia Zanotti;itITA;DF;Inter;18;2003;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+620;Duván Zapata;coCOL;FW;Atalanta;30;1991;19.1;3;0;0;29;27;10;25;3;2;0;0;0;35;46;44
+621;Gabriele Zappa;itITA;DF;Cagliari;21;1999;12.7;4;1;1;16;11;0;25;14;9;0;0;0;68;12;9
+622;Davide Zappacosta;itITA;DF;Atalanta;29;1992;26.1;6;0;0;31;31;7;88;12;22;2;0;0;124;5;12
+623;Simone Zaza;itITA;FW,DF;Torino;30;1991;1.4;1;0;0;5;2;2;1;0;2;0;0;0;6;10;8
+624;Marvin Zeegelaar;nlNED;DF;Udinese;30;1990;7.1;2;0;0;13;4;2;2;12;11;0;1;0;43;13;7
+625;Piotr Zieliński;plPOL;MF;Napoli;27;1994;23.2;1;0;0;19;28;1;35;8;12;0;0;0;76;3;14
+626;David Zima;czCZE;DF;Torino;20;2000;14.6;3;0;0;16;5;1;3;23;12;0;1;0;57;45;40
+627;Jeroen Zoet;nlNED;GK;Spezia;30;1991;7.0;0;0;0;1;3;0;0;0;0;0;1;0;5;2;1
+628;Nadir Zortea;itITA;DF,MF;Salernitana;22;1999;15.7;3;0;0;14;6;0;85;7;15;0;0;0;72;8;17
+629;Petar Zovko;baBIH;GK;Spezia;19;2002;0.3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+630;Szymon Żurkowski;plPOL;MF;Empoli;23;1997;25.6;5;0;0;41;67;0;23;35;33;0;1;0;162;24;32
+631;Milan Đurić;baBIH;FW;Salernitana;31;1990;24.1;6;0;0;24;45;6;2;2;1;1;0;0;40;242;83
+632;Filip Đuričić;rsSRB;MF,FW;Sassuolo;29;1992;7.5;1;0;0;10;14;2;0;4;10;0;0;0;34;3;5

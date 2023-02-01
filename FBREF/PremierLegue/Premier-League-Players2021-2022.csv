@@ -1,0 +1,568 @@
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+1;Max Aarons;engENG;DF;Norwich City;21;2000;32.0;8;0;0;27;52;1;50;28;44;0;2;1;154;13;50;20.6;Matches
+2;Che Adams;sctSCO;FW;Southampton;25;1996;22.7;0;0;0;29;40;7;8;8;6;0;0;0;70;62;91;40.5;Matches
+3;Rayan Aït Nouri;frFRA;DF,MF;Wolves;20;2001;20.3;4;0;0;14;20;3;96;22;36;1;0;0;128;17;13;56.7;Matches
+4;Kristoffer Ajer;noNOR;DF;Brentford;23;1998;22.2;5;0;0;12;16;0;17;26;18;0;0;0;109;49;31;61.3;Matches
+5;Nathan Aké;nlNED;DF;Manchester City;26;1995;10.3;0;0;0;9;2;0;1;8;9;0;0;0;43;37;12;75.5;Matches
+6;Marc Albrighton;engENG;FW,DF;Leicester City;31;1989;12.6;3;0;0;6;13;2;78;14;19;0;0;0;65;4;13;23.5;Matches
+7;Thiago Alcántara;esESP;MF;Liverpool;30;1991;17.0;2;0;0;19;13;0;4;26;29;0;0;0;126;31;12;72.1;Matches
+8;Trent Alexander-Arnold;engENG;DF;Liverpool;22;1998;31.7;2;0;0;12;7;11;273;43;23;0;0;0;235;15;13;53.6;Matches
+9;Alisson;brBRA;GK;Liverpool;28;1992;36.0;0;0;0;0;2;0;0;0;1;0;0;1;80;15;1;93.8;Matches
+10;Allan;brBRA;MF;Everton;30;1991;24.3;7;1;0;30;22;0;10;23;44;1;0;0;191;11;15;42.3;Matches
+11;Dele Alli;engENG;MF;Tottenham;25;1996;7.3;1;0;0;12;11;2;5;6;8;1;0;0;40;7;11;38.9;Matches
+12;Dele Alli;engENG;MF,FW;Everton;25;1996;3.8;3;0;0;9;7;2;1;6;2;0;0;0;24;9;8;52.9;Matches
+13;Miguel Almirón;pyPAR;MF,FW;Newcastle Utd;27;1994;19.1;2;0;0;17;25;9;20;20;29;0;0;0;96;5;14;26.3;Matches
+14;Marcos Alonso;esESP;DF;Chelsea;30;1990;24.1;8;0;0;25;28;3;149;43;29;0;1;0;139;40;28;58.8;Matches
+15;Steven Alzate;coCOL;MF;Brighton;22;1998;4.5;0;0;0;6;4;0;0;10;4;0;0;0;39;4;8;33.3;Matches
+16;Daniel Amartey;ghGHA;DF;Leicester City;26;1994;23.6;4;0;0;14;8;1;0;21;13;0;0;0;145;33;37;47.1;Matches
+17;Joachim Andersen;dkDEN;DF;Crystal Palace;25;1996;32.4;4;0;0;19;8;1;8;37;23;0;0;1;152;56;48;53.8;Matches
+18;Michail Antonio;jmJAM;FW;West Ham;31;1990;33.0;8;1;1;50;52;13;63;3;17;0;0;0;90;79;112;41.4;Matches
+19;Cameron Archer;engENG;FW,MF;Aston Villa;20;2001;0.3;0;0;0;3;0;0;0;0;0;0;0;0;1;1;1;50.0;Matches
+20;Alphonse Areola;frFRA;GK;West Ham;28;1993;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+21;Adam Armstrong;engENG;FW;Southampton;24;1997;15.7;1;0;0;13;6;2;18;3;4;1;0;0;36;13;23;36.1;Matches
+22;Stuart Armstrong;sctSCO;MF;Southampton;29;1992;16.4;1;0;0;11;20;1;35;8;19;1;0;0;94;3;11;21.4;Matches
+23;Kepa Arrizabalaga;esESP;GK;Chelsea;26;1994;4.0;0;0;0;0;1;0;0;0;0;0;0;0;3;1;0;100.0;Matches
+24;Harrison Ashby;sctSCO;DF;West Ham;19;2001;0.1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;;Matches
+25;Pierre-Emerick Aubameyang;gaGAB;FW;Arsenal;32;1989;11.5;3;0;0;15;8;10;11;0;5;0;0;0;22;25;28;47.2;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+26;Jordan Ayew;ghGHA;FW;Crystal Palace;29;1991;22.4;2;0;0;38;66;2;74;15;30;1;0;0;132;32;59;35.2;Matches
+27;Luke Ayling;engENG;DF;Leeds United;29;1991;25.2;4;1;0;22;19;2;31;28;42;0;1;0;187;34;50;40.5;Matches
+28;César Azpilicueta;esESP;DF;Chelsea;31;1989;23.0;3;0;0;25;5;2;47;23;28;0;1;0;110;46;29;61.3;Matches
+29;Daniel Bachmann;atAUT;GK;Watford;27;1994;12.0;0;0;0;1;1;0;0;1;0;0;1;0;10;2;0;100.0;Matches
+30;Leon Bailey;jmJAM;FW,MF;Aston Villa;23;1997;8.5;3;0;0;12;11;4;33;1;11;0;0;0;38;10;16;38.5;Matches
+31;Eric Bailly;ciCIV;DF;Manchester Utd;27;1994;2.4;1;0;0;2;0;0;0;3;4;0;0;1;10;6;2;75.0;Matches
+32;Folarin Balogun;engENG;FW;Arsenal;20;2001;0.8;0;0;0;0;1;1;0;0;1;0;0;0;2;1;3;25.0;Matches
+33;Patrick Bamford;engENG;FW;Leeds United;27;1993;6.2;2;0;0;5;5;5;3;2;0;0;0;0;12;5;14;26.3;Matches
+34;Shandon Baptiste;gdGRN;MF;Brentford;23;1998;10.1;2;1;1;6;11;1;8;11;4;0;0;0;62;7;18;28.0;Matches
+35;Ross Barkley;engENG;MF,FW;Chelsea;27;1993;2.0;0;0;0;2;4;0;7;1;0;0;0;0;17;6;2;75.0;Matches
+36;Ashley Barnes;engENG;FW;Burnley;31;1989;9.0;4;0;0;21;12;9;2;2;2;0;1;0;34;49;65;43.0;Matches
+37;Harvey Barnes;engENG;FW,MF;Leicester City;23;1997;23.3;2;0;0;19;20;10;45;5;16;0;0;0;93;24;41;36.9;Matches
+38;Lewis Bate;engENG;MF;Leeds United;18;2002;1.6;0;0;0;3;1;0;0;1;0;0;0;0;8;0;2;0.0;Matches
+39;Mads Bech Sørensen;dkDEN;DF;Brentford;22;1999;9.3;3;0;0;8;4;0;10;6;7;0;1;0;41;9;4;69.2;Matches
+40;Jan Bednarek;plPOL;DF;Southampton;25;1996;29.2;10;0;0;30;15;1;1;72;15;0;1;1;177;91;38;70.5;Matches
+41;Donny van de Beek;nlNED;MF;Manchester Utd;24;1997;0.8;0;0;0;2;2;0;0;2;4;0;0;0;7;1;2;33.3;Matches
+42;Donny van de Beek;nlNED;MF;Everton;24;1997;5.4;1;0;0;7;1;0;6;6;7;0;0;0;35;7;5;58.3;Matches
+43;Asmir Begović;baBIH;GK;Everton;34;1987;3.0;0;0;0;0;0;0;0;0;0;0;0;0;2;5;0;100.0;Matches
+44;Saïd Benrahma;dzALG;FW,MF;West Ham;25;1995;24.1;0;0;0;9;15;9;74;9;17;0;0;0;128;10;19;34.5;Matches
+45;Rodrigo Bentancur;uyURU;MF;Tottenham;24;1997;15.1;5;0;0;22;13;0;9;20;18;0;0;0;88;21;18;53.8;Matches
+46;Christian Benteke;beBEL;FW;Crystal Palace;30;1990;12.7;3;0;0;16;16;10;0;2;2;0;0;0;25;85;54;61.2;Matches
+47;Jóhann Berg Guðmundsson;isISL;MF;Burnley;30;1990;12.2;2;0;0;16;14;3;44;12;6;0;0;0;71;15;20;42.9;Matches
+48;Steven Bergwijn;nlNED;FW,MF;Tottenham;23;1997;6.3;1;0;0;9;9;1;8;1;2;0;0;0;22;4;5;44.4;Matches
+49;Ryan Bertrand;engENG;DF;Leicester City;31;1989;3.7;1;0;0;3;1;0;12;1;5;0;0;0;11;1;8;11.1;Matches
+50;Mads Bidstrup;dkDEN;MF;Brentford;20;2001;0.5;0;0;0;1;0;0;0;1;0;0;0;0;3;0;0;;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+51;Yves Bissouma;mlMLI;MF;Brighton;24;1996;23.5;10;0;0;30;19;0;2;50;49;0;1;0;161;16;15;51.6;Matches
+52;Willy Boly;ciCIV;DF;Wolves;30;1991;10.0;1;0;0;7;2;1;0;14;19;0;1;0;62;20;20;50.0;Matches
+53;Jarrod Bowen;engENG;FW;West Ham;24;1996;33.1;6;0;0;25;43;14;141;21;20;2;0;0;151;38;65;36.9;Matches
+54;Jarrad Branthwaite;engENG;DF;Everton;19;2002;4.3;0;1;0;3;4;0;0;1;1;0;0;0;24;11;5;68.8;Matches
+55;Armando Broja;alALB;FW;Southampton;19;2001;21.9;2;0;0;29;26;13;8;3;5;1;0;0;81;88;166;34.6;Matches
+56;Josh Brownhill;engENG;MF;Burnley;25;1995;32.8;10;0;0;39;20;0;53;68;37;0;0;0;198;47;32;59.5;Matches
+57;Lewis Brunt;engENG;MF;Leicester City;20;2000;0.3;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0.0;Matches
+58;Bryan;esESP;FW,MF;Tottenham;20;2001;1.0;0;0;0;1;4;0;6;0;0;0;0;0;12;0;1;0.0;Matches
+59;Emi Buendía;arARG;MF,FW;Aston Villa;24;1996;21.1;1;0;0;17;44;3;34;9;18;0;1;0;110;19;35;35.2;Matches
+60;Dan Burn;engENG;DF;Newcastle Utd;29;1992;16.0;4;0;0;11;6;5;0;20;10;0;0;0;73;68;31;68.7;Matches
+61;Dan Burn;engENG;DF;Brighton;29;1992;11.4;4;0;0;15;0;0;1;24;12;0;0;0;56;32;21;60.4;Matches
+62;Jack Butland;engENG;GK;Crystal Palace;28;1993;8.5;0;0;0;0;2;0;0;0;0;0;0;0;4;1;2;33.3;Matches
+63;Sam Byram;engENG;DF;Norwich City;27;1993;11.4;3;0;0;12;4;0;9;22;15;0;1;0;57;28;28;50.0;Matches
+64;Willy Caballero;arARG;GK;Southampton;39;1981;2.0;1;0;0;0;0;0;0;0;0;0;0;0;4;0;1;0.0;Matches
+65;Moisés Caicedo;ecECU;MF;Brighton;19;2001;7.3;2;0;0;7;11;1;0;10;10;0;0;0;56;9;4;69.2;Matches
+66;Dominic Calvert-Lewin;engENG;FW;Everton;24;1997;14.3;2;0;0;17;16;4;2;3;8;1;0;0;34;94;93;50.3;Matches
+67;Chem Campbell;wlsWAL;MF;Wolves;18;2002;0.1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0.0;Matches
+68;João Cancelo;ptPOR;DF;Manchester City;27;1994;35.9;7;0;0;34;26;2;124;59;54;0;0;0;217;57;51;52.8;Matches
+69;Sergi Canós;esESP;DF,FW;Brentford;24;1997;23.1;8;1;1;28;15;5;87;22;25;0;0;1;183;9;27;25.0;Matches
+70;Todd Cantwell;engENG;FW,MF;Norwich City;23;1998;4.9;2;0;0;4;12;2;3;3;13;0;0;0;22;3;4;42.9;Matches
+71;Matty Cash;plPOL;DF;Aston Villa;23;1997;37.5;8;0;0;38;38;2;98;49;50;0;1;0;190;42;45;48.3;Matches
+72;Timothy Castagne;beBEL;DF;Leicester City;25;1995;23.6;1;0;0;15;7;1;40;29;31;0;0;0;102;39;38;50.6;Matches
+73;Jonny Castro;esESP;DF;Wolves;27;1994;11.4;1;0;0;10;16;0;14;13;15;0;0;0;49;11;7;61.1;Matches
+74;Craig Cathcart;nirNIR;DF;Watford;32;1989;26.6;3;0;0;13;4;0;4;28;15;0;0;0;127;48;34;58.5;Matches
+75;Edinson Cavani;uyURU;FW;Manchester Utd;34;1987;8.5;0;0;0;7;5;6;2;2;1;0;0;0;22;7;17;29.2;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+76;Kayky Chagas;brBRA;FW;Manchester City;18;2003;0.1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;;Matches
+77;Trevoh Chalobah;engENG;DF;Chelsea;22;1999;16.1;2;0;0;19;14;0;4;19;27;0;1;0;74;32;28;53.3;Matches
+78;Calum Chambers;engENG;DF;Arsenal;26;1995;1.9;0;0;0;2;1;0;3;0;3;0;0;0;14;2;1;66.7;Matches
+79;Calum Chambers;engENG;DF;Aston Villa;26;1995;9.2;1;0;0;12;2;0;2;5;8;0;0;0;49;26;25;51.0;Matches
+80;Daniel Chesters;engENG;MF;West Ham;19;2002;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+81;Ben Chilwell;engENG;DF;Chelsea;24;1996;6.0;0;0;0;10;15;2;32;4;3;0;1;0;32;7;10;41.2;Matches
+82;Chiquinho;ptPOR;DF,FW;Wolves;21;2000;2.3;0;0;0;9;8;0;25;2;6;0;0;0;17;4;5;44.4;Matches
+83;Hamza Choudhury;engENG;DF,MF;Leicester City;23;1997;3.2;1;0;0;4;5;0;0;12;3;0;0;0;15;10;2;83.3;Matches
+84;Andreas Christensen;dkDEN;DF;Chelsea;25;1996;16.6;2;0;0;11;7;0;1;29;8;0;0;0;110;48;38;55.8;Matches
+85;Carney Chukwuemeka;engENG;MF,FW;Aston Villa;17;2003;3.3;0;0;0;3;9;0;0;2;1;0;0;0;16;7;9;43.8;Matches
+86;Ciaran Clark;ieIRL;DF;Newcastle Utd;31;1989;11.3;2;1;0;6;5;1;1;13;10;0;1;0;49;26;15;63.4;Matches
+87;Tom Cleverley;engENG;MF;Watford;31;1989;18.0;2;0;0;28;19;2;54;18;20;0;0;0;81;14;29;32.6;Matches
+88;Nathaniel Clyne;engENG;DF;Crystal Palace;30;1991;15.0;1;0;0;3;5;0;17;15;10;0;0;0;73;10;7;58.8;Matches
+89;Conor Coady;engENG;DF;Wolves;28;1993;37.3;4;0;0;20;1;2;2;28;14;0;0;0;162;32;24;57.1;Matches
+90;Séamus Coleman;ieIRL;DF;Everton;32;1988;29.5;4;0;0;14;17;2;41;32;36;1;0;1;188;25;23;52.1;Matches
+91;Nathan Collins;ieIRL;DF;Burnley;20;2001;18.6;2;1;0;20;12;4;3;24;15;0;2;0;128;57;31;64.8;Matches
+92;Aaron Connolly;ieIRL;FW,MF;Brighton;21;2000;1.7;0;0;0;0;6;0;0;0;0;0;0;0;7;2;5;28.6;Matches
+93;Liam Cooper;sctSCO;DF;Leeds United;29;1991;20.2;5;0;0;19;9;2;1;43;23;0;1;0;118;82;44;65.1;Matches
+94;Jack Cork;engENG;MF;Burnley;32;1989;18.6;4;0;0;31;10;1;8;17;6;0;0;0;96;26;21;55.3;Matches
+95;Maxwel Cornet;ciCIV;FW,MF;Burnley;24;1996;19.6;2;0;0;20;20;26;55;10;9;2;0;0;81;24;45;34.8;Matches
+96;Hélder Costa;aoANG;MF;Leeds United;27;1994;0.2;0;0;0;1;2;0;0;0;0;0;0;0;1;0;1;0.0;Matches
+97;Vladimír Coufal;czCZE;DF;West Ham;28;1992;24.5;5;1;1;29;15;2;107;22;25;0;1;1;131;33;34;49.3;Matches
+98;Philippe Coutinho;brBRA;MF,FW;Aston Villa;29;1992;14.8;0;0;0;8;20;4;18;7;12;0;0;0;53;5;17;22.7;Matches
+99;Aaron Cresswell;engENG;DF;West Ham;31;1989;30.3;3;0;0;14;10;2;145;35;18;0;1;0;163;32;24;57.1;Matches
+100;Charlie Cresswell;engENG;DF;Leeds United;18;2002;1.6;1;0;0;3;0;1;1;2;2;0;0;0;6;6;3;66.7;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+101;Cucho;coCOL;FW,MF;Watford;22;1999;12.7;3;0;0;13;12;1;52;5;5;0;0;1;65;31;51;37.8;Matches
+102;Marc Cucurella;esESP;DF;Brighton;23;1998;34.3;6;0;0;28;30;3;115;30;62;0;0;0;247;40;36;52.6;Matches
+103;Luke Cundle;engENG;MF;Wolves;19;2002;2.0;0;0;0;3;1;0;2;1;3;0;0;0;12;0;2;0.0;Matches
+104;Patson Daka;zmZAM;FW;Leicester City;22;1998;12.9;2;0;0;17;14;7;1;2;10;0;0;0;29;17;44;27.9;Matches
+105;Stuart Dallas;nirNIR;DF,MF;Leeds United;30;1991;32.4;5;0;0;33;30;2;101;57;55;0;1;0;219;32;34;48.5;Matches
+106;Diogo Dalot;ptPOR;DF;Manchester Utd;22;1999;20.0;4;0;0;18;4;1;58;29;41;0;0;0;151;29;17;63.0;Matches
+107;Karl Darlow;engENG;GK;Newcastle Utd;30;1990;8.0;1;0;0;1;2;0;0;0;0;0;1;0;5;2;0;100.0;Matches
+108;Josh Dasilva;engENG;MF,FW;Brentford;22;1998;2.9;0;1;0;4;3;0;4;1;1;0;0;0;23;3;1;75.0;Matches
+109;Ben Davies;wlsWAL;DF;Tottenham;28;1993;28.2;6;0;0;31;18;5;19;30;21;0;1;0;106;67;52;56.3;Matches
+110;Tom Davies;engENG;MF;Everton;23;1998;2.6;1;0;0;4;3;0;0;2;1;0;0;0;9;3;2;60.0;Matches
+111;Keinan Davis;engENG;FW;Aston Villa;23;1998;0.1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0.0;Matches
+112;Craig Dawson;engENG;DF;West Ham;31;1990;30.6;5;1;0;39;12;1;1;29;17;0;3;0;113;93;55;62.8;Matches
+113;Kevin De Bruyne;beBEL;MF;Manchester City;30;1991;24.5;2;0;0;21;27;4;180;6;16;0;0;0;114;11;18;37.9;Matches
+114;Troy Deeney;engENG;FW;Watford;33;1988;0.3;0;0;0;0;0;0;0;0;0;0;0;0;0;6;3;66.7;Matches
+115;Liam Delap;engENG;FW;Manchester City;18;2003;0.1;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;;Matches
+116;Fabian Delph;engENG;MF;Everton;31;1989;7.4;2;0;0;8;6;0;1;14;15;0;0;0;61;5;4;55.6;Matches
+117;Leander Dendoncker;beBEL;MF;Wolves;26;1995;21.7;4;0;0;13;6;0;5;9;17;0;0;0;107;30;33;47.6;Matches
+118;Emmanuel Dennis;ngNGA;FW,MF;Watford;23;1997;28.7;9;1;1;59;40;12;39;15;35;1;0;0;125;45;78;36.6;Matches
+119;Kiernan Dewsbury-Hall;engENG;MF;Leicester City;22;1998;23.4;4;0;0;20;29;0;86;21;24;0;0;0;155;16;23;41.0;Matches
+120;Ibrahima Diallo;frFRA;MF;Southampton;22;1999;11.4;1;0;0;8;15;0;7;9;11;0;0;0;77;11;12;47.8;Matches
+121;Rúben Dias;ptPOR;DF;Manchester City;24;1997;26.7;5;0;0;27;9;2;3;23;19;0;0;0;108;50;37;57.5;Matches
+122;Luis Díaz;coCOL;FW;Liverpool;24;1997;10.6;0;0;0;14;14;3;14;4;7;0;0;0;54;15;16;48.4;Matches
+123;Eric Dier;engENG;DF;Tottenham;27;1994;34.1;1;0;0;12;9;0;1;27;9;0;0;1;131;70;54;56.5;Matches
+124;Lucas Digne;frFRA;DF;Aston Villa;28;1993;14.1;2;0;0;18;16;3;101;23;10;0;0;0;77;23;20;53.5;Matches
+125;Lucas Digne;frFRA;DF;Everton;28;1993;13.0;4;0;0;15;9;0;71;14;19;0;0;1;83;24;16;60.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+126;Issa Diop;frFRA;DF;West Ham;24;1997;10.7;0;0;0;5;5;1;0;7;8;0;0;0;55;16;17;48.5;Matches
+127;Moussa Djenepo;mlMLI;MF;Southampton;23;1998;5.1;3;0;0;9;10;0;6;2;3;0;0;0;28;1;9;10.0;Matches
+128;Lewis Dobbin;engENG;FW,MF;Everton;18;2003;0.4;1;0;0;1;1;0;0;0;1;0;0;0;4;0;6;0.0;Matches
+129;Matt Doherty;ieIRL;DF;Tottenham;29;1992;9.7;0;0;0;11;4;0;20;13;12;0;0;0;48;16;8;66.7;Matches
+130;Gabriel Dos Santos;brBRA;DF;Arsenal;23;1997;34.0;8;1;1;23;38;1;1;13;30;0;0;0;178;55;39;58.5;Matches
+131;Abdoulaye Doucouré;mlMLI;MF;Everton;28;1993;28.2;6;0;0;39;16;1;11;28;43;0;0;0;213;35;37;48.6;Matches
+132;Kieran Dowell;engENG;FW,MF;Norwich City;23;1997;10.1;0;0;0;19;4;0;38;7;7;0;0;0;37;8;28;22.2;Matches
+133;Cody Drameh;engENG;DF,MF;Leeds United;19;2001;1.4;1;0;0;2;0;0;2;1;2;0;0;0;3;1;1;50.0;Matches
+134;Martin Dúbravka;skSVK;GK;Newcastle Utd;32;1989;26.0;1;0;0;0;6;0;0;0;1;0;0;0;19;4;1;80.0;Matches
+135;Shane Duffy;ieIRL;DF;Brighton;29;1992;16.0;7;0;0;15;5;1;1;16;12;0;0;0;68;65;26;71.4;Matches
+136;Paul Dummett;wlsWAL;DF;Newcastle Utd;29;1991;2.2;2;0;0;3;3;0;3;3;3;0;0;0;5;5;2;71.4;Matches
+137;Lewis Dunk;engENG;DF;Brighton;29;1991;28.6;3;1;0;9;4;0;3;27;8;0;0;0;170;81;37;68.6;Matches
+138;Ederson;brBRA;GK;Manchester City;27;1993;37.0;3;0;0;1;4;0;0;0;1;0;1;0;43;10;3;76.9;Matches
+139;Odsonne Édouard;frFRA;FW;Crystal Palace;23;1998;17.4;4;0;0;25;6;4;7;0;10;0;0;0;62;38;45;45.8;Matches
+140;CJ Egan-Riley;engENG;DF;Manchester City;18;2003;0.0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;;Matches
+141;Anthony Elanga;seSWE;FW;Manchester Utd;19;2002;13.5;0;0;0;8;22;3;21;9;20;0;0;0;50;24;18;57.1;Matches
+142;Harvey Elliott;engENG;MF;Liverpool;18;2003;3.8;0;0;0;2;6;0;10;4;0;0;0;0;31;2;2;50.0;Matches
+143;Mohamed Elneny;egEGY;MF;Arsenal;29;1992;9.0;1;0;0;5;5;0;0;14;8;0;0;0;51;6;6;50.0;Matches
+144;Mohamed Elyounoussi;noNOR;MF,FW;Southampton;26;1994;22.7;4;0;0;28;18;1;29;12;17;0;0;0;82;38;46;45.2;Matches
+145;Emerson;brBRA;DF,MF;Tottenham;22;1999;25.4;5;0;0;28;45;2;74;22;47;0;0;0;152;33;42;44.0;Matches
+146;Christian Eriksen;dkDEN;MF;Brentford;29;1992;10.4;1;0;0;5;3;0;86;9;6;0;0;0;69;5;6;45.5;Matches
+147;Oghenekaro Etebo;ngNGA;MF;Watford;25;1995;4.5;3;0;0;8;3;0;2;5;8;0;0;0;31;3;1;75.0;Matches
+148;Jonny Evans;nirNIR;DF;Leicester City;33;1988;15.0;3;0;0;15;11;0;3;20;14;0;0;0;105;48;17;73.8;Matches
+149;Eberechi Eze;engENG;MF,FW;Crystal Palace;23;1998;6.7;1;0;0;5;12;0;27;5;6;0;0;0;38;7;13;35.0;Matches
+150;Łukasz Fabiański;plPOL;GK;West Ham;36;1985;37.0;2;0;0;1;7;0;0;0;0;0;1;0;21;11;0;100.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+151;Fabinho;brBRA;MF;Liverpool;27;1993;25.7;7;0;0;40;28;0;6;39;25;0;0;0;193;43;24;64.2;Matches
+152;Kiko Femenía;esESP;DF;Watford;30;1991;23.8;2;0;0;12;13;2;106;37;22;0;0;0;135;12;14;46.2;Matches
+153;Evan Ferguson;ieIRL;MF;Brighton;16;2004;0.3;0;0;0;0;0;0;1;0;0;0;0;0;1;0;2;0.0;Matches
+154;Nathan Ferguson;engENG;DF;Crystal Palace;20;2000;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+155;Bruno Fernandes;ptPOR;MF;Manchester Utd;26;1994;34.6;10;0;0;33;47;3;148;17;28;0;0;0;180;19;30;38.8;Matches
+156;Álvaro Fernández;esESP;GK;Brentford;23;1998;12.0;0;0;0;0;3;0;0;0;0;0;0;1;18;2;2;50.0;Matches
+157;Federico Fernández;arARG;DF;Newcastle Utd;32;1989;5.8;0;0;0;1;2;0;1;4;0;0;0;0;24;10;5;66.7;Matches
+158;Fernandinho;brBRA;MF,DF;Manchester City;36;1985;10.7;1;0;0;14;10;0;2;8;10;0;0;0;85;22;15;59.5;Matches
+159;Roberto Firmino;brBRA;FW;Liverpool;29;1991;11.0;3;0;0;7;6;3;8;4;14;0;0;0;53;14;27;34.1;Matches
+160;Junior Firpo;esESP;DF,MF;Leeds United;24;1996;19.0;11;0;0;39;15;1;26;24;28;0;0;1;89;27;19;58.7;Matches
+161;Ashley Fletcher;engENG;FW;Watford;25;1995;0.3;0;0;0;1;0;0;1;0;1;0;0;0;2;1;7;12.5;Matches
+162;Phil Foden;engENG;FW;Manchester City;21;2000;23.6;1;0;0;15;23;14;132;11;8;0;0;0;83;5;27;15.6;Matches
+163;Wesley Fofana;frFRA;DF;Leicester City;20;2000;7.0;2;0;0;7;7;0;0;12;8;0;0;0;43;20;10;66.7;Matches
+164;Pablo Fornals;esESP;FW,MF;West Ham;25;1996;31.1;4;0;0;24;28;6;87;27;28;1;0;0;182;23;30;43.4;Matches
+165;Adam Forshaw;engENG;MF;Leeds United;29;1991;17.0;5;0;0;26;15;2;5;19;23;0;0;0;119;11;11;50.0;Matches
+166;Marcus Forss;fiFIN;FW,MF;Brentford;22;1999;2.3;0;0;0;3;1;0;1;1;3;0;0;0;4;2;7;22.2;Matches
+167;Fraser Forster;engENG;GK;Southampton;33;1988;19.0;1;0;0;0;3;0;0;0;0;0;0;0;7;7;0;100.0;Matches
+168;Ben Foster;engENG;GK;Watford;38;1983;26.0;0;0;0;1;4;0;0;0;0;0;1;0;54;5;3;62.5;Matches
+169;Tariqe Fosu;ghGHA;DF;Brentford;25;1995;0.2;0;0;0;0;1;0;1;0;0;0;0;0;1;0;1;0.0;Matches
+170;Ryan Fraser;sctSCO;FW,MF;Newcastle Utd;27;1994;16.3;3;0;0;10;24;2;88;11;3;0;0;0;61;5;22;18.5;Matches
+171;Fred;brBRA;MF;Manchester Utd;28;1993;22.5;5;0;0;31;30;0;3;32;27;1;0;1;197;15;13;53.6;Matches
+172;Ryan Fredericks;engENG;DF;West Ham;28;1992;3.4;1;0;0;3;1;0;9;4;2;0;0;0;11;3;2;60.0;Matches
+173;Leo Fuhr Hjelde;noNOR;MF,DF;Leeds United;17;2003;1.7;0;0;0;1;0;0;3;4;4;0;0;0;9;3;2;60.0;Matches
+174;Conor Gallagher;engENG;MF;Crystal Palace;21;2000;31.6;10;0;0;65;65;2;128;29;37;1;0;0;187;23;37;38.3;Matches
+175;Alejandro Garnacho;esESP;FW,MF;Manchester Utd;17;2004;0.1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+176;Dwight Gayle;engENG;FW,DF;Newcastle Utd;30;1990;0.4;1;0;0;2;2;0;0;1;0;0;0;0;2;1;1;50.0;Matches
+177;Jean-Philippe Gbamin;ciCIV;MF;Everton;25;1995;0.7;0;0;0;0;1;0;0;1;1;0;0;0;4;1;0;100.0;Matches
+178;David de Gea;esESP;GK;Manchester Utd;30;1990;38.0;0;0;0;0;1;0;0;0;0;0;0;0;30;8;0;100.0;Matches
+179;Joe Gelhardt;engENG;FW,MF;Leeds United;19;2002;8.3;4;0;0;17;24;5;3;0;3;2;0;0;30;11;21;34.4;Matches
+180;Anwar El Ghazi;nlNED;FW,MF;Aston Villa;26;1995;4.3;2;0;0;8;5;2;14;1;4;0;0;0;20;10;11;47.6;Matches
+181;Anwar El Ghazi;nlNED;FW,MF;Everton;26;1995;0.1;0;0;0;0;0;0;0;0;1;0;0;0;2;0;3;0.0;Matches
+182;Saman Ghoddos;irIRN;MF,DF;Brentford;27;1993;6.0;2;0;0;12;10;0;21;3;10;1;0;0;36;11;15;42.3;Matches
+183;Dimitris Giannoulis;grGRE;DF;Norwich City;25;1995;13.0;2;0;0;16;22;0;44;19;21;0;0;0;105;8;7;53.3;Matches
+184;Morgan Gibbs-White;engENG;DF,FW;Wolves;21;2000;0.1;1;0;0;2;0;0;1;0;0;0;0;0;2;0;2;0.0;Matches
+185;Ben Gibson;engENG;DF;Norwich City;28;1993;27.7;5;1;1;12;9;0;1;27;16;0;3;0;108;52;39;57.1;Matches
+186;Billy Gilmour;sctSCO;MF;Norwich City;20;2001;20.6;2;0;0;28;21;1;98;17;21;0;1;0;124;13;20;39.4;Matches
+187;Ben Godfrey;engENG;DF;Everton;23;1998;22.5;6;0;0;17;12;0;12;15;32;0;0;0;94;36;43;45.6;Matches
+188;André Gomes;ptPOR;MF;Everton;28;1993;6.9;3;0;0;24;8;0;6;1;4;0;0;0;53;8;9;47.1;Matches
+189;Toti Gomes;ptPOR;DF;Wolves;22;1999;4.0;1;0;0;2;3;1;1;8;7;0;0;0;17;13;10;56.5;Matches
+190;Joe Gomez;engENG;DF;Liverpool;24;1997;3.7;2;0;0;5;2;0;19;5;6;0;0;0;19;10;6;62.5;Matches
+191;Charlie Goode;engENG;DF;Brentford;25;1995;5.0;3;0;0;5;7;0;6;2;5;0;1;0;30;15;8;65.2;Matches
+192;Anthony Gordon;engENG;MF,FW;Everton;20;2001;25.4;4;0;0;25;64;8;119;22;32;2;0;0;116;17;38;30.9;Matches
+193;Kaide Gordon;engENG;FW;Liverpool;16;2004;0.1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0.0;Matches
+194;Dan Gosling;engENG;MF;Watford;31;1990;1.8;0;0;0;2;5;0;1;0;1;0;0;0;14;5;4;55.6;Matches
+195;Demarai Gray;engENG;MF,FW;Everton;25;1996;26.0;3;0;0;12;32;3;129;15;19;0;0;0;100;4;31;11.4;Matches
+196;Jack Grealish;engENG;FW;Manchester City;25;1995;21.3;3;0;0;17;55;5;32;8;17;0;0;0;63;14;28;33.3;Matches
+197;Mason Greenwood;engENG;FW,MF;Manchester Utd;19;2001;14.1;1;0;0;15;16;3;34;1;9;0;0;0;55;4;8;33.3;Matches
+198;Sam Greenwood;engENG;MF,FW;Leeds United;19;2002;2.6;0;0;0;7;2;2;6;2;5;0;0;0;14;2;3;40.0;Matches
+199;Pascal Groß;deGER;MF,DF;Brighton;30;1991;22.6;1;0;0;15;6;4;189;18;15;0;0;0;119;15;21;41.7;Matches
+200;Vicente Guaita;esESP;GK;Crystal Palace;34;1987;29.5;2;0;0;1;2;0;0;1;0;0;1;0;22;8;1;88.9;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+201;Marc Guéhi;engENG;DF;Crystal Palace;21;2000;35.8;4;0;0;14;34;0;3;30;17;0;1;0;192;68;54;55.7;Matches
+202;Bruno Guimarães;brBRA;MF;Newcastle Utd;23;1997;11.5;4;0;0;13;36;4;12;9;23;0;0;0;81;4;9;30.8;Matches
+203;İlkay Gündoğan;deGER;MF;Manchester City;30;1990;20.6;1;0;0;13;10;2;67;15;9;0;0;0;110;11;12;47.8;Matches
+204;Angus Gunn;engENG;GK;Norwich City;25;1996;9.0;0;0;0;0;0;0;0;0;0;0;0;0;9;2;1;66.7;Matches
+205;Grant Hanley;sctSCO;DF;Norwich City;29;1991;32.2;2;0;0;22;22;2;0;56;25;0;0;0;121;102;33;75.6;Matches
+206;Jack Harrison;engENG;FW,MF;Leeds United;24;1996;29.3;3;0;0;29;23;4;142;21;37;0;0;0;170;19;54;26.0;Matches
+207;Kortney Hause;engENG;DF;Aston Villa;26;1995;4.4;0;0;0;6;2;1;0;6;3;0;1;0;41;20;8;71.4;Matches
+208;Kai Havertz;deGER;FW,MF;Chelsea;22;1999;20.1;3;0;0;40;25;12;8;4;8;1;0;0;62;38;52;42.2;Matches
+209;Isaac Hayden;engENG;MF,DF;Newcastle Utd;26;1995;11.1;5;0;0;14;8;0;8;14;14;0;0;0;46;19;15;55.9;Matches
+210;Hwang Hee-chan;krKOR;FW,MF;Wolves;25;1996;20.2;2;0;0;29;42;3;7;13;13;0;0;0;92;7;21;25.0;Matches
+211;Jordan Henderson;engENG;MF;Liverpool;31;1990;28.9;3;0;0;23;7;3;56;23;20;0;0;0;228;18;13;58.1;Matches
+212;Jeff Hendrick;ieIRL;MF;Newcastle Utd;29;1992;0.8;0;0;0;1;0;0;0;0;1;0;0;0;2;1;1;50.0;Matches
+213;Wayne Hennessey;wlsWAL;GK;Burnley;34;1987;2.0;0;0;0;0;1;0;0;1;0;0;0;0;3;1;0;100.0;Matches
+214;Rico Henry;engENG;DF;Brentford;24;1997;30.8;2;0;0;20;27;1;74;26;20;0;1;0;189;27;40;40.3;Matches
+215;Son Heung-min;krKOR;MF,FW;Tottenham;29;1992;33.4;2;0;0;14;36;17;192;13;6;2;0;0;144;16;35;31.4;Matches
+216;Ki-Jana Hoever;nlNED;DF,MF;Wolves;19;2002;3.4;1;0;0;5;4;1;8;6;6;0;0;0;13;3;2;60.0;Matches
+217;Rob Holding;engENG;DF;Arsenal;25;1995;9.4;4;1;1;9;3;0;0;10;9;0;0;0;49;28;22;56.0;Matches
+218;Mason Holgate;engENG;DF;Everton;24;1996;23.7;7;1;0;26;15;0;4;26;18;0;0;1;105;61;31;66.3;Matches
+219;Callum Hudson-Odoi;engENG;MF,FW;Chelsea;20;2000;10.7;1;0;0;10;17;4;32;2;10;1;0;0;39;4;8;33.3;Matches
+220;Will Hughes;engENG;MF;Crystal Palace;26;1995;11.7;6;0;0;18;17;0;35;8;14;1;1;0;84;11;20;35.5;Matches
+221;Pierre Højbjerg;dkDEN;MF;Tottenham;25;1995;35.5;3;0;0;28;39;0;18;48;45;0;0;0;281;23;19;54.8;Matches
+222;Adam Idah;ieIRL;FW,MF;Norwich City;20;2001;6.9;0;0;0;7;10;10;13;3;6;0;0;0;29;16;27;37.2;Matches
+223;Kelechi Iheanacho;ngNGA;FW;Leicester City;24;1996;14.0;1;0;0;17;11;7;6;4;7;0;0;0;42;16;38;29.6;Matches
+224;Danny Ings;engENG;FW;Aston Villa;29;1992;21.1;4;0;0;16;12;11;13;6;16;0;0;0;47;27;40;40.3;Matches
+225;Tim Iroegbunam;engENG;MF;Aston Villa;18;2003;1.0;1;0;0;2;0;0;0;2;4;0;0;0;9;3;0;100.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+226;Alex Iwobi;ngNGA;MF,DF;Everton;25;1996;22.6;1;0;0;16;6;3;32;20;19;0;1;0;130;9;21;30.0;Matches
+227;Daniel James;wlsWAL;FW;Manchester Utd;23;1997;1.4;0;0;0;1;0;2;5;0;1;0;0;0;4;1;1;50.0;Matches
+228;Daniel James;wlsWAL;FW,MF;Leeds United;23;1997;26.3;7;1;0;30;38;13;60;8;14;1;0;0;82;13;53;19.7;Matches
+229;Reece James;engENG;DF;Chelsea;21;1999;20.7;4;1;0;20;31;4;108;17;25;0;1;1;99;17;21;44.7;Matches
+230;Vitaly Janelt;deGER;MF;Brentford;23;1998;25.5;3;0;0;26;25;3;40;28;32;0;0;0;143;33;25;56.9;Matches
+231;Pontus Jansson;seSWE;DF;Brentford;30;1991;36.9;7;0;0;15;8;5;1;52;21;1;0;0;166;102;81;55.7;Matches
+232;Mathias Jensen;dkDEN;MF;Brentford;25;1996;17.8;0;0;0;19;6;3;79;22;18;0;0;0;100;7;16;30.4;Matches
+233;Gabriel Jesus;brBRA;FW;Manchester City;24;1997;20.9;1;0;0;26;26;10;24;15;12;2;0;0;76;21;36;36.8;Matches
+234;Raúl Jiménez;mxMEX;FW;Wolves;30;1991;29.2;9;2;2;43;48;23;10;13;14;0;0;0;88;63;85;42.6;Matches
+235;João Pedro;brBRA;FW,MF;Watford;19;2001;18.3;1;0;0;13;30;6;24;15;14;0;0;0;78;55;90;37.9;Matches
+236;Joelinton;brBRA;MF,FW;Newcastle Utd;24;1996;28.4;8;0;0;64;33;3;22;34;38;0;0;0;181;99;97;50.5;Matches
+237;Ben Johnson;engENG;DF;West Ham;21;2000;15.5;1;0;0;10;4;0;55;22;16;0;0;0;78;15;19;44.1;Matches
+238;Curtis Jones;engENG;MF;Liverpool;20;2001;9.5;0;0;0;11;19;1;6;6;9;0;0;0;54;7;7;50.0;Matches
+239;Phil Jones;engENG;DF;Manchester Utd;29;1992;1.8;0;0;0;0;2;0;0;3;5;0;0;0;9;2;0;100.0;Matches
+240;Jorginho;itITA;MF;Chelsea;29;1991;25.3;5;0;0;30;38;0;3;36;33;0;0;0;208;13;26;33.3;Matches
+241;Diogo Jota;ptPOR;FW;Liverpool;24;1996;26.3;3;0;0;41;40;5;21;6;18;2;0;0;100;37;83;30.8;Matches
+242;James Justin;engENG;DF;Leicester City;23;1998;11.1;0;0;0;7;12;1;15;17;13;0;0;0;62;13;16;44.8;Matches
+243;Mathias Jørgensen;dkDEN;DF;Brentford;31;1990;5.8;2;0;0;10;1;0;7;10;4;0;0;0;20;10;9;52.6;Matches
+244;Ozan Kabak;trTUR;DF;Norwich City;21;2000;10.2;2;0;0;10;10;1;1;16;5;0;2;0;50;22;27;44.9;Matches
+245;Christian Kabasele;beBEL;DF;Watford;30;1991;13.3;0;0;0;5;3;0;1;14;5;0;0;0;58;47;12;79.7;Matches
+246;Samuel Kalu;ngNGA;FW;Watford;23;1997;2.5;0;0;0;0;4;3;8;3;2;0;0;0;9;0;3;0.0;Matches
+247;Hassane Kamara;ciCIV;DF;Watford;27;1994;18.0;5;1;1;24;16;0;23;69;34;0;1;0;153;30;15;66.7;Matches
+248;Harry Kane;engENG;FW;Tottenham;28;1993;35.9;5;0;0;42;54;16;42;3;5;0;0;0;92;75;81;48.1;Matches
+249;N'Golo Kanté;frFRA;MF;Chelsea;30;1991;19.7;2;0;0;22;11;0;11;31;31;0;0;0;153;14;14;50.0;Matches
+250;Edo Kayembe;cdCOD;MF;Watford;23;1998;8.9;0;0;0;4;5;1;8;9;13;0;0;0;77;13;19;40.6;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+251;Moise Kean;itITA;FW;Everton;21;2000;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;;Matches
+252;Michael Keane;engENG;DF;Everton;28;1993;31.0;4;1;1;16;7;1;1;62;25;0;0;2;149;96;59;61.9;Matches
+253;Naby Keïta;gnGUI;MF;Liverpool;26;1995;13.0;3;0;0;21;9;0;8;14;23;0;0;0;68;6;15;28.6;Matches
+254;Caoimhín Kelleher;ieIRL;GK;Liverpool;22;1998;2.0;0;0;0;0;1;0;0;0;1;0;0;0;4;1;0;100.0;Matches
+255;Kenedy;brBRA;DF;Chelsea;25;1996;0.6;0;0;0;0;0;0;1;0;2;0;0;0;8;0;1;0.0;Matches
+256;Jonjoe Kenny;engENG;DF;Everton;24;1997;11.3;3;1;1;9;6;1;23;20;7;0;0;0;58;9;11;45.0;Matches
+257;Max Kilman;engENG;DF;Wolves;24;1997;29.9;3;0;0;17;11;0;2;45;26;0;1;0;155;66;39;62.9;Matches
+258;Joshua King;noNOR;FW;Watford;29;1992;25.0;5;0;0;43;21;8;13;8;15;1;0;0;83;100;119;45.7;Matches
+259;Kristoffer Klaesson;noNOR;GK;Leeds United;20;2000;0.4;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;100.0;Matches
+260;Mateusz Klich;plPOL;MF;Leeds United;31;1990;23.0;5;0;0;40;15;2;30;11;25;0;1;0;171;7;13;35.0;Matches
+261;Robin Koch;deGER;MF,DF;Leeds United;25;1996;17.5;3;0;0;22;10;0;4;20;13;0;0;0;104;45;44;50.6;Matches
+262;Sead Kolašinac;baBIH;DF;Arsenal;28;1993;1.0;1;0;0;2;0;0;0;4;0;0;0;0;2;0;0;;Matches
+263;Ibrahima Konaté;frFRA;DF;Liverpool;22;1999;11.0;2;0;0;10;3;0;0;16;10;0;0;0;64;34;19;64.2;Matches
+264;Ezri Konsa;engENG;DF;Aston Villa;23;1997;27.5;6;2;1;18;36;1;1;15;15;0;1;0;105;58;42;58.0;Matches
+265;Cheikhou Kouyaté;snSEN;MF;Crystal Palace;31;1989;21.9;3;0;0;30;21;0;4;38;38;0;0;0;136;50;29;63.3;Matches
+266;Mateo Kovačić;hrCRO;MF;Chelsea;27;1994;17.3;4;0;0;24;20;0;6;7;31;0;0;0;111;5;5;50.0;Matches
+267;Emil Krafth;seSWE;DF;Newcastle Utd;26;1994;18.2;5;0;0;22;11;0;21;25;16;0;0;0;94;22;29;43.1;Matches
+268;Alex Král;czCZE;MF;West Ham;23;1998;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;50.0;Matches
+269;Tim Krul;nlNED;GK;Norwich City;33;1988;29.0;1;0;0;0;0;0;0;0;1;0;0;1;19;7;3;70.0;Matches
+270;Juraj Kucka;skSVK;MF;Watford;34;1987;21.3;5;1;1;46;49;2;16;27;39;0;1;1;158;56;47;54.4;Matches
+271;Dejan Kulusevski;seSWE;MF,FW;Tottenham;21;2000;14.0;3;0;0;20;15;4;25;13;13;0;0;0;75;3;8;27.3;Matches
+272;Alexandre Lacazette;frFRA;FW;Arsenal;30;1991;19.8;0;0;0;32;29;6;7;5;10;4;0;0;52;21;47;30.9;Matches
+273;Adam Lallana;engENG;MF;Brighton;33;1988;17.3;4;0;0;11;17;0;3;16;17;0;0;0;126;15;8;65.2;Matches
+274;Tariq Lamptey;ghGHA;DF,FW;Brighton;20;2000;17.3;4;0;0;27;50;3;93;21;25;0;0;0;100;7;27;20.6;Matches
+275;Manuel Lanzini;arARG;MF,FW;West Ham;28;1993;19.8;2;0;0;11;18;1;28;19;15;0;0;0;124;5;17;22.7;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+276;Aymeric Laporte;esESP;DF;Manchester City;27;1994;31.4;5;1;0;14;10;2;5;20;15;1;0;0;182;52;32;61.9;Matches
+277;Jamaal Lascelles;engENG;DF;Newcastle Utd;27;1993;22.9;5;0;0;17;4;0;0;22;7;0;3;2;86;89;31;74.2;Matches
+278;Pierre Lees-Melou;frFRA;MF;Norwich City;28;1993;25.2;5;0;0;35;23;2;33;25;36;1;0;0;181;14;15;48.3;Matches
+279;Aaron Lennon;engENG;MF,FW;Burnley;34;1987;17.2;2;0;0;19;20;4;40;9;17;0;1;0;73;7;21;25.0;Matches
+280;Bernd Leno;deGER;GK;Arsenal;29;1992;4.0;0;0;0;0;0;0;0;0;1;0;0;0;2;3;1;75.0;Matches
+281;Jamal Lewis;nirNIR;DF;Newcastle Utd;23;1998;2.9;1;0;0;2;2;0;3;3;6;0;0;0;13;1;4;20.0;Matches
+282;Victor Lindelöf;seSWE;DF;Manchester Utd;27;1994;26.2;4;0;0;19;6;2;0;25;11;0;0;0;161;52;33;61.2;Matches
+283;Jesse Lingard;engENG;FW,MF;Manchester Utd;28;1992;4.1;1;0;0;5;4;1;8;0;7;0;0;0;19;0;1;0.0;Matches
+284;Valentino Livramento;engENG;DF;Southampton;18;2002;24.5;2;0;0;12;36;1;62;47;28;1;0;0;176;24;25;49.0;Matches
+285;Diego Llorente;esESP;DF;Leeds United;27;1993;26.0;7;0;0;23;21;0;2;40;31;0;0;0;171;49;64;43.4;Matches
+286;Hugo Lloris;frFRA;GK;Tottenham;34;1986;38.0;2;0;0;0;2;0;0;1;1;0;0;0;28;12;2;85.7;Matches
+287;Giovani Lo Celso;arARG;MF,FW;Tottenham;25;1996;2.6;0;0;0;2;6;1;10;1;4;0;0;0;11;0;3;0.0;Matches
+288;Jürgen Locadia;nlNED;MF,FW;Brighton;27;1993;0.3;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;;Matches
+289;Ruben Loftus-Cheek;engENG;MF,DF;Chelsea;25;1996;15.5;1;0;0;18;41;2;7;11;10;0;0;0;109;36;18;66.7;Matches
+290;Kevin Long;ieIRL;DF;Burnley;30;1990;4.6;1;0;0;4;3;1;0;1;2;0;0;0;11;12;7;63.2;Matches
+291;Shane Long;ieIRL;FW;Southampton;34;1987;3.4;1;0;0;9;8;3;1;0;5;0;0;0;9;24;19;55.8;Matches
+292;Sean Longstaff;engENG;MF;Newcastle Utd;23;1997;16.3;1;0;0;14;17;0;11;9;34;0;0;0;95;13;18;41.9;Matches
+293;Ademola Lookman;ngNGA;FW,MF;Leicester City;23;1997;16.1;2;0;0;27;33;6;18;10;14;0;0;0;102;3;11;21.4;Matches
+294;Jonas Lössl;dkDEN;GK;Brentford;32;1989;2.0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;;Matches
+295;Imran Louza;maMAR;MF;Watford;22;1999;15.7;6;0;0;24;13;0;54;42;21;0;0;0;129;12;19;38.7;Matches
+296;Matthew Lowton;engENG;DF;Burnley;32;1989;19.7;3;1;0;13;6;0;51;26;24;0;0;0;118;25;16;61.0;Matches
+297;Douglas Luiz;brBRA;MF;Aston Villa;23;1998;30.2;7;0;0;37;41;0;83;34;39;0;0;0;183;26;32;44.8;Matches
+298;Romelu Lukaku;beBEL;FW;Chelsea;28;1993;17.7;1;0;0;8;12;14;7;0;1;3;0;0;33;51;47;52.0;Matches
+299;Lyanco;brBRA;DF;Southampton;24;1997;10.1;2;0;0;13;7;0;4;13;15;0;0;0;73;19;14;57.6;Matches
+300;Alexis Mac Allister;arARG;MF,FW;Brighton;22;1998;23.6;4;0;0;30;39;4;66;13;40;0;0;0;149;24;23;51.1;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+301;James Maddison;engENG;MF,FW;Leicester City;24;1996;27.3;3;0;0;22;64;4;124;11;20;1;0;0;107;5;12;29.4;Matches
+302;Harry Maguire;engENG;DF;Manchester Utd;28;1993;27.9;9;1;1;21;19;1;2;32;21;0;0;1;148;75;28;72.8;Matches
+303;Riyad Mahrez;dzALG;FW;Manchester City;30;1991;16.6;0;0;0;10;15;3;97;6;3;0;0;0;70;8;14;36.4;Matches
+304;Ainsley Maitland-Niles;engENG;MF;Arsenal;23;1997;3.0;0;0;0;4;3;0;2;4;4;0;0;0;23;3;3;50.0;Matches
+305;Sadio Mané;snSEN;FW;Liverpool;29;1992;31.3;5;0;0;50;50;19;50;8;20;1;0;0;109;30;50;37.5;Matches
+306;Javier Manquillo;esESP;DF;Newcastle Utd;27;1994;14.0;5;0;0;9;17;1;9;10;29;0;0;0;57;16;13;55.2;Matches
+307;Fernando Marçal;brBRA;MF,DF;Wolves;32;1989;16.1;3;0;0;29;9;1;60;28;22;0;1;0;94;26;18;59.1;Matches
+308;Solly March;engENG;DF,FW;Brighton;27;1994;19.4;1;0;0;31;20;12;94;17;17;0;0;0;92;17;26;39.5;Matches
+309;Pablo Marí;esESP;DF;Arsenal;27;1993;2.0;1;0;0;1;1;0;0;3;3;0;0;0;10;5;3;62.5;Matches
+310;Anthony Martial;frFRA;FW;Manchester Utd;25;1995;2.4;0;0;0;0;4;2;4;0;0;0;0;0;5;4;4;50.0;Matches
+311;Martinelli;brBRA;FW,MF;Arsenal;20;2001;20.7;3;1;1;24;20;10;74;20;19;0;0;0;86;18;44;29.0;Matches
+312;Emiliano Martínez;arARG;GK;Aston Villa;28;1992;36.0;4;0;0;0;6;0;0;0;1;0;0;0;32;8;1;88.9;Matches
+313;Adam Masina;maMAR;DF;Watford;27;1994;12.0;0;0;0;14;4;0;30;18;13;0;1;0;70;29;17;63.0;Matches
+314;Arthur Masuaku;cdCOD;DF,FW;West Ham;27;1993;7.2;1;0;0;8;4;0;23;9;23;0;0;0;50;16;6;72.7;Matches
+315;Juan Mata;esESP;MF;Manchester Utd;33;1988;2.6;0;0;0;2;4;2;6;1;4;0;0;0;22;0;0;;Matches
+316;Jean-Philippe Mateta;frFRA;FW;Crystal Palace;24;1997;12.7;2;0;0;16;7;13;6;4;4;0;0;0;30;39;43;47.6;Matches
+317;Nemanja Matić;rsSRB;MF;Manchester Utd;32;1988;15.4;3;0;0;26;3;0;6;31;18;0;0;0;124;28;17;62.2;Matches
+318;Joël Matip;cmCMR;DF;Liverpool;29;1991;31.0;2;0;0;13;11;0;1;44;34;0;0;0;185;108;50;68.4;Matches
+319;Neal Maupay;frFRA;FW;Brighton;24;1996;25.3;7;0;0;33;31;6;8;2;10;0;0;0;76;21;56;27.3;Matches
+320;Bryan Mbeumo;cmCMR;FW;Brentford;21;1999;32.3;4;0;0;20;38;13;75;11;16;0;0;0;130;29;103;22.0;Matches
+321;James McArthur;sctSCO;MF;Crystal Palace;33;1987;16.0;4;0;0;24;20;3;18;30;23;0;0;0;135;22;31;41.5;Matches
+322;James Mcatee;engENG;MF,FW;Manchester City;18;2002;0.2;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;100.0;Matches
+323;Kasey McAteer;engENG;FW;Leicester City;19;2001;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;;Matches
+324;Liam McCarron;sctSCO;FW;Leeds United;20;2001;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;;Matches
+325;Alex McCarthy;engENG;GK;Southampton;31;1989;17.0;1;0;0;0;1;0;0;0;0;0;0;0;9;6;0;100.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+326;John McGinn;sctSCO;MF;Aston Villa;26;1994;34.3;8;0;0;57;81;0;110;35;64;0;0;0;200;22;17;56.4;Matches
+327;Stuart McKinstry;sctSCO;MF;Leeds United;18;2002;0.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;;Matches
+328;Kenny McLean;sctSCO;MF;Norwich City;29;1992;30.1;3;0;0;16;38;3;37;34;22;0;1;0;149;68;72;48.6;Matches
+329;Dwight McNeil;engENG;MF;Burnley;21;1999;34.5;1;0;0;16;36;1;199;35;49;0;0;0;223;13;16;44.8;Matches
+330;Scott McTominay;sctSCO;MF;Manchester Utd;24;1996;26.5;9;0;0;55;33;1;13;31;33;0;1;0;171;67;34;66.3;Matches
+331;Ben Mee;engENG;DF;Burnley;31;1989;20.4;3;0;0;9;7;2;4;24;12;0;0;1;132;68;41;62.4;Matches
+332;Hannibal Mejbri;tnTUN;FW;Manchester Utd;18;2003;0.8;2;0;0;3;0;1;0;0;1;0;0;0;1;0;1;0.0;Matches
+333;Benjamin Mendy;frFRA;DF;Manchester City;27;1994;0.9;0;0;0;2;0;0;9;0;2;0;0;0;5;0;3;0.0;Matches
+334;Edouard Mendy;snSEN;GK;Chelsea;29;1992;34.0;3;0;0;1;3;0;0;0;0;0;1;0;42;11;1;91.7;Matches
+335;Nampalys Mendy;snSEN;MF;Leicester City;29;1992;11.5;3;0;0;17;18;0;0;11;6;0;0;0;72;5;9;35.7;Matches
+336;Illan Meslier;frFRA;GK;Leeds United;21;2000;37.6;2;0;0;0;8;0;0;0;1;0;0;0;25;13;2;86.7;Matches
+337;Luka Milivojević;rsSRB;MF;Crystal Palace;30;1991;8.6;1;0;0;15;10;0;43;11;9;0;1;1;58;13;6;68.4;Matches
+338;James Milner;engENG;MF,DF;Liverpool;35;1986;9.5;2;0;0;17;14;0;43;17;16;0;0;0;72;13;10;56.5;Matches
+339;Yerry Mina;coCOL;DF;Everton;26;1994;9.4;3;0;0;5;9;1;3;11;10;0;0;0;45;30;16;65.2;Matches
+340;Takumi Minamino;jpJPN;FW,MF;Liverpool;26;1995;2.1;1;0;0;4;4;0;0;1;2;0;0;0;13;1;5;16.7;Matches
+341;Tyrone Mings;engENG;DF;Aston Villa;28;1993;35.4;11;0;0;27;24;1;4;46;12;0;1;0;191;81;47;63.3;Matches
+342;Tyrick Mitchell;engENG;DF;Crystal Palace;21;1999;34.5;1;0;0;15;14;2;62;41;57;1;0;0;237;29;32;47.5;Matches
+343;Jakub Moder;plPOL;MF;Brighton;22;1999;18.9;1;0;0;19;11;0;45;10;25;0;0;0;107;25;37;40.3;Matches
+344;Wesley Moraes;brBRA;FW;Aston Villa;24;1996;0.0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;2;33.3;Matches
+345;Tyler Morton;engENG;MF;Liverpool;18;2002;0.7;1;0;0;1;0;0;0;3;0;0;0;0;5;2;3;40.0;Matches
+346;Mason Mount;engENG;MF;Chelsea;22;1999;26.3;4;0;0;30;23;5;153;13;16;0;0;0;107;6;31;16.2;Matches
+347;Lucas Moura;brBRA;FW,MF;Tottenham;28;1992;19.7;4;0;0;20;37;3;33;18;10;0;0;0;95;48;32;60.0;Matches
+348;João Moutinho;ptPOR;MF;Wolves;34;1986;33.0;4;0;0;36;15;0;108;34;39;0;1;0;254;15;23;39.5;Matches
+349;Bali Mumba;engENG;DF;Norwich City;19;2001;0.5;0;0;0;0;0;0;0;0;1;0;0;0;2;0;1;0.0;Matches
+350;Jacob Murphy;engENG;FW,DF;Newcastle Utd;26;1995;16.4;4;0;0;16;14;2;54;23;26;0;1;0;98;14;33;29.8;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+351;Enock Mwepu;zmZAM;MF;Brighton;23;1998;11.1;2;0;0;18;15;2;7;12;12;1;1;0;70;9;29;23.7;Matches
+352;Vitaliy Mykolenko;uaUKR;DF;Everton;22;1999;11.7;0;0;0;13;9;0;41;16;15;1;0;0;64;10;12;45.5;Matches
+353;Marvelous Nakamba;zwZIM;MF;Aston Villa;27;1994;10.0;5;0;0;16;9;0;1;12;19;0;0;0;82;10;12;45.5;Matches
+354;Wilfred Ndidi;ngNGA;MF,DF;Leicester City;24;1996;18.0;4;0;0;30;22;1;1;42;32;0;2;0;165;42;32;56.8;Matches
+355;Tanguy Ndombele;frFRA;MF;Tottenham;24;1996;5.4;1;0;0;3;9;0;3;1;7;0;0;0;27;2;1;66.7;Matches
+356;Reiss Nelson;engENG;FW;Arsenal;21;1999;0.2;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;;Matches
+357;Pedro Neto;ptPOR;FW,MF;Wolves;21;2000;5.2;3;0;0;2;6;1;37;6;4;0;0;0;21;3;6;33.3;Matches
+358;Rúben Neves;ptPOR;MF;Wolves;24;1997;29.6;9;0;0;25;12;1;44;41;37;0;0;0;243;19;26;42.2;Matches
+359;Jeremy Ngakia;engENG;DF;Watford;20;2000;10.0;0;0;0;10;6;0;25;12;18;0;0;0;56;16;18;47.1;Matches
+360;Saúl Ñíguez;esESP;DF,MF;Chelsea;26;1994;5.3;1;0;0;9;0;0;10;7;9;0;0;0;18;8;11;42.1;Matches
+361;Eddie Nketiah;engENG;FW;Arsenal;22;1999;9.3;3;0;0;17;14;5;4;4;4;0;0;0;27;8;33;19.5;Matches
+362;Nicolas Nkoulou;cmCMR;DF;Watford;31;1990;1.9;0;0;0;1;0;0;0;2;0;0;0;0;9;2;0;100.0;Matches
+363;Mark Noble;engENG;MF;West Ham;34;1987;3.7;0;0;0;3;4;0;2;4;2;0;0;0;38;1;1;50.0;Matches
+364;Mathias Normann;noNOR;MF;Norwich City;25;1996;18.3;6;0;0;37;28;1;34;19;21;0;1;0;106;27;15;64.3;Matches
+365;Christian Nørgaard;dkDEN;MF;Brentford;27;1994;33.9;8;0;0;56;33;0;13;64;60;0;0;0;270;50;68;42.4;Matches
+366;Angelo Ogbonna;itITA;DF;West Ham;33;1988;10.2;1;0;0;5;3;0;0;11;4;0;0;0;45;27;12;69.2;Matches
+367;Michael Olise;frFRA;FW,MF;Crystal Palace;19;2001;12.7;4;0;0;16;27;1;96;6;18;0;0;0;66;7;17;29.2;Matches
+368;Robin Olsen;seSWE;GK;Aston Villa;31;1990;1.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+369;Andrew Omobamidele;ieIRL;DF;Norwich City;19;2002;4.2;1;0;0;3;5;0;0;5;6;0;0;0;29;5;10;33.3;Matches
+370;Tyler Onyango;engENG;MF;Everton;18;2003;0.3;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;33.3;Matches
+371;Frank Onyeka;ngNGA;MF;Brentford;23;1998;11.6;4;0;0;33;25;0;12;14;17;1;0;0;69;15;21;41.7;Matches
+372;Divock Origi;beBEL;FW;Liverpool;26;1995;1.5;0;0;0;2;1;0;0;1;0;0;0;0;7;2;4;33.3;Matches
+373;Alex Oxlade-Chamberlain;engENG;MF,FW;Liverpool;27;1993;8.7;0;0;0;10;3;2;26;6;11;0;0;0;33;5;12;29.4;Matches
+374;Cole Palmer;engENG;FW,MF;Manchester City;19;2002;1.4;0;0;0;1;1;0;3;1;1;0;0;0;3;2;0;100.0;Matches
+375;Emerson Palmieri;itITA;DF;Chelsea;26;1994;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+376;Thomas Partey;ghGHA;MF;Arsenal;28;1993;22.5;6;0;0;33;17;0;3;23;29;0;0;0;153;23;25;47.9;Matches
+377;Nicolas Pépé;ciCIV;FW,MF;Arsenal;26;1995;7.7;0;0;0;8;3;4;37;8;5;0;0;0;43;18;31;36.7;Matches
+378;Ricardo Pereira;ptPOR;DF;Leicester City;27;1993;11.0;3;0;0;6;16;0;14;17;20;0;0;0;64;15;14;51.7;Matches
+379;Ayoze Pérez;esESP;MF,FW;Leicester City;28;1993;4.9;0;1;0;6;7;0;3;2;2;0;0;0;21;6;13;31.6;Matches
+380;Sonny Perkins;engENG;FW;West Ham;17;2004;0.0;0;0;0;0;0;0;0;0;0;;;0;;;;;Matches
+381;Romain Perraud;frFRA;DF;Southampton;23;1997;18.0;3;0;0;31;16;0;69;17;22;0;0;0;77;16;24;40.0;Matches
+382;Kalvin Phillips;engENG;MF;Leeds United;25;1995;17.7;4;0;0;33;19;0;16;24;25;0;0;0;180;17;29;37.0;Matches
+383;Jaden Philogene Bidace;engENG;FW;Aston Villa;19;2002;0.1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;;Matches
+384;Jordan Pickford;engENG;GK;Everton;27;1994;35.0;2;0;0;0;6;0;0;1;1;0;0;0;18;10;1;90.9;Matches
+385;Erik Pieters;nlNED;DF;Burnley;32;1988;8.1;1;0;0;14;5;0;14;10;15;0;0;0;53;12;7;63.2;Matches
+386;Ethan Pinnock;jmJAM;DF;Brentford;28;1993;29.9;1;0;0;9;14;1;21;44;35;0;0;0;141;142;71;66.7;Matches
+387;Daniel Podence;ptPOR;FW,MF;Wolves;25;1995;16.5;2;0;0;8;25;3;50;10;11;0;0;0;79;2;17;10.5;Matches
+388;Paul Pogba;frFRA;MF,FW;Manchester Utd;28;1993;15.0;7;1;0;39;29;0;12;13;9;0;0;0;98;35;20;63.6;Matches
+389;Nick Pope;engENG;GK;Burnley;29;1992;36.0;1;0;0;0;4;0;0;2;0;0;0;0;50;18;0;100.0;Matches
+390;Isaac Price;nirNIR;MF;Everton;17;2003;0.2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+391;Teemu Pukki;fiFIN;FW;Norwich City;31;1990;36.1;4;0;0;31;25;12;13;4;11;1;0;0;76;15;73;17.0;Matches
+392;Christian Pulisic;usUSA;MF,FW;Chelsea;22;1998;14.3;2;0;0;15;31;4;14;5;7;0;0;0;53;12;28;30.0;Matches
+393;Przemysław Płacheta;plPOL;FW,MF;Norwich City;23;1998;5.6;1;0;0;1;6;0;23;2;3;0;0;0;25;1;8;11.1;Matches
+394;Jesuran Rak Sakyi;engENG;FW,MF;Crystal Palace;18;2002;0.9;0;0;0;1;3;0;2;1;0;0;0;0;6;0;1;0.0;Matches
+395;Aaron Ramsdale;engENG;GK;Arsenal;23;1998;34.0;1;0;0;0;5;0;0;0;1;0;0;0;40;6;2;75.0;Matches
+396;Jacob Ramsey;engENG;MF;Aston Villa;20;2001;27.4;6;0;0;32;44;1;26;24;44;0;0;0;126;16;34;32.0;Matches
+397;Raphinha;brBRA;FW,MF;Leeds United;24;1996;32.4;7;0;0;40;47;14;162;29;29;1;1;0;166;22;31;41.5;Matches
+398;Marcus Rashford;engENG;FW,MF;Manchester Utd;23;1997;13.7;2;0;0;13;18;15;22;5;5;0;0;0;44;10;27;27.0;Matches
+399;Milot Rashica;xkKVX;FW,MF;Norwich City;25;1996;24.8;0;0;0;23;47;13;128;15;19;0;0;0;110;12;28;30.0;Matches
+400;David Raya;esESP;GK;Brentford;25;1995;24.0;1;0;0;1;2;0;0;0;0;0;1;0;29;9;2;81.8;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+401;Nathan Redmond;engENG;MF,FW;Southampton;27;1994;20.4;0;0;0;16;15;3;60;8;14;0;0;0;102;13;32;28.9;Matches
+402;Sergio Reguilón;esESP;DF,MF;Tottenham;24;1996;21.3;4;0;0;22;24;1;84;31;24;0;0;0;99;31;22;58.5;Matches
+403;Declan Rice;engENG;MF;West Ham;22;1999;35.3;8;0;0;28;11;0;30;63;42;0;0;0;286;42;27;60.9;Matches
+404;Taylor Richards;engENG;MF;Brighton;20;2000;0.3;0;0;0;1;1;0;0;0;0;0;0;0;3;1;0;100.0;Matches
+405;Richarlison;brBRA;FW;Everton;24;1997;28.0;9;0;0;36;68;21;38;12;23;1;0;0;114;66;155;29.9;Matches
+406;Jaïro Riedewald;nlNED;MF;Crystal Palace;24;1996;1.3;0;0;0;1;0;0;2;1;1;0;0;0;10;0;2;0.0;Matches
+407;Matt Ritchie;sctSCO;DF;Newcastle Utd;31;1989;14.9;5;0;0;13;9;0;104;13;15;0;0;0;70;14;17;45.2;Matches
+408;Connor Roberts;wlsWAL;DF;Burnley;25;1995;18.8;2;0;0;7;29;1;29;22;13;0;0;0;82;13;17;43.3;Matches
+409;Tyler Roberts;wlsWAL;MF,FW;Leeds United;22;1999;11.0;5;0;0;14;20;3;14;5;7;0;0;0;47;8;23;25.8;Matches
+410;Andrew Robertson;sctSCO;DF;Liverpool;27;1994;28.2;5;1;0;19;9;4;195;23;21;0;0;0;180;26;14;65.0;Matches
+411;Joe Rodon;wlsWAL;DF;Tottenham;23;1997;1.0;0;0;0;0;1;0;0;0;0;0;0;0;3;2;2;50.0;Matches
+412;Rodri;esESP;MF;Manchester City;25;1996;32.0;5;0;0;43;20;0;9;28;43;0;0;0;292;85;33;72.0;Matches
+413;Rodrigo;esESP;MF,FW;Leeds United;30;1991;25.2;9;0;0;21;30;4;29;11;9;0;0;0;103;17;48;26.2;Matches
+414;Jay Rodriguez;engENG;FW;Burnley;32;1989;15.4;3;0;0;31;16;17;7;4;12;0;0;0;37;55;67;45.1;Matches
+415;Mads Roerslev;dkDEN;DF;Brentford;22;1999;13.8;1;0;0;18;8;2;35;16;12;0;1;0;54;12;25;32.4;Matches
+416;Cristian Romero;arARG;DF;Tottenham;23;1998;20.5;8;0;0;28;15;2;0;33;39;0;1;0;148;43;30;58.9;Matches
+417;Oriol Romeu;esESP;MF;Southampton;29;1991;32.1;9;0;0;46;24;0;13;51;39;0;0;0;259;67;47;58.8;Matches
+418;Cristiano Ronaldo;ptPOR;FW;Manchester Utd;36;1985;27.3;8;0;0;16;18;33;15;2;6;2;0;0;52;42;68;38.2;Matches
+419;Salomón Rondón;veVEN;FW;Everton;31;1989;8.8;3;1;0;12;4;5;6;0;1;0;0;0;20;38;56;40.4;Matches
+420;Danny Rose;engENG;DF;Watford;31;1990;7.7;4;0;0;10;14;1;24;14;10;0;1;0;41;4;7;36.4;Matches
+421;Jon Rowe;engENG;FW,MF;Norwich City;18;2003;2.5;0;0;0;3;7;1;4;3;2;0;0;0;13;1;8;11.1;Matches
+422;John Ruddy;engENG;GK;Wolves;34;1986;1.5;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;100.0;Matches
+423;Antonio Rüdiger;deGER;DF;Chelsea;28;1993;33.7;9;0;0;35;12;0;15;28;28;2;0;0;183;56;20;73.7;Matches
+424;Lukas Rupp;deGER;MF;Norwich City;30;1991;8.5;0;0;0;7;8;0;3;9;4;0;0;0;55;5;10;33.3;Matches
+425;José Sá;ptPOR;GK;Wolves;28;1993;36.5;3;0;0;3;12;0;0;2;1;0;3;1;57;12;0;100.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+426;Allan Saint-Maximin;frFRA;FW,MF;Newcastle Utd;24;1997;31.2;6;0;0;22;48;13;60;11;8;0;0;0;110;18;18;50.0;Matches
+427;Romain Saïss;maMAR;DF;Wolves;31;1990;30.1;6;0;0;30;15;3;9;58;27;0;2;0;157;72;50;59.0;Matches
+428;Bukayo Saka;engENG;FW,MF;Arsenal;19;2001;33.1;6;0;0;39;59;17;110;22;21;2;0;0;141;23;43;34.8;Matches
+429;Mohamed Salah;egEGY;FW;Liverpool;29;1992;30.7;1;0;0;12;23;12;41;6;8;2;0;0;86;7;33;17.5;Matches
+430;Mohammed Salisu;ghGHA;DF;Southampton;22;1999;33.0;10;1;1;38;7;2;13;78;47;0;1;1;244;101;60;62.7;Matches
+431;Albert Sambi Lokonga;beBEL;MF;Arsenal;21;1999;12.6;5;0;0;12;15;0;2;13;18;0;0;0;72;15;20;42.9;Matches
+432;Davinson Sánchez;coCOL;DF;Tottenham;25;1996;18.1;4;0;0;16;11;1;2;30;22;0;0;0;103;45;36;55.6;Matches
+433;Robert Sánchez;esESP;GK;Brighton;23;1997;37.0;3;1;0;1;2;0;0;0;1;0;0;0;61;17;0;100.0;Matches
+434;Jadon Sancho;engENG;FW,MF;Manchester Utd;21;2000;21.1;0;0;0;4;7;7;28;15;8;0;0;0;112;2;11;15.4;Matches
+435;Morgan Sanson;frFRA;MF;Aston Villa;26;1994;4.0;0;0;0;3;13;0;8;10;8;0;0;0;33;3;6;33.3;Matches
+436;Samir Santos;brBRA;DF;Watford;26;1994;18.6;4;0;0;17;16;0;0;43;11;0;0;0;103;47;34;58.0;Matches
+437;Josh Sargent;usUSA;FW,MF;Norwich City;21;2000;17.5;1;0;0;9;23;4;11;11;14;0;0;0;70;40;48;45.5;Matches
+438;Jeremy Sarmiento;ecECU;FW,MF;Brighton;19;2002;0.5;0;0;0;0;2;0;0;0;1;0;0;0;3;1;2;33.3;Matches
+439;Ismaila Sarr;snSEN;FW,MF;Watford;23;1998;20.7;2;0;0;17;47;12;61;9;7;0;0;0;88;10;17;37.0;Matches
+440;Malang Sarr;frFRA;DF;Chelsea;22;1999;6.1;2;0;0;8;1;0;4;11;7;0;0;0;36;13;7;65.0;Matches
+441;Dane Scarlett;engENG;MF;Tottenham;17;2004;0.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+442;Fabian Schär;chSUI;DF;Newcastle Utd;29;1991;24.0;4;0;0;24;11;3;7;32;11;0;0;0;131;45;42;51.7;Matches
+443;Jeffrey Schlupp;ghGHA;MF,FW;Crystal Palace;28;1992;20.6;1;0;0;26;22;0;20;18;25;1;0;0;115;31;39;44.3;Matches
+444;Kasper Schmeichel;dkDEN;GK;Leicester City;34;1986;37.0;2;0;0;0;2;0;0;1;0;0;0;0;45;9;4;69.2;Matches
+445;Ken Sema;seSWE;MF,FW;Watford;27;1993;9.5;1;0;0;15;7;0;31;5;6;0;0;0;53;12;23;34.3;Matches
+446;Nélson Semedo;ptPOR;MF,DF;Wolves;27;1993;23.7;1;0;0;23;24;4;32;21;39;0;1;0;155;15;27;35.7;Matches
+447;Ryan Sessegnon;engENG;DF,MF;Tottenham;21;2000;11.6;2;0;0;19;7;5;38;7;19;0;0;0;40;11;15;42.3;Matches
+448;Jamie Shackleton;engENG;DF,MF;Leeds United;21;1999;7.9;4;0;0;13;6;0;4;8;16;0;0;0;50;5;15;25.0;Matches
+449;Luke Shaw;engENG;DF;Manchester Utd;26;1995;17.8;8;0;0;32;16;3;109;9;13;0;1;0;95;20;15;57.1;Matches
+450;Jonjo Shelvey;engENG;MF;Newcastle Utd;29;1992;22.0;7;1;1;18;8;0;43;22;17;0;0;0;160;10;10;50.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+451;Shola Shoretire;engENG;MF;Manchester Utd;17;2004;0.2;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;;Matches
+452;Francisco Sierralta;clCHI;DF;Watford;24;1997;4.7;0;0;0;4;3;0;0;6;3;0;0;1;17;15;1;93.8;Matches
+453;Bernardo Silva;ptPOR;MF,FW;Manchester City;26;1994;31.7;6;0;0;30;33;9;58;20;29;1;0;0;156;7;15;31.8;Matches
+454;Fábio Silva;ptPOR;FW;Wolves;19;2002;6.4;0;0;0;13;7;4;2;1;2;0;0;0;18;9;27;25.0;Matches
+455;Thiago Silva;brBRA;DF;Chelsea;36;1984;29.4;2;0;0;12;12;1;2;44;21;1;0;0;214;56;31;64.4;Matches
+456;Ellis Simms;engENG;FW;Everton;20;2001;0.7;0;0;0;0;0;0;0;0;0;0;0;0;1;2;4;33.3;Matches
+457;Moussa Sissoko;frFRA;MF;Watford;31;1989;35.8;5;0;0;35;11;2;26;30;27;0;0;0;241;64;52;55.2;Matches
+458;Oliver Skipp;engENG;MF;Tottenham;20;2000;15.0;6;0;0;16;16;1;6;12;19;0;0;0;77;12;10;54.5;Matches
+459;William Smallbone;ieIRL;MF,FW;Southampton;21;2000;1.5;0;0;0;2;1;0;4;2;4;0;0;0;12;1;3;25.0;Matches
+460;Emile Smith Rowe;engENG;MF,FW;Arsenal;21;2000;21.3;1;0;0;5;21;2;45;15;7;0;0;0;105;7;18;28.0;Matches
+461;Cédric Soares;ptPOR;DF;Arsenal;29;1991;16.5;3;0;0;15;6;3;100;16;26;0;1;0;79;12;27;30.8;Matches
+462;Tomáš Souček;czCZE;MF;West Ham;26;1995;34.0;3;0;0;39;18;4;13;52;32;0;0;0;176;133;141;48.5;Matches
+463;Boubakary Soumaré;frFRA;MF;Leicester City;22;1999;12.2;0;0;0;16;17;0;4;14;13;0;0;0;62;27;11;71.1;Matches
+464;Çağlar Söyüncü;trTUR;DF;Leicester City;25;1996;27.7;5;0;0;24;14;1;5;32;30;0;2;0;164;92;48;65.7;Matches
+465;Tony Springett;engENG;MF,FW;Norwich City;18;2002;1.6;1;0;0;1;4;0;2;0;1;0;0;0;6;1;6;14.3;Matches
+466;Jason Steele;engENG;GK;Brighton;30;1990;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;100.0;Matches
+467;Jed Steer;engENG;GK;Aston Villa;28;1992;1.0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;;Matches
+468;Zack Steffen;usUSA;GK;Manchester City;26;1995;1.0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;;Matches
+469;Dale Stephens;engENG;MF;Burnley;32;1989;1.4;1;0;0;5;0;0;0;1;1;0;0;0;7;0;2;0.0;Matches
+470;Jack Stephens;engENG;DF;Southampton;27;1994;9.0;3;0;0;8;2;0;0;19;12;0;0;0;68;13;12;52.0;Matches
+471;Raheem Sterling;engENG;FW;Manchester City;26;1994;23.6;1;0;0;19;37;10;50;12;10;2;0;0;86;4;18;18.2;Matches
+472;Finley Stevens;wlsWAL;DF;Brentford;18;2003;0.2;0;0;0;0;0;0;1;0;1;0;0;0;0;1;0;100.0;Matches
+473;John Stones;engENG;DF;Manchester City;27;1994;12.4;0;0;0;3;6;0;3;11;3;0;0;0;52;47;10;82.5;Matches
+474;Pascal Struijk;nlNED;DF,MF;Leeds United;21;1999;22.8;6;1;0;25;8;1;0;33;39;0;0;0;161;40;39;50.6;Matches
+475;Crysencio Summerville;nlNED;MF,FW;Leeds United;19;2001;1.4;0;0;0;1;1;0;3;2;3;0;0;0;11;0;6;0.0;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+476;Jakob Sørensen;dkDEN;MF,DF;Norwich City;23;1998;6.7;0;0;0;7;1;0;2;10;11;0;1;0;48;11;9;55.0;Matches
+477;Japhet Tanganga;engENG;DF;Tottenham;22;1999;8.2;4;1;1;19;8;1;11;9;8;0;0;0;24;15;9;62.5;Matches
+478;Matt Targett;engENG;DF;Aston Villa;25;1995;15.9;2;0;0;15;11;0;59;23;18;0;1;1;73;32;14;69.6;Matches
+479;Matt Targett;engENG;DF;Newcastle Utd;25;1995;16.0;1;0;0;9;12;1;76;25;26;0;0;0;72;19;12;61.3;Matches
+480;James Tarkowski;engENG;DF;Burnley;28;1992;34.5;11;0;0;30;19;2;1;48;45;0;0;1;171;153;62;71.2;Matches
+481;Nuno Tavares;ptPOR;DF;Arsenal;21;2000;13.1;2;0;0;23;13;1;40;9;14;0;1;0;68;23;22;51.1;Matches
+482;Charlie Taylor;engENG;DF;Burnley;27;1993;30.3;3;0;0;17;43;0;104;58;26;0;0;0;183;58;30;65.9;Matches
+483;Nathan Tella;engENG;MF,FW;Southampton;22;1999;8.9;2;0;0;17;22;3;12;6;9;0;0;0;54;6;18;25.0;Matches
+484;Alex Telles;brBRA;DF;Manchester Utd;28;1992;18.4;1;0;0;23;9;1;127;26;27;0;2;0;99;30;24;55.6;Matches
+485;Luke Thomas;engENG;DF;Leicester City;20;2001;21.2;2;0;0;15;16;0;33;40;31;0;0;0;97;24;32;42.9;Matches
+486;Dominic Thompson;engENG;DF;Brentford;21;2000;1.6;0;0;0;1;0;0;2;2;0;0;0;0;5;1;2;33.3;Matches
+487;Youri Tielemans;beBEL;MF;Leicester City;24;1997;29.2;3;0;0;32;36;0;56;21;38;0;4;0;188;24;19;55.8;Matches
+488;Kieran Tierney;sctSCO;DF;Arsenal;24;1997;21.3;0;0;0;5;16;1;79;15;14;0;0;0;85;12;23;34.3;Matches
+489;Takehiro Tomiyasu;jpJPN;DF;Arsenal;22;1998;18.7;2;0;0;16;13;0;31;24;17;0;0;0;89;48;39;55.2;Matches
+490;James Tomkins;engENG;DF;Crystal Palace;32;1989;6.1;2;0;0;7;2;0;0;4;3;0;0;0;33;10;5;66.7;Matches
+491;Ivan Toney;engENG;FW;Brentford;25;1996;32.3;8;0;0;50;80;25;28;14;21;3;0;0;105;147;114;56.3;Matches
+492;Ferrán Torres;esESP;FW;Manchester City;21;2000;3.4;0;0;0;1;1;1;4;0;2;0;0;0;6;4;1;80.0;Matches
+493;Cenk Tosun;trTUR;MF;Everton;30;1991;0.1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0.0;Matches
+494;Andros Townsend;engENG;MF,FW;Everton;30;1991;16.2;3;0;0;10;39;1;96;14;17;0;1;0;80;7;18;28.0;Matches
+495;Adama Traoré;esESP;FW,MF;Wolves;25;1996;11.9;0;0;0;10;26;9;39;2;3;0;0;0;49;15;16;48.4;Matches
+496;Bertrand Traoré;bfBFA;MF,FW;Aston Villa;25;1995;2.4;0;0;0;0;4;2;5;0;3;1;0;0;11;4;4;50.0;Matches
+497;Trézéguet;egEGY;FW;Aston Villa;26;1994;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;;Matches
+498;Francisco Trincão;ptPOR;FW,MF;Wolves;21;1999;14.8;0;0;0;13;22;1;33;12;15;0;0;0;73;6;16;27.3;Matches
+499;Kieran Trippier;engENG;DF;Newcastle Utd;30;1990;4.8;0;0;0;3;3;0;28;10;10;0;0;0;31;10;5;66.7;Matches
+500;William Troost-Ekong;ngNGA;DF;Watford;27;1993;15.4;3;0;0;13;2;1;0;7;9;0;1;0;74;24;23;51.1;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+501;Leandro Trossard;beBEL;FW,MF;Brighton;26;1994;31.2;2;0;0;24;26;13;51;15;20;1;1;0;142;9;20;31.0;Matches
+502;Kostas Tsimikas;grGRE;DF;Liverpool;25;1996;9.7;3;0;0;20;6;0;116;10;12;0;0;0;62;12;11;52.2;Matches
+503;Axel Tuanzebe;engENG;DF;Aston Villa;23;1997;5.6;1;0;0;3;3;0;1;5;3;0;0;0;29;13;12;52.0;Matches
+504;Ozan Tufan;trTUR;MF;Watford;26;1995;3.7;0;0;0;9;0;0;7;2;2;0;0;0;13;3;9;25.0;Matches
+505;Christos Tzolis;grGRE;FW,MF;Norwich City;19;2002;3.7;0;0;0;2;4;2;7;1;3;0;0;0;13;3;11;21.4;Matches
+506;Yan Valery;tnTUN;DF;Southampton;22;1999;4.1;0;0;0;3;3;0;4;6;6;0;0;0;27;11;9;55.0;Matches
+507;Virgil van Dijk;nlNED;DF;Liverpool;30;1991;34.0;3;0;0;9;8;0;0;31;10;0;0;0;204;117;34;77.5;Matches
+508;Raphaël Varane;frFRA;DF;Manchester Utd;28;1993;20.3;0;0;0;5;7;0;1;18;19;0;0;0;78;55;20;73.3;Matches
+509;Jamie Vardy;engENG;FW;Leicester City;34;1987;20.1;2;0;0;13;12;19;12;1;5;0;0;1;25;24;50;32.4;Matches
+510;Joël Veltman;nlNED;DF;Brighton;29;1992;31.9;6;0;0;39;38;0;42;45;48;1;1;0;182;55;29;65.5;Matches
+511;Jannik Vestergaard;dkDEN;DF;Leicester City;28;1992;6.3;2;0;0;4;1;0;0;7;10;0;1;0;32;13;10;56.5;Matches
+512;Nikola Vlašić;hrCRO;FW,MF;West Ham;23;1997;6.2;0;0;0;8;16;3;15;2;7;0;0;0;30;5;7;41.7;Matches
+513;Matěj Vydra;czCZE;FW;Burnley;29;1992;7.5;1;0;0;9;8;5;2;0;7;0;0;0;14;18;50;26.5;Matches
+514;Theo Walcott;engENG;MF,FW;Southampton;32;1989;4.2;0;0;0;1;6;2;5;5;2;0;0;0;12;4;4;50.0;Matches
+515;Kyle Walker;engENG;DF;Manchester City;31;1990;19.5;1;0;0;7;12;1;35;14;6;0;0;0;104;19;16;54.3;Matches
+516;Kyle Walker-Peters;engENG;DF;Southampton;24;1997;29.3;5;0;0;27;47;3;50;37;33;0;0;0;187;27;28;49.1;Matches
+517;Aaron Wan-Bissaka;engENG;DF;Manchester Utd;23;1997;19.9;2;0;0;15;13;1;35;34;36;0;1;0;126;19;32;37.3;Matches
+518;Danny Ward;wlsWAL;GK;Leicester City;28;1993;1.0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;;Matches
+519;Joel Ward;engENG;DF;Crystal Palace;31;1989;27.6;8;0;0;22;21;1;43;32;26;0;0;0;140;58;39;59.8;Matches
+520;James Ward-Prowse;engENG;MF;Southampton;26;1994;35.7;3;1;0;22;15;0;302;40;24;0;0;0;259;27;34;44.3;Matches
+521;Ollie Watkins;engENG;FW;Aston Villa;25;1995;32.8;7;0;0;33;39;16;15;12;13;1;0;0;66;65;95;40.6;Matches
+522;Adam Webster;engENG;DF;Brighton;26;1995;15.9;5;0;0;16;4;0;6;17;8;0;0;0;89;56;15;78.9;Matches
+523;Wout Weghorst;nlNED;FW;Burnley;28;1992;16.1;3;0;0;30;18;9;4;6;9;0;0;0;65;55;79;41.0;Matches
+524;Danny Welbeck;engENG;FW,MF;Brighton;30;1990;16.4;0;0;0;17;13;4;1;5;7;1;0;0;29;47;51;48.0;Matches
+525;Timo Werner;deGER;FW,MF;Chelsea;25;1996;14.3;1;0;0;11;12;11;23;2;4;0;0;0;37;6;16;27.3;Matches
+Rk;Player;Nation;Pos;Squad;Age;Born;90s;CrdY;CrdR;2CrdY;Fls;Fld;Off;Crs;Int;TklW;PKwon;PKcon;OG;Recov;Won;Lost;Won%;Matches
+526;Ashley Westwood;engENG;MF;Burnley;31;1990;25.4;7;0;0;29;22;0;122;30;12;0;1;0;174;9;13;40.9;Matches
+527;Ben White;engENG;DF;Arsenal;23;1997;32.0;3;0;0;19;27;0;0;42;23;0;1;1;158;60;40;60.0;Matches
+528;Brandon Williams;engENG;DF;Norwich City;20;2000;23.6;8;0;0;23;44;0;14;44;37;0;0;0;158;14;17;45.2;Matches
+529;Neco Williams;wlsWAL;DF;Liverpool;20;2001;0.1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0.0;Matches
+530;Joe Willock;engENG;MF;Newcastle Utd;21;1999;22.6;0;0;0;34;26;0;16;21;37;0;0;0;121;16;24;40.0;Matches
+531;Callum Wilson;engENG;FW;Newcastle Utd;29;1992;15.4;4;0;0;27;22;17;3;3;8;0;0;0;28;29;50;36.7;Matches
+532;Harry Winks;engENG;MF;Tottenham;25;1996;10.1;2;0;0;11;13;0;26;16;10;0;0;0;47;4;4;50.0;Matches
+533;Yoane Wissa;cdCOD;FW;Brentford;24;1996;14.3;0;0;0;8;22;7;11;8;6;0;0;0;58;20;31;39.2;Matches
+534;Chris Wood;nzNZL;FW;Burnley;29;1991;15.2;1;0;0;14;7;16;5;0;5;0;0;0;23;92;91;50.3;Matches
+535;Chris Wood;nzNZL;FW;Newcastle Utd;29;1991;14.7;0;0;0;19;10;10;2;2;0;1;0;0;23;112;100;52.8;Matches
+536;Freddie Woodman;engENG;GK;Newcastle Utd;24;1997;4.0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;;Matches
+537;Granit Xhaka;chSUI;MF,DF;Arsenal;28;1992;25.9;10;1;0;29;19;2;25;21;18;0;1;0;146;27;29;48.2;Matches
+538;Andriy Yarmolenko;uaUKR;FW,MF;West Ham;31;1989;3.5;1;0;0;1;4;3;8;0;2;0;0;0;5;5;8;38.5;Matches
+539;Ashley Young;engENG;DF,FW;Aston Villa;36;1985;13.9;2;0;0;16;32;1;44;13;6;0;0;1;66;6;15;28.6;Matches
+540;Nathan Young-Coombes;engENG;MF;Brentford;18;2003;0.0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;;Matches
+541;Wilfried Zaha;ciCIV;FW;Crystal Palace;28;1992;30.7;6;1;1;37;101;24;48;5;20;1;0;0;166;12;35;25.5;Matches
+542;Christoph Zimmermann;deGER;DF;Norwich City;28;1993;1.7;0;0;0;1;2;0;0;1;3;0;0;0;11;2;0;100.0;Matches
+543;Oleksandr Zinchenko;uaUKR;DF;Manchester City;24;1996;11.6;0;0;0;11;2;1;31;14;14;0;0;0;65;15;16;48.4;Matches
+544;Hakim Ziyech;maMAR;MF,FW;Chelsea;28;1993;14.7;3;0;0;24;29;5;101;10;10;0;0;0;87;12;14;46.2;Matches
+545;Kurt Zouma;frFRA;DF;West Ham;26;1994;23.1;1;0;0;11;6;0;1;34;6;0;0;1;92;50;31;61.7;Matches
+546;Martin Ødegaard;noNOR;MF,FW;Arsenal;22;1998;30.9;4;0;0;27;20;3;59;11;21;0;2;0;162;14;23;37.8;Matches
