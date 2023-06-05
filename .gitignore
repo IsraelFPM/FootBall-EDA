@@ -1,3 +1,2 @@
-Jogadores.txt
-Jogadores.csv
-BRA.csv
+# All text files
+*.txt
