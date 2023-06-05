@@ -1,3 +1,0 @@
-Jogadores.txt
-Jogadores.csv
-BRA.csv
